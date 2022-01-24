@@ -1,0 +1,34 @@
+{
+  "industries": [
+    {
+      "p1": "Industries",
+      "p2": "Duis aute irure dolor in reprehenderit in voluptate velit."
+    }
+  ],
+  "bitcoin": [
+    {
+      "p1": "Bitcoin NU",
+      "p2": "Elit sed vulputate mi sit amet mauris commodo. Quis risus sed vulputate odio ut enim blandit volutpat maecenas Integer eget aliquet nibh praesent. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus",
+      "p3": "Tellus molestie nunc non blandit massa enim nec. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat, Libero id faucibus nist tincidunt Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Cursus risus at ultrices mi tempus imperdiet",
+      "p4": "Risus nec feugiat in fermentum Habitant morbi tristique senectus et netus et malesuada fames. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Egestas sed sed risus pretium quam vulputate dignissim suspendisse Faucibus omare suspendisse sed niss"
+    }
+  ],
+  "nucoin": [
+    {
+      "p1": "Nucoin",
+      "p2": "Elit sed vulputate mi sit amet mauris commodo. Quis risus sed vulputate odio ut enim blandit volutpat maecenas Integer eget aliquet nibh praesent. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus",
+      "p3": "Tellus molestie nunc non blandit massa enim nec. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat, Libero id faucibus nist tincidunt Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Cursus risus at ultrices mi tempus imperdiet",
+      "p4": "Risus nec feugiat in fermentum Habitant morbi tristique senectus et netus et malesuada fames. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Egestas sed sed risus pretium quam vulputate dignissim suspendisse Faucibus omare suspendisse sed niss"
+    }
+  ],
+  "ledgerx":
+  [
+    {
+      "p1": "Ledgerx",
+      "p2": "Elit sed vulputate mi sit amet mauris commodo. Quis risus sed vulputate odio ut enim blandit volutpat maecenas Integer eget aliquet nibh praesent. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus",
+      "p3": "Tellus molestie nunc non blandit massa enim nec. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat, Libero id faucibus nist tincidunt Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Cursus risus at ultrices mi tempus imperdiet",
+      "p4": "Risus nec feugiat in fermentum Habitant morbi tristique senectus et netus et malesuada fames. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Egestas sed sed risus pretium quam vulputate dignissim suspendisse Faucibus omare suspendisse sed niss"
+
+    }
+  ]
+}

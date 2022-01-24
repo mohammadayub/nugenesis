@@ -1,0 +1,28 @@
+{
+  "contact-us": [
+    {
+      "p1": "Contact Us",
+      "p2": "Want the service of the NUGenesis team?",
+      "p3": "We work with a small number of select teams. If you are interested in discussing working together,please tell us about yourself, your use case, and what you're looking for.",
+      "p4": "Email",
+      "p5": "What's your name",
+      "p6": "What's the name of your company/organization?",
+      "p7": "What's your title/designation",
+      "p8": "Briefly describe your blockchain use case. Feel free to share links to your website or Github",
+      "p9": "Tell us a bit about your team, its size, and what it does.",
+      "p10": "What are you looking for?",
+      "p11": "Submit"
+
+    }
+  ],
+  "address-info": [
+    {
+      "p1": "Contact #",
+      "p2": "9/A-1 Pratapgunj Opp. C. S. Patel Enclaves Vadodara, Gujarat – 390002, India",
+      "p3": "(+91) 999 8526878",
+      "p4": "admin@nucoin.com.au"
+
+    }
+  ]
+
+}
