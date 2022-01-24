@@ -10,25 +10,25 @@
 				<div class="row">
 					<div class="pt-5 col-lg-7">
 						<h1 class="mb-4 hero-text">
-                       {{--         {{ __('index.p1') }}  --}}
+                            {{__("home_page_hero")['h1']}}
 						</h1>
 						<h6 class="mb-5 hero-secondary-text text-secondary">
 						<p>
-							Welcome to the NuGenesis platform: the multi-chain interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit.
+							{{__("home_page_hero")['p1']}}
 						</p>
 						<p>
-							Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.
+							{{__("home_page_hero")['p2']}}
 						</p>
 						<p>
-							With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.
+							{{__("home_page_hero")['p3']}}
 						</p>
 						<p>
-							NuGenesis did not have an ICO. It funded a complete operational blockchain system itself before NuCoin became available to the public from 23 December 2021. NuGenesis has been working on enterprise and government solutions, particularly for countries seeking to implement (Central Bank Digital Currencies) CBDCs and infrastructure instruments. Accordingly NuGenesis re-engineered blockchain from inception. A “new” Genesis. New, not only in different and fresh thinking, but “NU” as in N.U. – non-usury.
+							{{__("home_page_hero")['p4']}}
 						</p>
 						</h6>
 
-						<a href="projects.html" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
-							<small>View Projects</small>
+						<a href="projects" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
+							<small>{{__("home_page_hero")['small']}}</small>
 						</a>
 					</div>
 					<div class="col-lg-5 position-relative">
@@ -48,7 +48,7 @@
 			<div class="mb-4 row w-100">
 				<div class="col-12 text-center">
 					<h4 class="mb-3">
-						<b>About NuGenesis</b>
+						{{__("about")['h4']}}
 					</h4>
 				</div>
 			</div>
@@ -57,16 +57,16 @@
 					<div class="col-lg-6 about-container pt-lg-5">
 						<div class="z-index-2 position-relative w-100">
 							<p class="text-secondary">
-								Welcome to the NuGenesis platform: the multi-chain interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit. (There are 4 Patents Pending on the key aspects of the platform).
+								{{__("about")['p1']}}
 							</p>
 							<p class="text-secondary">
-								Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.
+								{{__("about")['p2']}}
 							</p>
 							<p class="text-secondary mb-5">
-								With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.
+								{{__("about")['p3']}}
 							</p>
-							<a href="about-us.html" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
-								<small>Learn More</small>
+							<a href="about-us" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
+								<small>{{__("about")['small']}}</small>
 							</a>
 						</div>
 					</div>
@@ -111,10 +111,10 @@
 						<hr>
 					</div>
 					<h4 class="mb-3">
-						<b>Projects</b>
+						<b>{{__("projects")['h4']}}</b>
 					</h4>
 					<p class="text-secondary">
-						With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm. Learn more about our Projects.
+						{{__("projects")['p1']}}
 					</p>
 				</div>
 			</div>
@@ -125,10 +125,10 @@
 							<div class="py-4 card-body position-relative position-relative">
 								<img class="card-img-top w-100" src="./images/NuCoin.jpg" alt="Card image" height="180">
 								<h5 class="mt-5">
-									<b>The NuGenesis flagship: NU Coin</b>
+									{{__("projects")['h5']}}
 								</h5>
 								<p class="mb-4 text-secondary">
-									NuGenesis’ flagship blockchain, NU Coin, is a fully operational and is already at zero-carbon emission. It is way past the POW vs POS debate!
+									{{__("projects")['p2']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
 									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#the_nugenesis_flagship" style="width: 50px; height: 50px;">
@@ -143,10 +143,10 @@
 							<div class="py-4 card-body position-relative">
 								<img class="card-img-top w-100" src="./images/Troy-Gold-Backed.jpg" alt="Card image" height="180">
 								<h5 class="mt-5">
-									<b>TROY Gold-backed token denominated in major currencies</b>
+									<b>{{__("projects")['h5b']}}</b>
 								</h5>
 								<p class="mb-4 text-secondary">
-									A troy is a token to represent the fiat currency representation in physical gold. For example Troy USD (TUSD) Troy Euro (TEURO) Troy AUD (TAUD) etc. It functions similar to a stable coin and a remittance tool.
+									{{__("projects")['p3']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
 									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#troy_gold_backed_token" style="width: 50px; height: 50px;">
@@ -161,10 +161,10 @@
 							<div class="py-4 card-body position-relative">
 								<img class="card-img-top w-100" src="./images/JustSocial.jpg" alt="Card image" height="180">
 								<h5 class="mt-5">
-									<b>JUST SOCIAL</b>
+									<b>{{__("projects")['h5c']}}</b>
 								</h5>
 								<p class="mb-4 text-secondary">
-									The decentralised social media platform that empowers users to realise their value. JUST SOCIAL is designed to allow users to re-claim their value using the technology of blockchain.
+									{{__("projects")['p4']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
 									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#just_social" style="width: 50px; height: 50px;">
@@ -179,10 +179,10 @@
 							<div class="py-4 card-body position-relative">
 								<img class="card-img-top w-100" src="./images/Smart-Contract.jpg" alt="Card image" height="180">
 								<h5 class="mt-5">
-									<b>Next Generation SMART CONTRACT DIGITAL NOTRALISED CONTRACTS (DNC’S)</b>
+									<b>{{__("projects")['h5d']}}</b>
 								</h5>
 								<p class="mb-4 text-secondary">
-									The NuGenesis innovation to facilitate mass adoption by the mainstream economy is to go beyond existing limitations of smart contract protocols.
+									{{__("projects")['p5']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
 									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#dnc" style="width: 50px; height: 50px;">
@@ -197,10 +197,10 @@
 							<div class="py-4 card-body position-relative">
 								<img class="card-img-top w-100" src="./images/NFT-City-Exchange.jpg" alt="Card image" height="180">
 								<h5 class="mt-5">
-									<b>NFT City.Exchange - Interactive NFT™ Platform</b>
+									<b>{{__("projects")['h5e']}}</b>
 								</h5>
 								<p class="mb-4 text-secondary">
-									NuGenesis Layer 1 NFT Platform is totally gasless. It is designed to encourage innovation. To encourage the shift from the rather static NFTs that are currently in existence, to more interactive NFTs. NFTs that transcend art into gaming.
+									{{__("projects")['p6']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
 									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#nft_city" style="width: 50px; height: 50px;">
@@ -215,10 +215,10 @@
 							<div class="py-4 card-body position-relative">
 								<img class="card-img-top w-100" src="./images/LedgerX.jpg" alt="Card image" height="180">
 								<h5 class="mt-5">
-									<b>THE LEDGER X EXCHANGE BLOCKCHAINS</b>
+									<b>{{__("projects")['h5f']}}</b>
 								</h5>
 								<p class="mb-4 text-secondary">
-									Ledger X is fully fledged (fiat/crypto) exchange where prices are determined by the brutality of the open market. It was designed to be an important part of the NuGenesis ecosystem to ensure capital is to be allocated by the market rather than bond curves and technocratic formulae.
+									{{__("projects")['p7']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
 									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#ledgerx" style="width: 50px; height: 50px;">
@@ -239,8 +239,8 @@
 				</div>
 			</div>
 			<div class="w-100 mt-3">
-				<a href="projects.html" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
-					<small>View Projects</small>
+				<a href="projects" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
+					<small>{{__("projects")['small']}}</small>
 				</a>
 			</div>
 		</section>
@@ -391,7 +391,7 @@
 						<hr>
 					</div>
 					<h4 class="mb-3">
-						<b>Media</b>
+						<b>{{__("medias")['h4']}}</b>
 					</h4>
 				</div>
 			</div>
@@ -403,7 +403,7 @@
 								<div class="position-absolute rounded-circle d-flex justify-content-center align-items-center coin-logo bg-light">
 								</div>
 								<h5 class="mb-4">
-									<b>NuGenesis in Under 4 Minutes</b>
+									<b>{{__("medias")['h5']}}</b>
 								</h5>
 								<div class="d-flex justify-content-center">
 									<iframe
@@ -420,7 +420,7 @@
 								<div class="position-absolute rounded-circle d-flex justify-content-center align-items-center coin-logo bg-light">
 								</div>
 								<h5 class="mb-4">
-									<b>NuGenesis - The Unveiling</b>
+									<b>{{__("medias")['h5a']}}</b>
 								</h5>
 								<div class="d-flex justify-content-center">
 									<iframe
@@ -442,8 +442,8 @@
 				</div>
 			</div>
 			<div class="w-100 mt-3">
-				<a href="media.html" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
-					<small>Learn More</small>
+				<a href="media" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
+					<small>{{__("medias")['small']}}</small>
 				</a>
 			</div>
 		</section>
@@ -460,19 +460,19 @@
 						<hr>
 					</div>
 					<h4 class="mb-3">
-						<b>Community Participation</b>
+						<b>{{__("medias")['h4a']}}</b>
 					</h4>
 					<p>
-						<h5>Get involved and make your mark?</h5>
+						<h5>{{__("medias")['h5b']}}</h5>
 					</p>
 					<p>
-						<h5>Want to become a part of the NuGenesis community?</h5>
+						<h5>{{__("medias")['h5c']}}</h5>
 					</p>
 					<p>
-						<h5>Want to make a career, profession, or business in the new economy?</h5>
+						<h5>{{__("medias")['h5d']}}</h5>
 					</p>
 					<p>
-						<h5>Check out the opportunities in the NuGenesis ecosystem:</h5>
+						<h5>{{__("medias")['h5e']}}</h5>
 					</p>
 				</div>
 			</div>
@@ -604,11 +604,11 @@
 							</video>
 							<div class="d-flex flex-lg-row flex-column">
 								<div class="text-light bottom-text">
-									Unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented and virtual reality. The  backbone of the metaverse and metarealm.
+									{{__("medias")['p1']}}
 								</div>
 								<div class="d-flex align-items-center">
 									<button type="button" class="py-1 text-white btn bg-base-color btn-no-ring close-btn mt-lg-0 mt-2" data-dismiss="modal">
-										<small>Close</small>
+										<small>{{__("medias")['smalla']}}</small>
 									</button>
 								</div>
 							</div>

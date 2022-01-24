@@ -1,10 +1,10 @@
 @extends('layout')
-@section('content')	
+@section('content')
     <div id="media">
         <div class="mb-5 shadow" id="hero-container">
             <header id="header" class="custom-container container-xl position-relative">
 
-                {{View::make('header')}}
+                @include('nav')
             </header>
         </div>
 
@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h4 class="mb-3">
-                        <b>Media</b>
+                        <b>{{__("media")['h4']}}</b>
                     </h4>
                 </div>
             </div>
@@ -24,12 +24,12 @@
                     <div>
                         <div class="d-flex align-items-center flex-column flex-lg-row mb-4">
                             <h5>
-                                <b>NuGenesis in Under 4 Minutes</b>
+                                <b>{{__("media")['h5']}}</b>
                             </h5>
                         </div>
                         <div class="text-secondary">
                             <p>
-                                NuGenesis is the the most advanced blockchain eco-system. We'll help you understand our vision and mission in under 4 Minutes.
+                                {{__("media")['p1']}}
                             </p>
                         </div>
                     </div>
@@ -53,15 +53,15 @@
                     <div>
                         <div class="d-flex align-items-center flex-column flex-lg-row mb-4">
                             <h5>
-                                <b>NuGenesis - The Unveiling</b>
+                                <b>{{__("media")['h5a']}}</b>
                             </h5>
                         </div>
                         <div class="text-secondary">
                             <p>
-                                NuGenesis is finally here. Let us introduce to you the solutions available today, such as LedgerX, hardware, as well as the NuGenesis MetaRealm concept. In this unveiling, we'll also introduce our Team from around the world, including India and Dubai.
+                                {{__("media")['p2']}}
                             </p>
                             <p>
-                                We celebrate the evolution of mankind and show you more insights on the roadmap of Nugenesis technologies. In this unveiling, we dive deeper into the journey and purpose of NuGenesis. Learn about parralel processing capabilities with NuGenesis, allowing uncomparable transactions per second, AI and Security.
+                                {{__("media")['p3']}}
                             </p>
                         </div>
                     </div>

@@ -1,5 +1,5 @@
 @extends('layout')
-@section('content')	
+@section('content')
     <div class="mb-5 shadow" id="hero-container">
 		<header id="header" class="custom-container container-xl position-relative">
             @include('nav')
@@ -10,10 +10,10 @@
         <div class="row">
             <div class="col-12 text-center mb-5">
                 <h4 class="mb-3">
-                    <b>Industries</b>
+                    <b>{{__("industries")['h4']}}</b>
                 </h4>
                 <p class="text-secondary">
-                    Duis aute irure dolor in reprehenderit in voluptate velit.
+                    {{__("industries")['p1']}}
                 </p>
             </div>
         </div>
@@ -26,20 +26,20 @@
                     <div class="d-flex align-items-center flex-column flex-lg-row mb-4">
                         <img src="./images/bitcoin NU.png" alt="" width="80" height="80" class="mr-lg-3 mr-0">
                         <h5>
-                            <b>Bitcoin NU</b>
+                            <b>{{__("bitcoin")['h5']}}</b>
                         </h5>
                     </div>
                     <div class="text-secondary">
                         <p>
-                            Elit sed vulputate mi sit amet mauris commodo. Quis risus sed vulputate odio ut enim blandit volutpat maecenas Integer eget aliquet nibh praesent. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus
+                            {{__("bitcoin")['p1']}}
                         </p>
 
                         <p>
-                            Tellus molestie nunc non blandit massa enim nec. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat, Libero id faucibus nist tincidunt Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Cursus risus at ultrices mi tempus imperdiet
+                            {{__("bitcoin")['p2']}}
                         </p>
 
                         <p>
-                            Risus nec feugiat in fermentum Habitant morbi tristique senectus et netus et malesuada fames. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Egestas sed sed risus pretium quam vulputate dignissim suspendisse Faucibus omare suspendisse sed niss
+                            {{__("bitcoin")['p3']}}
                         </p>
                     </div>
                 </div>
@@ -60,20 +60,20 @@
                     <div class="d-flex align-items-center flex-column flex-lg-row mb-4">
                         <img src="./images/Nucoin.png" alt="" width="80" height="80" class="mr-lg-3 mr-0">
                         <h5>
-                            <b>Nucoin</b>
+                            <b>{{__("nucoin")['h5']}}</b>
                         </h5>
                     </div>
                     <div class="text-secondary">
                         <p>
-                            Elit sed vulputate mi sit amet mauris commodo. Quis risus sed vulputate odio ut enim blandit volutpat maecenas Integer eget aliquet nibh praesent. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus
+                            {{__("nucoin")['p1']}}
                         </p>
 
                         <p>
-                            Tellus molestie nunc non blandit massa enim nec. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat, Libero id faucibus nist tincidunt Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Cursus risus at ultrices mi tempus imperdiet
+                            T{{__("nucoin")['p2']}}
                         </p>
 
                         <p>
-                            Risus nec feugiat in fermentum Habitant morbi tristique senectus et netus et malesuada fames. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Egestas sed sed risus pretium quam vulputate dignissim suspendisse Faucibus omare suspendisse sed niss
+                            {{__("nucoin")['p3']}}
                         </p>
                     </div>
                 </div>
@@ -88,20 +88,20 @@
                     <div class="d-flex align-items-center flex-column flex-lg-row mb-4">
                         <img src="./images/Ledgerx.png" alt="" width="80" height="80" class="mr-lg-3 mr-0">
                         <h5>
-                            <b>Ledgerx</b>
+                            <b>{{__("ledgerx")['h5']}}</b>
                         </h5>
                     </div>
                     <div class="text-secondary">
                         <p>
-                            Elit sed vulputate mi sit amet mauris commodo. Quis risus sed vulputate odio ut enim blandit volutpat maecenas Integer eget aliquet nibh praesent. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus
+                            {{__("ledgerx")['p1']}}
                         </p>
 
                         <p>
-                            Tellus molestie nunc non blandit massa enim nec. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat, Libero id faucibus nist tincidunt Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Cursus risus at ultrices mi tempus imperdiet
+                            {{__("ledgerx")['p2']}}
                         </p>
 
                         <p>
-                            Risus nec feugiat in fermentum Habitant morbi tristique senectus et netus et malesuada fames. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Egestas sed sed risus pretium quam vulputate dignissim suspendisse Faucibus omare suspendisse sed niss
+                            {{__("ledgerx")['p3']}}
                         </p>
                     </div>
                 </div>

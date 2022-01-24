@@ -1,5 +1,5 @@
 @extends('layout')
-@section('content')	
+@section('content')
 	<div id="getting_involved">
 	    <div class="mb-5 position-relative navigation z-index-2">
 	        <header id="header" class="custom-container container-xl position-relative">
@@ -13,12 +13,13 @@
 	            <div class="row py-md-5 py-0">
 	                <div class="col-md-12 py-md-5 py-0 mt-5">
 	                    <h1 class="mb-4 hero-text text-white">
-	                        Make Your Mark within the <br>
-	                        NuGenesis Ecosystem
+	                        {{__("hero")['h1']}} <br>
+                            {{__("hero")['h1a']}}
+
 	                    </h1>
 	                    <h5 class="hero-sub-text">
-	                        Careers, Professions and Blockchain <br>
-	                        Businesses
+                            {{__("hero")['h5']}}  <br>
+	                        {{__("hero")['h5a']}}
 	                    </h5>
 	                </div>
 	            </div>
@@ -37,11 +38,10 @@
 	            <div class="row mb-5">
 	                <div class="col-lg-8 col-md-10 mx-auto text-center">
 	                    <h2 class="text-white header-text mb-3">
-	                        Want to join the NuGenesis Community?
+	                        {{__("hero")['h2']}}
 	                    </h2>
 	                    <h5 class="header-sub-text">
-	                        Blockchain technology is now becoming mainstream. The tsunamic effect of mass adoption will
-	                        change the way we do business, create, and exchange value, and organize our society.
+	                        {{__("hero")['h5b']}}
 	                    </h5>
 	                </div>
 	            </div>
@@ -51,29 +51,19 @@
 	                        <div class="blur-bg position-absolute z-index-1"></div>
 	                        <div class="card-body p-5 text-white z-index-2">
 	                            <p>
-	                                You can be part of this exponential phase of the information revolution and ride the
-	                                crest of the wave to an unprecedented change in wealth creation that cannot be compared
-	                                to and will dwarf the change to the world that we know as the Industrial Revolution.
+	                                {{__("hero")['p1']}}
 	                            </p>
 	                            <p>
-	                                Of all the blockchain ecosystems that you can research and contrast, you will agree
-	                                that NuGenesis is at the forefront. We have broken the barriers of scalability,
-	                                transactional speed, and interoperability. We are a system of multi-chains and parallel
-	                                processing, and with more users, the faster and more efficient the system becomes.
+                                    {{__("hero")['p2']}}
 	                            </p>
 	                            <p>
-	                                Unlike others, NuGenesis is fully functional and ready for onboarding projects and
-	                                listing crypto assets.
+                                    {{__("hero")['p3']}}
 	                            </p>
 	                            <p>
-	                                You have an opportunity to get on at the ground floor and take an active part in the
-	                                shaping of the NuGenesis ecosystem.
+	                                {{__("hero")['p4']}}
 	                            </p>
 	                            <p>
-	                                Most of the skills and qualifications for the new economy brought in by blockchain
-	                                technology have not even been invented yet. Anyone with enthusiasm, initiative, and
-	                                passion can become fully emersed in the blockchain world and use their existing talents
-	                                in numerous ways as well as acquiring others.
+                                    {{__("hero")['p5']}}
 	                            </p>
 	                        </div>
 	                    </div>
@@ -100,16 +90,14 @@
 	            <div class="row mb-5">
 	                <div class="col-lg-8 col-md-10 mx-auto text-center">
 	                    <h1 class="text-white header-text mb-3">
-	                        NuGenesis Programs
+                            {{__("programs")['h1']}}
 	                    </h1>
 	                    <h5 class="header-sub-text">
 	                        <p>
-	                            It is a unique moment in history. Blockchain technology is inevitable. The new economy will
-	                            render the current inefficiencies and inequalities obsolete. Where do you want to be? We
-	                            want you to tell your grandchildren about how you help to build the new digital world.
+	                            {{__("programs")['p1']}}
 	                        </p>
 	                        <p>
-	                            It starts right here.
+	                            {{__("programs")['p3']}}
 	                        </p>
 	                    </h5>
 	                </div>
@@ -123,31 +111,29 @@
 	                                    height="50">
 	                            </div>
 	                            <div class="header-sub-text text-center mb-3">
-	                                Ambassador Program
+	                                {{__("program-selection")['div']}}
 	                            </div>
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
 	                                        <a href="./documents/Ambassador Program/01 NuGENESIS Ambassador Program Brochure .docx"
-	                                            target="_blank" class="text-white">NuGENESIS Ambassador Program
-	                                            Brochure</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['a']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Ambassador Program/02 Ambassadorial Deed.docx"
-	                                            target="_blank" class="text-white">Ambassadorial Deed</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['aone']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Ambassador Program/03 Ambassadors Performance Plan.docx"
-	                                            target="_blank" class="text-white">Ambassadors Performance Plan</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Ambassador Program/General Terms and Conditions of Adoption Facilitators.docx"
-	                                            target="_blank" class="text-white">General Terms and Conditions of Adoption
-	                                            Facilitators</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Ambassador Program/online application form.docx"
-	                                            target="_blank" class="text-white">Online Application Form</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
 	                            </div>
@@ -162,30 +148,29 @@
 	                                    height="50">
 	                            </div>
 	                            <div class="header-sub-text text-center mb-3">
-	                                Diplomats Program
+	                                {{__("diplomats_program")['div']}}
 	                            </div>
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
 	                                        <a href="./documents/Diplomat's program/01 NuGENESIS Diplomats Program Brochure.docx"
-	                                            target="_blank" class="text-white">NuGENESIS Diplomats Program Brochure</a>
+	                                            target="_blank" class="text-white"> {{__("diplomats_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Diplomat's program/02 Diplomatic Deed.docx"
-	                                            target="_blank" class="text-white">Diplomatic Deed</a>
+	                                            target="_blank" class="text-white">{{__("diplomats_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Diplomat's program/03 Diplomats Performance Plan.docx"
-	                                            target="_blank" class="text-white">Diplomats Performance Plan</a>
+	                                            target="_blank" class="text-white">{{__("diplomats_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Diplomat's program/General Terms and Conditions of Adoption Facilitators.docx"
-	                                            target="_blank" class="text-white">General Terms and Conditions of Adoption
-	                                            Facilitators</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Diplomat's program/online application form.docx"
-	                                            target="_blank" class="text-white">Online Application Form</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
 	                            </div>
@@ -200,30 +185,29 @@
 	                                    height="50">
 	                            </div>
 	                            <div class="header-sub-text text-center mb-3">
-	                                Senators Program
+	                                {{__("senators_program")['div']}}
 	                            </div>
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
 	                                        <a href="./documents/PDF Senator Program Final/01 NuGENESIS Senator Program Brochure.pdf"
-	                                            target="_blank" class="text-white">NuGENESIS Senator Program Brochure</a>
+	                                            target="_blank" class="text-white">{{__("senators_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/PDF Senator Program Final/02 Senatorial Deed.pdf"
-	                                            target="_blank" class="text-white">Senatorial Deed</a>
+	                                            target="_blank" class="text-white">{{__("senators_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/PDF Senator Program Final/03 Senators Performance Plan.pdf"
-	                                            target="_blank" class="text-white">Senators Performance Plan</a>
+	                                            target="_blank" class="text-white">{{__("senators_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/PDF Senator Program Final/General Terms and Conditions of Adoption Facilitators.pdf"
-	                                            target="_blank" class="text-white">General Terms and Conditions of Adoption
-	                                            Facilitators</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/PDF Senator Program Final/online application form.pdf"
-	                                            target="_blank" class="text-white">Online Application Form</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
 	                            </div>
@@ -238,31 +222,29 @@
 	                                    height="50">
 	                            </div>
 	                            <div class="header-sub-text text-center mb-3">
-	                                Market Consuls Program
+	                                {{__("market_consuls_program")['div']}}
 	                            </div>
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
 	                                        <a href="./documents/Market Consuls Program/01 NuGENESIS Market Consuls Program Brochure.docx"
-	                                            target="_blank" class="text-white">NuGENESIS Market Consuls Program
-	                                            Brochure</a>
+	                                            target="_blank" class="text-white">{{__("market_consuls_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Market Consuls Program/02 Market Consul Deed.docx"
-	                                            target="_blank" class="text-white">Market Consul Deed</a>
+	                                            target="_blank" class="text-white">{{__("market_consuls_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Market Consuls Program/03 Market Consuls Performance Plan.docx"
-	                                            target="_blank" class="text-white">Market Consuls Performance Plan</a>
+	                                            target="_blank" class="text-white">{{__("market_consuls_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Market Consuls Program/General Terms and Conditions of Adoption Facilitators.docx"
-	                                            target="_blank" class="text-white">General Terms and Conditions of Adoption
-	                                            Facilitators</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Market Consuls Program/online application form.docx"
-	                                            target="_blank" class="text-white">Online Application Form</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
 	                            </div>
@@ -277,31 +259,29 @@
 	                                    height="50">
 	                            </div>
 	                            <div class="header-sub-text text-center mb-3">
-	                                Network Concordat Program
+	                                {{__("network_concordat_program")['div']}}
 	                            </div>
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
 	                                        <a href="./documents/Network Concordat program/01 NuGENESIS Network Concordat Program Brochure.docx"
-	                                            target="_blank" class="text-white">NuGENESIS Network Concordat Program
-	                                            Brochure</a>
+	                                            target="_blank" class="text-white">{{__("network_concordat_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Network Concordat program/02 Network Concordat Deed.docx"
-	                                            target="_blank" class="text-white">Network Concordat Deed</a>
+	                                            target="_blank" class="text-white">{{__("network_concordat_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Network Concordat program/03 Network Concordat Performance Plan.docx"
-	                                            target="_blank" class="text-white">Network Concordat Performance Plan</a>
+	                                            target="_blank" class="text-white">{{__("network_concordat_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Network Concordat program/General Terms and Conditions of Adoption Facilitators.docx"
-	                                            target="_blank" class="text-white">General Terms and Conditions of Adoption
-	                                            Facilitators</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
 	                                        <a href="./documents/Network Concordat program/online application form.docx"
-	                                            target="_blank" class="text-white">Online Application Form</a>
+	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
 	                            </div>
@@ -313,22 +293,19 @@
 	                        <div class="card-body py-4">
 	                            <ul class="pl-2">
 	                                <li class="mb-3">
-	                                    <a href="contact-us.html" class="header-sub-text">Do you have something that will
-	                                        blow our minds?</a>
+	                                    <a href="contact-us" class="header-sub-text">{{__("get_in_touch")['a']}}</a>
 	                                </li>
 	                                <li class="mb-3">
-	                                    <a href="contact-us.html" class="header-sub-text">Are you Tech Developer?</a>
+	                                    <a href="contact-us" class="header-sub-text">{{__("get_in_touch")['aone']}}</a>
 	                                </li>
 	                                <li class="mb-3">
-	                                    <a href="contact-us.html" class="header-sub-text">Want to join the Team?</a>
+	                                    <a href="contact-us" class="header-sub-text">{{__("get_in_touch")['atwo']}}</a>
 	                                </li>
 	                                <li class="mb-3">
-	                                    <a href="contact-us.html" class="header-sub-text">Introducing an existing or new
-	                                        blockchain project to the NuGenesis Ecosystem – as a parachain, para network or
-	                                        just wants to be supercharged?</a>
+	                                    <a href="contact-us" class="header-sub-text">{{__("get_in_touch")['athree']}}</a>
 	                                </li>
 	                                <li class="mb-3">
-	                                    <a href="contact-us.html" class="header-sub-text">Get in touch</a>
+	                                    <a href="contact-us" class="header-sub-text">{{__("get_in_touch")['afour']}}</a>
 	                                </li>
 	                            </ul>
 	                        </div>

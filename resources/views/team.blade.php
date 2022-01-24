@@ -1,5 +1,5 @@
 @extends('layout')
-@section('content')	
+@section('content')
     <div id="team">
         <div class="mb-5 shadow" id="hero-container">
             <header id="header" class="custom-container container-xl position-relative">
@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-12 text-center mb-5">
                     <h4 class="mb-3">
-                        <b>Team</b>
+                        <b>{{__("team")['h4']}}</b>
                     </h4>
                 </div>
             </div>
@@ -28,11 +28,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Luay Mohsen
+                                        {{__("team")['h5']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    CHIEF TECHNOLOGY OFFICER
+                                    {{__("team")['small']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -48,11 +48,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Hamza Yasin
+                                        {{__("team")['h5a']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    BLOCKCHAIN DEVELOPER
+                                    {{__("team")['smallone']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -71,11 +71,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Zain Ul Abedin
+                                        {{__("team")['h5b']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    BLOCKCHAIN DEVELOPER
+                                    {{__("team")['smalltwo']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -91,11 +91,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Raja Fayyaz
+                                        {{__("team")['h5c']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+                                    {{__("team")['smallthree']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -114,11 +114,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Mohamed Hassan
+                                        {{__("team")['h5d']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    MULTIFACETED TECHNICAL ENGINEER
+                                    {{__("team")['smallfour']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -134,11 +134,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Fahad Aziz
+                                        {{__("team")['h5e']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    FRONT-END DEVELOPER
+                                    {{__("team")['smallfive']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -157,11 +157,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Omer Iftikhar
+                                        {{__("team")['h5f']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    FRONT-END DEVELOPER
+                                    {{__("team")['smallsix']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -177,11 +177,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Ali Zaryab
+                                        {{__("team")['h5g']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    UI/UX FULL STACK DEVELOPER
+                                    {{__("team")['smallseven']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -200,11 +200,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Reza Motevallizadah
+                                        {{__("team")['h5h']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    CLOUD SOFTWARE ARCHITECTURE ENGINEER
+                                    {{__("team")['smalleight']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -220,11 +220,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Muhammad Hassan
+                                        {{__("team")['h5i']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    WEB/MOBILE & BLOCKCHAIN DEVELOPER
+                                    {{__("team")['smallnine']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -243,11 +243,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Abdullah Ahmed
+                                        {{__("team")['h5j']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    WEB & BLOCKCHAIN DEVELOPER
+                                    {{__("team")['smallten']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -263,11 +263,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Hussein Faraj
+                                        {{__("team")['h5k']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    CHIEF EXECUTIVE OFFICER
+                                    {{__("team")['smalleleven']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -286,11 +286,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Nivine khanafer
+                                        {{__("team")['h5l']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    EXECUTIVE ASSITANT
+                                    {{__("team")['smalltwelve']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -306,11 +306,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Ibrahim Hamidy
+                                        {{__("team")['h5m']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    ETHICS OFFICER
+                                    {{__("team")['smallthirteen']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -329,11 +329,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Imran Bhojani
+                                        {{__("team")['h5n']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    PROJECT MANAGER
+                                    {{__("team")['smallfourteen']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -349,11 +349,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Anthony Weinman
+                                        {{__("team")['h5o']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    INVESTOR, HR & OFFICE ADMINISTRATION
+                                    {{__("team")['smallfiveteen']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>
@@ -372,11 +372,11 @@
                             <div class="text-lg-left text-center w-100">
                                 <a href="javascript:void(0)" class="text-dark">
                                     <h5>
-                                        Kevin Bowen
+                                        {{__("team")['h5p']}}
                                     </h5>
                                 </a>
                                 <small class="text-secondary">
-                                    CHIEF MARKETING OFFICER
+                                    {{__("team")['smallsixteen']}}
                                 </small>
                                 <hr class="ml-lg-0">
                             </div>

@@ -1,5 +1,5 @@
 @extends('layout')
-@section('content')	
+@section('content')
 	<div class="mb-5 shadow" id="hero-container">
         <header id="header" class="custom-container container-xl position-relative">
 			@include('nav')
@@ -9,16 +9,15 @@
 		<div class="row">
 			<div class="col-lg-10 offset-lg-1 text-center mb-5">
 				<h4 class="mb-5">
-					<b>Contact Us</b>
+					<b>{{__("contact-us")['h4']}}</b>
 				</h4>
 				<h4 class="mb-4">
 					<b>
-						Want the service of the NUGenesis team?
+						{{__("contact-us")['h4a']}}
 					</b>
 				</h4>
 				<p class="text-secondary">
-					We work with a small number of select teams. If you are interested in discussing working together,
-					please tell us about yourself, your use case, and what you're looking for.
+					{{__("contact-us")['p1']}}
 				</p>
 			</div>
 		</div>
@@ -31,7 +30,7 @@
 					<div class="form-group">
 						<label for="exampleInputEmail1">
 							<b>
-								Email <span class="text-danger">*</span>
+								{{__("contact-us")['label']}} <span class="text-danger">*</span>
 							</b>
 						</label>
 						<input type="email"
@@ -43,7 +42,7 @@
 					<div class="form-group">
 						<label for="exampleInputEmail1">
 							<b>
-								What's your name <span class="text-danger">*</span>
+								{{__("contact-us")['labela']}} <span class="text-danger">*</span>
 							</b>
 						</label>
 						<input type="email"
@@ -57,7 +56,7 @@
 					<div class="form-group">
 						<label for="exampleInputEmail1">
 							<b>
-								What's the name of your company/organization? <span class="text-danger">*</span>
+								{{__("contact-us")['labelb']}} <span class="text-danger">*</span>
 							</b>
 						</label>
 						<input type="email"
@@ -69,7 +68,7 @@
 					<div class="form-group">
 						<label for="exampleInputEmail1">
 							<b>
-								What's your title/designation <span class="text-danger">*</span>
+								{{__("contact-us")['labelc']}} <span class="text-danger">*</span>
 							</b>
 						</label>
 						<input type="email"
@@ -83,8 +82,7 @@
 					<div class="form-group">
 						<label for="exampleInputEmail1">
 							<b>
-								Briefly describe your blockchain use case. Feel free to share links to your website or
-								Github <span class="text-danger">*</span>
+								{{__("contact-us")['labeld']}} <span class="text-danger">*</span>
 							</b>
 						</label>
 						<input type="email"
@@ -98,7 +96,7 @@
 					<div class="form-group">
 						<label for="exampleInputEmail1">
 							<b>
-								Tell us a bit about your team, its size, and what it does. <span
+								{{__("contact-us")['labele']}} <span
 									class="text-danger">*</span>
 							</b>
 						</label>
@@ -113,7 +111,7 @@
 					<div class="form-group">
 						<label for="exampleInputEmail1">
 							<b>
-								What are you looking for? <span class="text-danger">*</span>
+								{{__("contact-us")['labelf']}} <span class="text-danger">*</span>
 							</b>
 						</label>
 						<input type="email"
@@ -126,7 +124,7 @@
 				<div class="col-lg-10 offset-lg-1">
 					<button type="submit"
 						class="py-3 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
-						<small class="mr-2">Submit</small>
+						<small class="mr-2">{{__("contact-us")['small']}}</small>
 						<i class="text-white fa fa-send" aria-hidden="true"></i>
 					</button>
 				</div>
@@ -144,14 +142,14 @@
 				<div class="row mb-5">
 					<div class="mb-3 col-6 col-lg-3 mb-lg-0">
 						<h6 class="text-base-color mb-4">
-							Contact #
+							{{__("address-info")['h6']}}
 						</h6>
 						<div class="mb-3 d-flex">
 							<div class="mr-4 contact-logo">
 								<i class="fa fa-map-marker" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								9/A-1 Pratapgunj Opp. C. S. Patel Enclaves Vadodara, Gujarat – 390002, India
+								{{__("address-info")['p1']}}
 							</div>
 						</div>
 						<div class="mb-3 d-flex">
@@ -159,7 +157,7 @@
 								<i class="fa fa-phone" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								(+91) 999 8526878
+								{{__("address-info")['p2']}}
 							</div>
 						</div>
 						<div class="mb-3 d-flex">
@@ -167,20 +165,20 @@
 								<i class="fa fa-envelope" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								admin@nucoin.com.au
+								{{__("address-info")['p3']}}
 							</div>
 						</div>
 					</div>
 					<div class="mb-3 col-6 col-lg-3 mb-lg-0">
 						<h6 class="text-base-color mb-4">
-							Contact #
+							{{__("address-info")['h6']}}
 						</h6>
 						<div class="mb-3 d-flex">
 							<div class="mr-4 contact-logo">
 								<i class="fa fa-map-marker" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								9/A-1 Pratapgunj Opp. C. S. Patel Enclaves Vadodara, Gujarat – 390002, India
+								{{__("address-info")['p1']}}
 							</div>
 						</div>
 						<div class="mb-3 d-flex">
@@ -188,7 +186,7 @@
 								<i class="fa fa-phone" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								(+91) 999 8526878
+								{{__("address-info")['p2']}}
 							</div>
 						</div>
 						<div class="mb-3 d-flex">
@@ -196,20 +194,20 @@
 								<i class="fa fa-envelope" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								admin@nucoin.com.au
+								{{__("address-info")['p3']}}
 							</div>
 						</div>
 					</div>
 					<div class="mb-3 col-6 col-lg-3 mb-lg-0">
 						<h6 class="text-base-color mb-4">
-							Contact #
+							{{__("address-info")['h6']}}
 						</h6>
 						<div class="mb-3 d-flex">
 							<div class="mr-4 contact-logo">
 								<i class="fa fa-map-marker" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								9/A-1 Pratapgunj Opp. C. S. Patel Enclaves Vadodara, Gujarat – 390002, India
+								{{__("address-info")['p1']}}
 							</div>
 						</div>
 						<div class="mb-3 d-flex">
@@ -217,7 +215,7 @@
 								<i class="fa fa-phone" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								(+91) 999 8526878
+								{{__("address-info")['p2']}}
 							</div>
 						</div>
 						<div class="mb-3 d-flex">
@@ -225,20 +223,20 @@
 								<i class="fa fa-envelope" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								admin@nucoin.com.au
+								{{__("address-info")['p3']}}
 							</div>
 						</div>
 					</div>
 					<div class="mb-3 col-6 col-lg-3 mb-lg-0">
 						<h6 class="text-base-color mb-4">
-							Contact #
+							{{__("address-info")['h6']}}
 						</h6>
 						<div class="mb-3 d-flex">
 							<div class="mr-4 contact-logo">
 								<i class="fa fa-map-marker" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								9/A-1 Pratapgunj Opp. C. S. Patel Enclaves Vadodara, Gujarat – 390002, India
+								{{__("address-info")['p1']}}
 							</div>
 						</div>
 						<div class="mb-3 d-flex">
@@ -246,7 +244,7 @@
 								<i class="fa fa-phone" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								(+91) 999 8526878
+								{{__("address-info")['p2']}}
 							</div>
 						</div>
 						<div class="mb-3 d-flex">
@@ -254,7 +252,7 @@
 								<i class="fa fa-envelope" aria-hidden="true"></i>
 							</div>
 							<div class="contact-text">
-								admin@nucoin.com.au
+								{{__("address-info")['p3']}}
 							</div>
 						</div>
 					</div>

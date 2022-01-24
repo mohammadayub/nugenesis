@@ -6,7 +6,6 @@
                 @include('nav')
 			</header>
 		</div>
-
 		<section class="pt-5">
 			<div class="position-relative custom-container container-xl row">
 				<div class="container-bg-image position-absolute z-index-n1 rounded-lg"></div>
