@@ -34,7 +34,7 @@
 				<div class="row">
 					<div class="pt-5 col-lg-7">
 						<h1 class="mb-4 hero-text">
-					{{--	{{ __('hero')['p1'] }} --}}
+                       {{--         {{ __('index.p1') }}  --}}
 						</h1>
 						<h6 class="mb-5 hero-secondary-text text-secondary">
 						<p>
