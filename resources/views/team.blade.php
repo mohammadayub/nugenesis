@@ -22,7 +22,7 @@
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center justify-content-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-1.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-1.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -42,7 +42,7 @@
                 <div class="col-lg-6 pr-lg-5 pr-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-2.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-2.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -65,7 +65,7 @@
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-3.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-3.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -85,7 +85,7 @@
                 <div class="col-lg-6 pr-lg-5 pr-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-4.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-4.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -108,7 +108,7 @@
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-1.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-1.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -128,7 +128,7 @@
                 <div class="col-lg-6 pr-lg-5 pr-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-2.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-2.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -151,7 +151,7 @@
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-3.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-3.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -171,7 +171,7 @@
                 <div class="col-lg-6 pr-lg-5 pr-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-4.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-4.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -194,7 +194,7 @@
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-1.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-1.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -214,7 +214,7 @@
                 <div class="col-lg-6 pr-lg-5 pr-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-2.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-2.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -237,7 +237,7 @@
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-3.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-3.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -257,7 +257,7 @@
                 <div class="col-lg-6 pr-lg-5 pr-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-4.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-4.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -280,7 +280,7 @@
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-1.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-1.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -300,7 +300,7 @@
                 <div class="col-lg-6 pr-lg-5 pr-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-2.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-2.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -323,7 +323,7 @@
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-3.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-3.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -343,7 +343,7 @@
                 <div class="col-lg-6 pr-lg-5 pr-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-4.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-4.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">
@@ -366,7 +366,7 @@
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center mb-5">
                     <div class="row member">
                         <div class="col-lg-6 mb-3 mb-lg-0">
-                            <img src="./images/member-1.png" alt="" class="img-fluid w-100">
+                            <img src="../images/member-1.png" alt="" class="img-fluid w-100">
                         </div>
                         <div class="col-lg-6 d-flex align-items-center">
                             <div class="text-lg-left text-center w-100">

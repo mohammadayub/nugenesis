@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use Illuminate\Support\Facades\Config;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,12 +13,17 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::redirect('/','/en');
 
-Route::get('/', function () {
+
+Route::group(['prefix'=>'{language}'],function()
+{
+
+Route::get('/',function(){
     return view('index');
 });
 
-Route::get('/contact-us', function () {
+Route::get('/contact-us',function(){
     return view('contact-us');
 });
 
@@ -46,3 +51,4 @@ Route::get('/media',function(){
     return view('media');
 });
 
+});

@@ -27,7 +27,7 @@
 						</p>
 						</h6>
 
-						<a href="projects" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
+						<a href="{{url(app()->getLocale(),'projects')}}" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
 							<small>{{__("home_page_hero")['small']}}</small>
 						</a>
 					</div>
@@ -65,7 +65,7 @@
 							<p class="text-secondary mb-5">
 								{{__("about")['p3']}}
 							</p>
-							<a href="about-us" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
+							<a href="{{url(app()->getLocale(),'about-us')}}" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
 								<small>{{__("about")['small']}}</small>
 							</a>
 						</div>
@@ -73,29 +73,29 @@
 					<div class="col-lg-6 about-container pt-lg-5">
 						<div class="navis-video pt-lg-0 pt-5">
 							<video autoplay muted loop>
-								<source src="./images/navis-light.mp4" type="video/mp4">
+								<source src="../images/navis-light.mp4" type="video/mp4">
 							</video>
 						</div>
 					</div>
 					<div class="col-12 video-container mt-5 text-center">
 						<div class="d-block mx-auto">
 							<video autoplay muted loop>
-								<source src="./images/nu.mp4" type="video/mp4">
+								<source src="../images/nu.mp4" type="video/mp4">
 							</video>
 							<video autoplay muted loop>
-								<source src="./images/spinning-coin.mp4" type="video/mp4">
+								<source src="../images/spinning-coin.mp4" type="video/mp4">
 							</video>
 							<video autoplay muted loop>
-								<source src="./images/nugenisis.mp4" type="video/mp4">
+								<source src="../images/nugenisis.mp4" type="video/mp4">
 							</video>
 							<video autoplay muted loop>
-								<source src="./images/nft-city.mp4" type="video/mp4">
+								<source src="../images/nft-city.mp4" type="video/mp4">
 							</video>
 							<video autoplay muted loop>
-								<source src="./images/just-social.mp4" type="video/mp4">
+								<source src="../images/just-social.mp4" type="video/mp4">
 							</video>
 							<video autoplay muted loop>
-								<source src="./images/ledx.mp4" type="video/mp4">
+								<source src="../images/ledx.mp4" type="video/mp4">
 							</video>
 						</div>
 					</div>
@@ -123,7 +123,7 @@
 					<div class="item">
 						<div class="card w-100">
 							<div class="py-4 card-body position-relative position-relative">
-								<img class="card-img-top w-100" src="./images/NuCoin.jpg" alt="Card image" height="180">
+								<img class="card-img-top w-100" src="../images/NuCoin.jpg" alt="Card image" height="180">
 								<h5 class="mt-5">
 									{{__("projects")['h5']}}
 								</h5>
@@ -149,7 +149,7 @@
 									{{__("projects")['p3']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
-									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#troy_gold_backed_token" style="width: 50px; height: 50px;">
+									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="{{url(app()->getLocale(),'projects')}}#troy_gold_backed_token" style="width: 50px; height: 50px;">
 										<i class="text-white fa fa-angle-right" aria-hidden="true"></i>
 									</a>
 								</div>
@@ -167,7 +167,7 @@
 									{{__("projects")['p4']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
-									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#just_social" style="width: 50px; height: 50px;">
+									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="{{url(app()->getLocale(),'projects')}}#just_social" style="width: 50px; height: 50px;">
 										<i class="text-white fa fa-angle-right" aria-hidden="true"></i>
 									</a>
 								</div>
@@ -185,7 +185,7 @@
 									{{__("projects")['p5']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
-									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#dnc" style="width: 50px; height: 50px;">
+									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="{{url(app()->getLocale(),'projects')}}#dnc" style="width: 50px; height: 50px;">
 										<i class="text-white fa fa-angle-right" aria-hidden="true"></i>
 									</a>
 								</div>
@@ -203,7 +203,7 @@
 									{{__("projects")['p6']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
-									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#nft_city" style="width: 50px; height: 50px;">
+									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="{{url(app()->getLocale(),'projects')}}#nft_city" style="width: 50px; height: 50px;">
 										<i class="text-white fa fa-angle-right" aria-hidden="true"></i>
 									</a>
 								</div>
@@ -221,7 +221,7 @@
 									{{__("projects")['p7']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
-									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#ledgerx" style="width: 50px; height: 50px;">
+									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="{{url(app()->getLocale(),'projects')}}#ledgerx" style="width: 50px; height: 50px;">
 										<i class="text-white fa fa-angle-right" aria-hidden="true"></i>
 									</a>
 								</div>
@@ -239,7 +239,7 @@
 				</div>
 			</div>
 			<div class="w-100 mt-3">
-				<a href="projects" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
+				<a href="{{url(app()->getLocale(),'projects')}}" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
 					<small>{{__("projects")['small']}}</small>
 				</a>
 			</div>
@@ -442,7 +442,7 @@
 				</div>
 			</div>
 			<div class="w-100 mt-3">
-				<a href="media" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
+				<a href="{{url(app()->getLocale(),'media')}}" class="py-3 mb-5 text-white btn bg-base-color learn-more-btn btn-no-ring d-block d-lg-inline">
 					<small>{{__("medias")['small']}}</small>
 				</a>
 			</div>
@@ -484,7 +484,7 @@
 								<div class="d-flex justify-content-center">
 									<a href="contact-us.html">
 										<img
-											src="./images/programs/1. staff2.png"
+											src="../images/programs/1. staff2.png"
 										>
 									</a>
 								</div>
@@ -497,7 +497,7 @@
 								<div class="d-flex justify-content-center">
 									<a href="getting-involved.html?program=ambassador#program-selection">
 										<img
-											src="./images/programs/2. celb.png"
+											src="../images/programs/2. celb.png"
 										>
 									</a>
 								</div>
@@ -510,7 +510,7 @@
 								<div class="d-flex justify-content-center">
 									<a href="getting-involved.html?program=diplomats#program-selection">
 										<img
-											src="./images/programs/3. influlancer.png"
+											src="../images/programs/3. influlancer.png"
 										>
 									</a>
 								</div>
@@ -523,7 +523,7 @@
 								<div class="d-flex justify-content-center">
 									<a href="getting-involved.html?program=senators#program-selection">
 										<img
-											src="./images/programs/4. senator.png"
+											src="../images/programs/4. senator.png"
 										>
 									</a>
 								</div>
@@ -536,7 +536,7 @@
 								<div class="d-flex justify-content-center">
 									<a href="getting-involved.html?program=market#program-selection">
 										<img
-											src="./images/programs/5. marketing.png"
+											src="../images/programs/5. marketing.png"
 										>
 									</a>
 								</div>
@@ -549,7 +549,7 @@
 								<div class="d-flex justify-content-center">
 									<a href="getting-involved.html?program=network#program-selection">
 										<img
-											src="./images/programs/6. network.png"
+											src="../images/programs/6. network.png"
 										>
 									</a>
 								</div>
@@ -562,7 +562,7 @@
 								<div class="d-flex justify-content-center">
 									<a href="contact-us.html">
 										<img
-											src="./images/programs/7. blockchain.png"
+											src="../images/programs/7. blockchain.png"
 										>
 									</a>
 								</div>
@@ -573,9 +573,9 @@
 						<div class="card w-100 bg-transparent">
 							<div class="p-0 card-body">
 								<div class="d-flex justify-content-center">
-									<a href="contact-us.html">
+									<a href="{{url(app()->getLocale(),'contact-us')}}">
 										<img
-											src="./images/programs/8. mind blow.png"
+											src="../images/programs/8. mind blow.png"
 										>
 									</a>
 								</div>
@@ -600,7 +600,7 @@
 					<div class="modal-content">
 						<div class="modal-body">
 							<video autoplay muted loop class="w-100 h-auto">
-								<source src="./images/Nugenesis Hero Video - Hi Res.mp4" type="video/mp4">
+								<source src="../images/Nugenesis Hero Video - Hi Res.mp4" type="video/mp4">
 							</video>
 							<div class="d-flex flex-lg-row flex-column">
 								<div class="text-light bottom-text">

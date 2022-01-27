@@ -364,7 +364,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center">
-                    <img src="./images/Bitcoin NU image.png" alt="" class="img-fluid">
+                    <img src="../images/Bitcoin NU image.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -372,7 +372,7 @@
         <div class="py-5">
             <div class="row">
                 <div class="col-lg-6 pr-lg-5 pr-3 d-flex align-items-center order-lg-1 order-2">
-                    <img src="./images/Nucoin Image.png" alt="" class="img-fluid">
+                    <img src="../images/Nucoin Image.png" alt="" class="img-fluid">
                 </div>
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center order-lg-2 order-1">
                     <div class="text-secondary">
@@ -394,7 +394,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 pl-lg-5 pl-3 d-flex align-items-center">
-                    <img src="./images/Ledgerx Image.png" alt="" class="img-fluid">
+                    <img src="../images/Ledgerx Image.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
