@@ -22,6 +22,7 @@
 	<!-- Slider -->
 	<link rel="stylesheet" href="{{asset('/css/owl.carousel.min.css')}}">
 	<link rel="stylesheet" href="{{asset('/css/owl.theme.default.min.css')}}">
+	<link rel="stylesheet" href="{{asset('/css/flag-icons.min.css')}}">
 </head>
 <body>
     @yield('content')

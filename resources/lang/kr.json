@@ -1,0 +1,343 @@
+{
+    "about-us": {
+        "h4": "About Us",
+        "h5": "Welcome to the NuGenesis platform: the multi-chain interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit. (There are 4 Patents Pending on the key aspects of the platform).",
+        "p1": "Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.",
+        "p2": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.",
+        "p3": "The NuGenesis system is a network of parallel processing sovereign blockchains (including a Bitcoin and Ethereum chain for example) and multi-lingual with 29 different languages allowing dApps built elsewhere to be seamlessly interoperable.",
+        "p4": "It is a system designed for unlimited scalability to cater for mass adoption of blockchain tech. NuGenesis works with other projects to promote composability, elimination of information silos and the advancement of blockchain solutions to users meeting the demands of mass adoption.",
+        "p5": "NuGenesis is entirely gasless and totally green!",
+        "p6": "Roadmap 1 is fully completed. NuGenesis is a fully operational blockchain system, including a gasless interactive NFT™ platform, next gen smart contract Digital Notarised Contract DNC platform, serialised digital asset platform for next gen DeFi, mutli-coin smart chain and a complete ecosystem including a crypto-centric social media platform (Just Social) and a fully-fledged Fiat-Crypto exchange, Ledger X.",
+        "p7": "Roadmap 2 is underway. The interactive NFTs are gamified, level-up and transition into augmented and virtual reality in the meta-realm.",
+        "p8": "The NuGenesis system has a constant rate of innovation built into the code. The minting system provides for special purpose treasuries to fund the continuous rate of upgrade and innovation.",
+        "p9": "User governance is encouraged; supported by a number of programs for community building and fostering those wishing to make crypto tech their career, profession and business."
+    },
+    "contact-us": {
+        "h4": "Contact Us",
+        "h4a": "Want the service of the NUGenesis team?",
+        "p1": "We work with a small number of select teams. If you are interested in discussing working together,please tell us about yourself, your use case, and what you're looking for.",
+        "label": "Email",
+        "labela": "What's your name",
+        "labelb": "What's the name of your company/organization?",
+        "labelc": "What's your title/designation",
+        "labeld": "Briefly describe your blockchain use case. Feel free to share links to your website or Github",
+        "labele": "Tell us a bit about your team, its size, and what it does.",
+        "labelf": "What are you looking for?",
+        "small": "Submit"
+
+    },
+    "address-info": {
+        "h6": "Contact #",
+        "p1": "9/A-1 Pratapgunj Opp. C. S. Patel Enclaves Vadodara, Gujarat � 390002, India",
+        "p2": "(+91) 999 8526878",
+        "p3": "admin@nucoin.com.au"
+
+    },
+    "footer": {
+        "copy": "NuGenesis &copy; 2021. All rights reserved."
+    },
+
+    "hero": {
+        "h1": "Make Your Mark within the",
+        "h1a": "NuGenesis Ecosystem",
+        "h5": "Careers, Professions and Blockchain",
+        "h5a":"Businesses",
+        "h2": "Want to join the NuGenesis Community?",
+        "h5b": "Blockchain technology is now becoming mainstream. The tsunamic effect of mass adoption will change the way we do business, create, and exchange value, and organize our society.",
+        "p1": "You can be part of this exponential phase of the information revolution and ride the crest of the wave to an unprecedented change in wealth creation that cannot be compared to and will dwarf the change to the world that we know as the Industrial Revolution.",
+        "p2": "Of all the blockchain ecosystems that you can research and contrast, you will agree that NuGenesis is at the forefront. We have broken the barriers of scalability, transactional speed, and interoperability. We are a system of multi-chains and parallel processing, and with more users, the faster and more efficient the system becomes.",
+        "p3": "Unlike others, NuGenesis is fully functional and ready for onboarding projects and listing crypto assets.",
+        "p4": "You have an opportunity to get on at the ground floor and take an active part in the shaping of the NuGenesis ecosystem.",
+        "p5": "Most of the skills and qualifications for the new economy brought in by blockchain technology have not even been invented yet. Anyone with enthusiasm, initiative, and passion can become fully emersed in the blockchain world and use their existing talents in numerous ways as well as acquiring others."
+    },
+    "programs": {
+        "h1": "NuGenesis Programs",
+        "p1": "It is a unique moment in history. Blockchain technology is inevitable. The new economy will render the current inefficiencies and inequalities obsolete. Where do you want to be? We want you to tell your grandchildren about how you help to build the new digital world.",
+        "p3": "It starts right here."
+
+    },
+    "program-selection": {
+        "div": "Ambassador Program",
+        "a": "NuGENESIS Ambassador Program Brochure",
+        "aone": "Ambassadorial Deed",
+        "atwo": "Ambassadors Performance Plan",
+        "athree": "General Terms and Conditions of Adoption Facilitators",
+        "afour": "Online Application Form"
+
+    },
+
+    "diplomats_program": {
+        "div": "Diplomats Program",
+        "a": "NuGENESIS Diplomats Program Brochure",
+        "aone": "Diplomatic Deed",
+        "atwo": "Diplomats Performance Plan"
+
+    },
+
+    "senators_program": {
+        "div":"Senators Program",
+        "a": "NuGENESIS Senator Program Brochure",
+        "aone": "Senatorial Deed",
+        "atwo": "Senators Performance Plan"
+
+    },
+    "market_consuls_program": {
+        "div": "Market Consuls Program",
+        "a": "NuGENESIS Market Consuls Program Brochure",
+        "aone": "Market Consul Deed",
+        "atwo": "Market Consuls Performance Plan"
+    },
+
+    "network_concordat_program": {
+        "div": "Network Concordat Program",
+        "a": "NuGENESIS Network Concordat Program Brochure",
+        "aone": "Network Concordat Deed",
+        "atwo": "Network Concordat Performance Plan"
+    },
+    "get_in_touch": {
+        "a": "Do you have something that will blow our minds?",
+        "aone": "Are you Tech Developer?",
+        "atwo": "Want to join the Team?",
+        "athree": "Introducing an existing or new blockchain project to the NuGenesis Ecosystem � as a parachain, para network or just wants to be supercharged?",
+        "afour": "Get in touch"
+    },
+    "nav": {
+        "menu": "menu",
+        "nucoin": "Nucoin",
+        "just_social": "Just Social",
+        "explorer": "Explorer",
+        "nucoin_ledgerx": "NuCoin and LedgerX",
+        "shop": "Shop",
+        "about_us": "About Us",
+        "team": "Team"
+    },
+
+    "toggledropdown": {
+        "projects": "Projects",
+        "media": "Media",
+        "getting_involved": "Getting Involved"
+
+    },
+
+    "home_page_hero": {
+        "h1": "BLOCKCHAIN BASED TECHNICAL INFRUSTRUCTURE",
+        "p1": "Welcome to the NuGenesis platform: the multi-chain interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit.",
+        "p2": "Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.",
+        "p3": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.",
+        "p4": "NuGenesis did not have an ICO. It funded a complete operational blockchain system itself before NuCoin became available to the public from 23 December 2021. NuGenesis has been working on enterprise and government solutions, particularly for countries seeking to implement (Central Bank Digital Currencies) CBDCs and infrastructure instruments. Accordingly NuGenesis re-engineered blockchain from inception. A \"new \" Genesis. New, not only in different and fresh thinking, but \"NU\" as in N.U. - non-usury.",
+        "small": "View Projects"
+    },
+    "about": {
+        "h4": "About NuGenesis",
+        "p1": "Welcome to the NuGenesis platform: the multi-chain interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit. (There are 4 Patents Pending on the key aspects of the platform).",
+        "p2": "Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.",
+        "p3": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.",
+        "small": "Learn More"
+    },
+    "projects": {
+        "h4": "Projects",
+        "p1": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm. Learn more about our Projects.",
+        "h5": "The NuGenesis flagship: NU Coin",
+        "p2": "NuGenesis' flagship blockchain, NU Coin, is a fully operational and is already at zero-carbon emission. It is way past the POW vs POS debate!",
+        "h5b": "TROY Gold-backed token denominated in major currencies",
+        "p3": "A troy is a token to represent the fiat currency representation in physical gold. For example Troy USD (TUSD) Troy Euro (TEURO) Troy AUD (TAUD) etc. It functions similar to a stable coin and a remittance tool.",
+        "h5c": "JUST SOCIAL",
+        "p4": "The decentralised social media platform that empowers users to realise their value. JUST SOCIAL is designed to allow users to re-claim their value using the technology of blockchain.",
+        "h5d": "Next Generation SMART CONTRACT DIGITAL NOTRALISED CONTRACTS (DNC'S)",
+        "p5": "The NuGenesis innovation to facilitate mass adoption by the mainstream economy is to go beyond existing limitations of smart contract protocols.",
+        "h5e":"NFT City.Exchange - Interactive NFT™ Platform",
+        "p6":"NuGenesis Layer 1 NFT Platform is totally gasless. It is designed to encourage innovation. To encourage the shift from the rather static NFTs that are currently in existence, to more interactive NFTs. NFTs that transcend art into gaming.",
+        "h5f": "THE LEDGER X EXCHANGE BLOCKCHAINS",
+        "p7": "Ledger X is fully fledged (fiat/crypto) exchange where prices are determined by the brutality of the open market. It was designed to be an important part of the NuGenesis ecosystem to ensure capital is to be allocated by the market rather than bond curves and technocratic formulae.",
+        "small": "View Projects"
+    },
+
+    "medias": {
+        "h4": "Media",
+        "h5": "NuGenesis in Under 4 Minutes",
+        "h5a": "NuGenesis - The Unveiling",
+        "small": "Learn More",
+        "h4a": "Community Participation",
+        "h5b": "Get involved and make your mark?",
+        "h5c": "Want to become a part of the NuGenesis community?",
+        "h5d": "Want to make a career, profession, or business in the new economy?",
+        "h5e": "Check out the opportunities in the NuGenesis ecosystem:",
+        "p1": "Unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented and virtual reality. The  backbone of the metaverse and metarealm.",
+        "smalla":"Close"
+    },
+
+    "industries": {
+        "h4": "Industries",
+        "p1": "Duis aute irure dolor in reprehenderit in voluptate velit."
+    },
+    "bitcoin": {
+        "h5": "Bitcoin NU",
+        "p1": "Elit sed vulputate mi sit amet mauris commodo. Quis risus sed vulputate odio ut enim blandit volutpat maecenas Integer eget aliquet nibh praesent. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus",
+        "p2": "Tellus molestie nunc non blandit massa enim nec. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat, Libero id faucibus nist tincidunt Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Cursus risus at ultrices mi tempus imperdiet",
+        "p3": "Risus nec feugiat in fermentum Habitant morbi tristique senectus et netus et malesuada fames. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Egestas sed sed risus pretium quam vulputate dignissim suspendisse Faucibus omare suspendisse sed niss"
+    },
+    "nucoin": {
+        "h5": "Nucoin",
+        "p1": "Elit sed vulputate mi sit amet mauris commodo. Quis risus sed vulputate odio ut enim blandit volutpat maecenas Integer eget aliquet nibh praesent. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus",
+        "p2": "Tellus molestie nunc non blandit massa enim nec. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat, Libero id faucibus nist tincidunt Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Cursus risus at ultrices mi tempus imperdiet",
+        "p3": "Risus nec feugiat in fermentum Habitant morbi tristique senectus et netus et malesuada fames. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Egestas sed sed risus pretium quam vulputate dignissim suspendisse Faucibus omare suspendisse sed niss"
+    },
+    "ledgerx": {
+        "h5": "Ledgerx",
+        "p1": "Elit sed vulputate mi sit amet mauris commodo. Quis risus sed vulputate odio ut enim blandit volutpat maecenas Integer eget aliquet nibh praesent. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus",
+        "p2": "Tellus molestie nunc non blandit massa enim nec. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat, Libero id faucibus nist tincidunt Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Cursus risus at ultrices mi tempus imperdiet",
+        "p3": "Risus nec feugiat in fermentum Habitant morbi tristique senectus et netus et malesuada fames. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Egestas sed sed risus pretium quam vulputate dignissim suspendisse Faucibus omare suspendisse sed niss"
+    },
+    "media": {
+        "h4": "Media",
+        "h5": "NuGenesis in Under 4 Minutes",
+        "p1": "NuGenesis is the the most advanced blockchain eco-system. We'll help you understand our vision and mission in under 4 Minutes.",
+        "h5a": "NuGenesis - The Unveiling",
+        "p2": "NuGenesis is finally here. Let us introduce to you the solutions available today, such as LedgerX, hardware, as well as the NuGenesis MetaRealm concept. In this unveiling, we'll also introduce our Team from around the world, including India and Dubai.",
+        "p3": "We celebrate the evolution of mankind and show you more insights on the roadmap of Nugenesis technologies. In this unveiling, we dive deeper into the journey and purpose of NuGenesis. Learn about parralel processing capabilities with NuGenesis, allowing uncomparable transactions per second, AI and Security."
+    },
+    "the_nugenesis_flagship": {
+        "h5": "Projects",
+        "p1": "The NuGenesis flagship: NU Coin",
+        "p2": "NuCoin is the native currency in the NuGenesis ecosystem.",
+        "p3": "NuGenesis' flagship blockchain, NU Coin, is a fully operational and is already at zero-carbon emission. It is way past the POW vs POS debate!",
+        "p4": "With Proof of Authority with useful work AI (Artificial Intelligence) as one of several consensus mechanisms, including consensus before packing, NuGenesis' NuCoin uses system validator nodes running on the randomness of a round robin protocol and monitored by AI to underscore system integrity.",
+        "p5": "The streamlined validation process, through the super nodes with byzantine fault tolerance and randomness, reduces unnecessarily superfluous broadcasting through validation networks. Being gas less, there are no requests from 1000's of validators and fee actions.",
+        "p6": "NuCoin integrates blockchain load balancers and system validators to efficiently flow data into infinite parallel processing blockchains. It achieves unlimited scalability and transaction speeds. The more users, the faster the transaction speed!",
+        "p7": "NuCoin has multiple uses in the NuGenesis ecosystem. It is the principal currency for all services available (and NuCoin is burned on use), including the currency used in the NuTech cities and special economic zones established with participating jurisdictions. NuCoin is essential for staking by all projects as an effective \"fee\" for using the system. NuCoin is essential to the ranks involved in the Governance system. The ownership of NuCoin is designed to be widely dispersed, by contrast to tems with the intended effect that users are motivated to establish their substantial economic presence in the NuGenesis ecosystem.",
+        "p8": "Whilst a number of NuGenesis projects ( such Ledger X, Just Social, the Metarealm, V2R etc) will stand on their own with their own digital assets, NuCoin holders will always be entitled to early and preferential access to these projects."
+
+    },
+    "bitcoin_nu": {
+        "h5": "Bitcoin NU",
+        "p1": "For the lovers of the classic Bitcoin protocol but for whom the excessive energy demands of the mathematical processes to secure the bitcoin network are too great, NuGenesis has worked with certain Bitcoin devs to create Bitcoin Nu. The system retains the Bitcoin open source code with all the benefits of the robustness from over 12 years to testing.",
+        "p2": "The chain proves have that with code change alone unnecessary complexity can be removed and the consequent computational power expended. Most of the environmental problems can be minimised.",
+        "p3": "Mining can be achieved by ordinary users on their laptops as intended by Satoshi. They prevent the ASIC mining that uses the unnecessary resources.",
+        "p4": "Simultaneously, they can achieve scalability and efficient transaction speed: that is to 1 minute block finalisation, increasing the transaction speed from 45 T/per second as compared to the current 7 T/per second.",
+        "p5": "To offset the carbon footprint of the BTCNU mined, NuGenesis has added an offset treasury \"'Treasury\" Offset anti-carbon system wallet\" to collect a portion of mined coins to fund 'carbon offset' programs such as reforestation projects."
+    },
+    "bitcoin_green": {
+        "h5": "BITCOIN GREEN",
+        "p1": "As a further innovation from BitCoin NU, through BitCoin Green, NuGenesis have achieve the 2 nd phase in making Bitcoin tech completely green. This blockchain uses proof of useful work AI as at consensus mechanism. They incorporate NAVIS (NuGenesis Artifical Validation Intellegence System) to ensure system security and integrity. Dedicated sub-treasuries are available for specific 'carbon offset' projects in reforestation and soil rejuvination. Minting mechansims and staking protocols replace the current halving algaorithims and complexity rates. The speeds here are testing at 1, 500-100,00 T/per second",
+        "p2": "Carbon offests, in both chains are written into the code. The treasuries ensure on-going funding of reforestation and soil rejuvination automatically."
+    },
+    "troy_gold_backed_token": {
+        "h3": "TROY Gold-backed token denominated in major currencies",
+        "p1": "A troy is a token to represent the fiat currency representation in physical gold. For example Troy USD (TUSD) Troy Euro (TEURO) Tory AUD (TAUD) etc. It functions similar to a stable coin and a remittance tool.",
+        "p2": "Troys are designed to provide liquidity to crypto markets and be a secure and reliable bridging currency. Troys are designed to meet inflationary concerns. Users can be confident that each Troy is based on the dominated fiat jurisdiction's equivalent in actual physical gold vaulted by the particpating financial institutions and can be exchanged for that fiat currency.",
+        "p3": "Troys are issued under regulatory licence in Australia. The prototype is built using 5 cross chains pegged to gold and major currencies and the gasless nature of the NuGenesis blockchain system permits exchange efficiency."
+
+    },
+    "just_social": {
+        "h3": "JUST SOCIAL",
+        "p1": "The decentralised social media platform that empowers users to realise their value.",
+        "p2": "JUST SOCIAL is designed to allow users to re-claim their value using the technology of blockchain.",
+        "p3": "Just Social will provide the means by which users can earn and realise their value. You can earn your slice of your (meta data) that you chose to allow the platform to share with advertisers; from merely participating and receiving airdrops; from rewards for marketing, reviews, and a range of contributions everyone can make to the ecosystem.",
+        "p4": "JUST SOCIAL is focused on the crypto and technology space providing users the optimal access to data, community interaction, and innovative technology to participate in multiple ways including offering services. It is the 'one stop shop' to lean, keep up with everything crypto and tech.",
+        "p5": "Just social provides access to a launch pad for new projects known as V2R ('Vision to Reality') and a Fully Fledged Decentralised Crypto-fiat exchange, Ledger X to maximise the liquidity and capital flow for innovative tech to realise its full potential.",
+        "p6": "The platform provides for reviews, critiques and assessments of tech projects, the generation of an accreditation and qualification system, and the opportunity for users to set terms according to which crowd-sourced projects are released funds to achieve their potential.",
+        "p7": "If you wanted to earn in crypto; to make crypto your career and business, Just Social is the place where you can interact with fellow colleagues. You may be selling services for crypto, or join a project needing assistance.",
+        "h5": "Users realising their value",
+        "p8": "Users are starting to realise that their private data is valuable; that their spending patterns, interests, opinions and sentiments are powerful signals that are marketable.",
+        "p9": "However, the value is reaped only by, and for the benefit of, the intermediary social media giants. Users are left to being the products of the social media giants whether selling to advertisers or other data analytics.",
+        "p10": "The explosion of the NFT market has created a realisation that users do not even own their own data, whether their own photos, audio or videos. By the terms and conditions of social media platforms, your photos are owned by them! Tomorrow this could be a valuable NFT, but it is not yours! Just Social preserves your ownership."
+    },
+    "dnc": {
+        "h3": "Next Generation SMART CONTRACT DIGITAL NOTRALISED CONTRACTS (DNC'S)",
+        "p1": "The NuGenesis innovation to facilitate mass adoption by the mainstream economy is to go beyond existing limitations of smart contract protocols. Smart Contract Digital Notarised Contracts™ (DNCs) allow for parties to transact with more comprehensive contracts that cater for a wide range of terms and conditions to cater for the various possibilities that can arise, and consequent allocation of risks in common business practices. The AI capability will build suggested templates of contracts and instruments in an increasingly number of commercial scenarios.",
+        "p2": "The AI will pull the suggested templates to a contemplated transaction, fill in the data from the respective chains and wallet IDs, and the counterparties have signed the respective DNC, the system will witness and notarise the DNC by time-stamp hash it with a unique identifier.",
+        "p3": "Transactional scenarios may require money to be held in trust wallets, with or without multi-sigs, and impose standard business customs such as for example SGC inspections for import/export contracts. The Ledger X blockchain system allows for smart contract developers to innovate with parallel processing in the smart contract protocols removing the limitation of liner time ordering and allowing for the flexibility for both vertical and horizontal events to be incorporated.",
+        "p4": "We are in communication with a number of jurisdictions regarding the adoption of a Blockchain Code of Conduct and Crypto laws to recognise and provide forums for efficient dispute resolution that arise in blockchain technology. These jurisdictions can be made the forum for dispute resolution and governing law for a wider variety of templated business situations."
+    },
+
+    "nft_city": {
+        "h3": "NFT City.Exchange - Interactive NFT™ Platform",
+        "p1": "NuGenesis Layer 1 NFT Platform is totally gasless. It is designed to encourage innovation. To encourage the shift from the rather static NFTs that are currently in existence, to more interactive NFTs. NFTs that transcend art into gaming. NFTs that level up as they interact whether competing or being part of a collection.",
+        "p2": "Interactive NFTs are vehicles for business records: ID's, driver's licences, medical records for example. Interactive NFTs can become part of the metarealm. When interactive NFTs need millions of transactions per second, or as part of the meta-realm, billions of transactions per second, the multi-chain parallel processing can deliver it. There is no competition."
+
+    },
+
+    "themetarealm": {
+        "h3": "THE METAREALM",
+        "p1": "The NuGenesis meta-realm is where the NuGenesis technology begins to be perceivable by the layperson. The meta-realm is design to accommodate base layer transactions on chain in the billions of transactions per second.",
+        "p2": "The meta-realm pairs with physical reality. It is being built to provide the seamless interaction between the physical, augmented and virtual reality. The social and economic experience is being built to be realistic.",
+        "p3": "The AI self-preservation protocol for example will allow your personal AI Avatar to be trained by you and represent you in the metarealm. This includes after you have passed. Imagine your AI-trained Avatar being available for your great grand-children to meet.",
+        "p4": "The AI resurrection protocol will be the re-creation of a historical figure based on all available known data. Want Martial Arts lessons from Bruce Lee? Interrupt the battle of waterloo and ask Napoleon what he was thinking at any particular moment?"
+    },
+    "nextgeneration": {
+        "h5": "NEXT GENERATION DEFI THROUGH SERIALISATION",
+        "p1": "NuGenesis provides for digital assets to be serialised. Currently, Defi lending has been criticised as being is little more than a pawn shop. It cannot advance beyond that with the current state of blockchain technology because recourse/security for lending is limited to those Coins and Tokens that are provided to the lender.",
+        "p2": "By contrast, NuGenesis blockchains involve innovations that include effective serialisation of each individual Coin into a Digital Notarised Contract ('DNC') that allows, inter alia:",
+        "li": "each Coin to be effectively a new version of a NFT;",
+        "lia": "conditions to be placed on each coin, such as a mortgage, charge, options etc;",
+        "lib": "multi-signatory capacity for corporates, trusts and governments; and,",
+        "lic": "comprehensive conditions on a coin that resemble those customary in traditional capital markets (rather than short smart contracts).",
+        "lid": "The NuGenesis platforms fosters the development of a fully-fledged lending platform, where for example, mainstream corporate adoption would be attracted to lend crypto at, for example a 90% or even 100% LVR, for the purchase of new crypto secured by the lending.",
+        "h5a": "PARA-CHAINS, SMART CHAINS AND PARRALLEL PROCESSING AND HYBRID CHAINS",
+        "p3": "NuGenesis offers crypto projects of all sizes the ability to customise their blockchains according to evolving needs. A fledging project may seed fund through the V2R (Vision to Reality) Launchpad. It may use the NuGenesis next gen Smart Chain to create coins or tokens at either Layer 1 or Layer 2.",
+        "p4": "A more advanced project may wish to be a para-chain to economise the on-going infrastructure costs such as storage and security. Another may prefer its own sovereign parallel processing with any drain on its/or the systems resources.",
+        "p5": "Projects may customise blockchains with classes of transactions using differentially private permissioned chains for sensitive information, and open sourced and decentralised chains otherwise. They may tailor and modify the perfect configuration for its business evolution."
+    },
+    "ledgerx_p": {
+        "h3": "THE LEDGER X EXCHANGE BLOCKCHAINS",
+        "p1": "Ledger X is fully fledged (fiat/crypto) exchange where prices are determined by the brutality of the open market. It was designed to be an important part of the NuGenesis ecosystem to ensure capital is to be allocated by the market rather than bond curves and technocratic formulae.",
+        "p2": "Ledger X is decentralised in that, unlike say Binance which has a central point of data storage, the data is decentralised with the 11 witness nodes across the globe. This offers a vital security advantage without compromising the instant settlement time.",
+        "p3": "The decentralisation is designed to encourage users to consolidate their holdings; view; monitor and manage their portfolio; apply metrics and analytics available without the risks of a centralised exchange. Assets from other blockchains can be deposited whilst remaining interoperable. With multi-sig, treasury wallets and allowing users to keep their private keys, it is intended to provide the user experience comfort needed to optimise mass adoption.",
+        "p4": " What to know a bit more?",
+        "a":  "Link",
+        "p5": "Ledger X is scalable and high performance; it is designed for new projects to cheaply and efficiently create or mint coins to make available to the open market, or for existing projects to obtain further liquidity through supplemental release mechanisms.",
+        "p6": "The Leger X exchange is a parallel processing tri blockchain configuration",
+        "p7": "The three chains include:",
+        "li": "Settlement chain;",
+        "lia": "Match chain; and",
+        "lib": "Content chain",
+        "p8": "which are running parallel together.",
+        "p9": "The consensus mechanism involves two major protocols:",
+        "lic": "Delegated Revenue Proof of Stake; and,",
+        "lid": "Consensus before packing",
+        "p10": "the combined effect of which is that the transaction has already been processed when it goes through the block. This tri-chain concurrent processing achieves a 1 second block speed creation finality.",
+        "p11": "The user therefore experiences a completed order within 1 second; a speed comparable to a centralised exchange.",
+        "p12": "The settlement chain effects the 'consensus before packing' and the settlement. The content chain stores the data on finality, and the match chain matches the data (order matching) when trying to resolve it or search it. An explorer search will identify the ID of multiple transactions however they are processed as between the blockchains",
+        "p13": "Like the NuGenesis blockchain, it is scalable such that parallel chains can be created and bridged. It is flexible in that it allows developers to create more vertical side-chain scenario. There are globally dispersed super-nodes. The 11 witness nodes are Super-nodes that are deployed in 8 countries on four continents.",
+        "p14": "The cross-chain protocol allows assets on other public chains to be anchored though smart contracts and scripts to create or be part of newly created crypto assets on the users' Ledger X exchange wallets.",
+        "p15": "A current limitation of smart contracts is that they are not designed with parallel computing in mind and operate on a linear time ordering process. The Ledger X side-Chain protocol allows smart contract developers to introduce side chain mechanisms that concurrently process providing greater flexibility for vertical side chain scenarios."
+    },
+    "team": {
+        "h4": "Team",
+        "h5": "Luay Mohsen",
+        "small": "CHIEF TECHNOLOGY OFFICER",
+        "h5a": "Hamza Yasin",
+        "smallone": "BLOCKCHAIN DEVELOPER",
+        "h5b": "Zain Ul Abedin",
+        "smalltwo": "BLOCKCHAIN DEVELOPER",
+        "h5c": "Raja Fayyaz",
+        "smallthree": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING",
+        "h5d": "Mohamed Hassan",
+        "smallfour": "MULTIFACETED TECHNICAL ENGINEER",
+        "h5e": "Fahad Aziz",
+        "smallfive": "FRONT-END DEVELOPER",
+        "h5f": "Omer Iftikhar",
+        "smallsix": "FRONT-END DEVELOPER",
+        "h5g": "Ali Zaryab",
+        "smallseven": "UI/UX FULL STACK DEVELOPER",
+        "h5h": "Reza Motevallizadah",
+        "smalleight": "CLOUD SOFTWARE ARCHITECTURE ENGINEER",
+        "h5i": "Muhammad Hassan",
+        "smallnine": "WEB/MOBILE & BLOCKCHAIN DEVELOPER",
+        "h5j": "Abdullah Ahmed",
+        "smallten": "WEB & BLOCKCHAIN DEVELOPER",
+        "h5k": "Hussein Faraj",
+        "smalleleven": "CHIEF EXECUTIVE OFFICER",
+        "h5l": "Nivine khanafer",
+        "smalltwelve": "EXECUTIVE ASSITANT",
+        "h5m": "Ibrahim Hamidy",
+        "smallthirteen": "ETHICS OFFICER",
+        "h5n": "Imran Bhojani",
+        "smallfourteen": "PROJECT MANAGER",
+        "h5o": "Anthony Weinman",
+        "smallfiveteen": "INVESTOR, HR & OFFICE ADMINISTRATION",
+        "h5p": "Kevin Bowen",
+        "smallsixteen": "CHIEF MARKETING OFFICER"
+
+    }
+}
