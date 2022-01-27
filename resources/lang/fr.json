@@ -102,20 +102,20 @@
         "afour": "Get in touch"
     },
     "nav": {
-        "span": "menu",
-        "a": "Nucoin",
-        "aone": "Just Social",
-        "atwo": "Explorer",
-        "athree": "NuCoin and LedgerX",
-        "afour": "Shop",
-        "afive": "About Us",
-        "asix": "Team"
+        "menu": "menu",
+        "nucoin": "Nucoin",
+        "just_social": "Just Social",
+        "explorer": "Explorer",
+        "nucoin_ledgerx": "NuCoin and LedgerX",
+        "shop": "Shop",
+        "about_us": "About Us",
+        "team": "Team"
     },
 
     "toggledropdown": {
-        "a": "Projects",
-        "aone": "Media",
-        "atwo": "Getting Involved"
+        "projects": "Projects",
+        "media": "Media",
+        "getting_involved": "Getting Involved"
 
     },
 

@@ -131,7 +131,7 @@
 									{{__("projects")['p2']}}
 								</p>
 								<div class="d-flex justify-content-center position-absolute link-btn">
-									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="projects.html#the_nugenesis_flagship" style="width: 50px; height: 50px;">
+									<a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="{{url(app()->getLocale(),'projects')}}#the_nugenesis_flagship" style="width: 50px; height: 50px;">
 										<i class="text-white fa fa-angle-right" aria-hidden="true"></i>
 									</a>
 								</div>
@@ -482,7 +482,7 @@
 						<div class="card w-100 bg-transparent">
 							<div class="p-0 card-body">
 								<div class="d-flex justify-content-center">
-									<a href="contact-us.html">
+									<a href="{{url(app()->getLocale(),'contact-us')}}">
 										<img
 											src="../images/programs/1. staff2.png"
 										>
@@ -495,7 +495,7 @@
 						<div class="card w-100 bg-transparent">
 							<div class="p-0 card-body">
 								<div class="d-flex justify-content-center">
-									<a href="getting-involved.html?program=ambassador#program-selection">
+									<a href="{{url(app()->getLocale(),'getting-involved')}}?program=ambassador#program-selection">
 										<img
 											src="../images/programs/2. celb.png"
 										>
@@ -508,7 +508,7 @@
 						<div class="card w-100 bg-transparent">
 							<div class="p-0 card-body">
 								<div class="d-flex justify-content-center">
-									<a href="getting-involved.html?program=diplomats#program-selection">
+									<a href="{{url(app()->getLocale(),'getting-involved')}}?program=diplomats#program-selection">
 										<img
 											src="../images/programs/3. influlancer.png"
 										>
@@ -521,7 +521,7 @@
 						<div class="card w-100 bg-transparent">
 							<div class="p-0 card-body">
 								<div class="d-flex justify-content-center">
-									<a href="getting-involved.html?program=senators#program-selection">
+									<a href="{{url(app()->getLocale(),'getting-involved')}}?program=senators#program-selection">
 										<img
 											src="../images/programs/4. senator.png"
 										>
@@ -534,7 +534,7 @@
 						<div class="card w-100 bg-transparent">
 							<div class="p-0 card-body">
 								<div class="d-flex justify-content-center">
-									<a href="getting-involved.html?program=market#program-selection">
+									<a href="{{url(app()->getLocale(),'getting-involved')}}?program=market#program-selection">
 										<img
 											src="../images/programs/5. marketing.png"
 										>
@@ -547,7 +547,7 @@
 						<div class="card w-100 bg-transparent">
 							<div class="p-0 card-body">
 								<div class="d-flex justify-content-center">
-									<a href="getting-involved.html?program=network#program-selection">
+									<a href="{{url(app()->getLocale(),'getting-involved')}}?program=network#program-selection">
 										<img
 											src="../images/programs/6. network.png"
 										>
@@ -560,7 +560,7 @@
 						<div class="card w-100 bg-transparent">
 							<div class="p-0 card-body">
 								<div class="d-flex justify-content-center">
-									<a href="contact-us.html">
+									<a href="{{url(app()->getLocale(),'contact-us')}}">
 										<img
 											src="../images/programs/7. blockchain.png"
 										>

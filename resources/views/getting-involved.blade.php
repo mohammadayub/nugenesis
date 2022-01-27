@@ -29,10 +29,10 @@
 	    <section id="community" class="py-5 mt-5 position-relative">
 	        <div class="bg-img-2 position-absolute"></div>
 	        <div class="bg-img-3 position-absolute">
-	            <img src="./images/funds-bg-1bceee63f1933088eb08cb46dc08e144.png" alt="">
+	            <img src="../images/funds-bg-1bceee63f1933088eb08cb46dc08e144.png" alt="">
 	        </div>
 	        <div class="bg-img-4 position-absolute">
-	            <img src="./images/particle-bottom-right-a33c6aca44edb7d79cd3b83380e078b0.png" alt="">
+	            <img src="../images/particle-bottom-right-a33c6aca44edb7d79cd3b83380e078b0.png" alt="">
 	        </div>
 	        <div class="custom-container container-xl">
 	            <div class="row mb-5">
@@ -71,7 +71,7 @@
 	                <div class="col-lg-6">
 	                    <div class="navis-video pt-lg-0 pt-5">
 	                        <video autoplay muted loop>
-	                            <source src="./images/navis-dark.mp4" type="video/mp4">
+	                            <source src="../images/navis-dark.mp4" type="video/mp4">
 	                        </video>
 	                    </div>
 	                </div>
@@ -81,10 +81,10 @@
 
 	    <section id="programs" class="py-5 position-relative">
 	        <div class="bg-img-1 position-absolute">
-	            <img src="./images/Footer BG.png" alt="">
+	            <img src="../images/Footer BG.png" alt="">
 	        </div>
 	        <div class="bg-img-2 position-absolute">
-	            <img src="./images/particle-bottom-left-31f04bb66c0e5d343bc7b23133a1ff8a.png" alt="">
+	            <img src="../images/particle-bottom-left-31f04bb66c0e5d343bc7b23133a1ff8a.png" alt="">
 	        </div>
 	        <div class="custom-container container-xl">
 	            <div class="row mb-5">
@@ -107,7 +107,7 @@
 	                    <div class="card rounded-lg program" id="ambassador_program" data-value="ambassador_program">
 	                        <div class="card-body py-4">
 	                            <div class="text-center mb-3">
-	                                <img src="./images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50"
+	                                <img src="../images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50"
 	                                    height="50">
 	                            </div>
 	                            <div class="header-sub-text text-center mb-3">
@@ -116,23 +116,23 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="./documents/Ambassador Program/01 NuGENESIS Ambassador Program Brochure .docx"
+	                                        <a href="../documents/Ambassador Program/01 NuGENESIS Ambassador Program Brochure .docx"
 	                                            target="_blank" class="text-white">{{__("program-selection")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Ambassador Program/02 Ambassadorial Deed.docx"
+	                                        <a href="../documents/Ambassador Program/02 Ambassadorial Deed.docx"
 	                                            target="_blank" class="text-white">{{__("program-selection")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Ambassador Program/03 Ambassadors Performance Plan.docx"
+	                                        <a href="../documents/Ambassador Program/03 Ambassadors Performance Plan.docx"
 	                                            target="_blank" class="text-white">{{__("program-selection")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Ambassador Program/General Terms and Conditions of Adoption Facilitators.docx"
+	                                        <a href="../documents/Ambassador Program/General Terms and Conditions of Adoption Facilitators.docx"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Ambassador Program/online application form.docx"
+	                                        <a href="../documents/Ambassador Program/online application form.docx"
 	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
@@ -144,7 +144,7 @@
 	                    <div class="card rounded-lg program" id="diplomats_program">
 	                        <div class="card-body py-4">
 	                            <div class="text-center mb-3">
-	                                <img src="./images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50"
+	                                <img src="../images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50"
 	                                    height="50">
 	                            </div>
 	                            <div class="header-sub-text text-center mb-3">
@@ -153,23 +153,23 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="./documents/Diplomat's program/01 NuGENESIS Diplomats Program Brochure.docx"
+	                                        <a href="../documents/Diplomat's program/01 NuGENESIS Diplomats Program Brochure.docx"
 	                                            target="_blank" class="text-white"> {{__("diplomats_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Diplomat's program/02 Diplomatic Deed.docx"
+	                                        <a href="../documents/Diplomat's program/02 Diplomatic Deed.docx"
 	                                            target="_blank" class="text-white">{{__("diplomats_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Diplomat's program/03 Diplomats Performance Plan.docx"
+	                                        <a href="../documents/Diplomat's program/03 Diplomats Performance Plan.docx"
 	                                            target="_blank" class="text-white">{{__("diplomats_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Diplomat's program/General Terms and Conditions of Adoption Facilitators.docx"
+	                                        <a href="../documents/Diplomat's program/General Terms and Conditions of Adoption Facilitators.docx"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Diplomat's program/online application form.docx"
+	                                        <a href="../documents/Diplomat's program/online application form.docx"
 	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
@@ -181,7 +181,7 @@
 	                    <div class="card rounded-lg program" id="senators_program">
 	                        <div class="card-body py-4">
 	                            <div class="text-center mb-3">
-	                                <img src="./images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50"
+	                                <img src="../images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50"
 	                                    height="50">
 	                            </div>
 	                            <div class="header-sub-text text-center mb-3">
@@ -190,23 +190,23 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="./documents/PDF Senator Program Final/01 NuGENESIS Senator Program Brochure.pdf"
+	                                        <a href="../documents/PDF Senator Program Final/01 NuGENESIS Senator Program Brochure.pdf"
 	                                            target="_blank" class="text-white">{{__("senators_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/PDF Senator Program Final/02 Senatorial Deed.pdf"
+	                                        <a href="../documents/PDF Senator Program Final/02 Senatorial Deed.pdf"
 	                                            target="_blank" class="text-white">{{__("senators_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/PDF Senator Program Final/03 Senators Performance Plan.pdf"
+	                                        <a href="../documents/PDF Senator Program Final/03 Senators Performance Plan.pdf"
 	                                            target="_blank" class="text-white">{{__("senators_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/PDF Senator Program Final/General Terms and Conditions of Adoption Facilitators.pdf"
+	                                        <a href="../documents/PDF Senator Program Final/General Terms and Conditions of Adoption Facilitators.pdf"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/PDF Senator Program Final/online application form.pdf"
+	                                        <a href="../documents/PDF Senator Program Final/online application form.pdf"
 	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
@@ -218,7 +218,7 @@
 	                    <div class="card rounded-lg program" id="market_consuls_program">
 	                        <div class="card-body py-4">
 	                            <div class="text-center mb-3">
-	                                <img src="./images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50"
+	                                <img src="../images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50"
 	                                    height="50">
 	                            </div>
 	                            <div class="header-sub-text text-center mb-3">
@@ -227,19 +227,19 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="./documents/Market Consuls Program/01 NuGENESIS Market Consuls Program Brochure.docx"
+	                                        <a href="../documents/Market Consuls Program/01 NuGENESIS Market Consuls Program Brochure.docx"
 	                                            target="_blank" class="text-white">{{__("market_consuls_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Market Consuls Program/02 Market Consul Deed.docx"
+	                                        <a href="../documents/Market Consuls Program/02 Market Consul Deed.docx"
 	                                            target="_blank" class="text-white">{{__("market_consuls_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Market Consuls Program/03 Market Consuls Performance Plan.docx"
+	                                        <a href="../documents/Market Consuls Program/03 Market Consuls Performance Plan.docx"
 	                                            target="_blank" class="text-white">{{__("market_consuls_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Market Consuls Program/General Terms and Conditions of Adoption Facilitators.docx"
+	                                        <a href="../documents/Market Consuls Program/General Terms and Conditions of Adoption Facilitators.docx"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
@@ -255,7 +255,7 @@
 	                    <div class="card rounded-lg program" id="network_concordat_program">
 	                        <div class="card-body py-4">
 	                            <div class="text-center mb-3">
-	                                <img src="./images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50"
+	                                <img src="../images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50"
 	                                    height="50">
 	                            </div>
 	                            <div class="header-sub-text text-center mb-3">
@@ -264,23 +264,23 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="./documents/Network Concordat program/01 NuGENESIS Network Concordat Program Brochure.docx"
+	                                        <a href="../documents/Network Concordat program/01 NuGENESIS Network Concordat Program Brochure.docx"
 	                                            target="_blank" class="text-white">{{__("network_concordat_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Network Concordat program/02 Network Concordat Deed.docx"
+	                                        <a href="../documents/Network Concordat program/02 Network Concordat Deed.docx"
 	                                            target="_blank" class="text-white">{{__("network_concordat_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Network Concordat program/03 Network Concordat Performance Plan.docx"
+	                                        <a href="../documents/Network Concordat program/03 Network Concordat Performance Plan.docx"
 	                                            target="_blank" class="text-white">{{__("network_concordat_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Network Concordat program/General Terms and Conditions of Adoption Facilitators.docx"
+	                                        <a href="../documents/Network Concordat program/General Terms and Conditions of Adoption Facilitators.docx"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Network Concordat program/online application form.docx"
+	                                        <a href="../documents/Network Concordat program/online application form.docx"
 	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
@@ -293,19 +293,19 @@
 	                        <div class="card-body py-4">
 	                            <ul class="pl-2">
 	                                <li class="mb-3">
-	                                    <a href="contact-us" class="header-sub-text">{{__("get_in_touch")['a']}}</a>
+	                                    <a href="{{url(app()->getLocale(),'contact-us')}}" class="header-sub-text">{{__("get_in_touch")['a']}}</a>
 	                                </li>
 	                                <li class="mb-3">
-	                                    <a href="contact-us" class="header-sub-text">{{__("get_in_touch")['aone']}}</a>
+	                                    <a href="{{url(app()->getLocale(),'contact-us')}}" class="header-sub-text">{{__("get_in_touch")['aone']}}</a>
 	                                </li>
 	                                <li class="mb-3">
-	                                    <a href="contact-us" class="header-sub-text">{{__("get_in_touch")['atwo']}}</a>
+	                                    <a href="{{url(app()->getLocale(),'contact-us')}}" class="header-sub-text">{{__("get_in_touch")['atwo']}}</a>
 	                                </li>
 	                                <li class="mb-3">
-	                                    <a href="contact-us" class="header-sub-text">{{__("get_in_touch")['athree']}}</a>
+	                                    <a href="{{url(app()->getLocale(),'contact-us')}}" class="header-sub-text">{{__("get_in_touch")['athree']}}</a>
 	                                </li>
 	                                <li class="mb-3">
-	                                    <a href="contact-us" class="header-sub-text">{{__("get_in_touch")['afour']}}</a>
+	                                    <a href="{{url(app()->getLocale(),'contact-us')}}" class="header-sub-text">{{__("get_in_touch")['afour']}}</a>
 	                                </li>
 	                            </ul>
 	                        </div>
