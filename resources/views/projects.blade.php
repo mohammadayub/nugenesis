@@ -44,6 +44,9 @@
                         {{__("the_nugenesis_flagship")['p8']}}
                     </p>
                 </div>
+                <video autoplay muted loop class="about-us-video">
+                        <source src="../images/about-us.mp4" type="video/mp4">
+                </video>
             </div>
         </div>
 
