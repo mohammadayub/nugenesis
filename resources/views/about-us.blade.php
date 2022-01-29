@@ -19,20 +19,13 @@
         <section class="custom-container container-xl">
 
             <div class="row mb-2">
-                <div class="col-12 col-xl-8 col-md-8">
-               
+                <div class="col-md-8">
+
                     <h6 class="text-secondary mb-5 text-justify text-secondary">
                         <b>{{__("about-us")['h6']}}</b>
                     </h6>
-                    <video autoplay muted loop class="about-us-video">
-                        <source src="../images/about-us.mp4" type="video/mp4">
-                    </video>
-                </div>
-
-                <div class="col-md-12">
-            
-
-                        <p class="about-us-p">
+             
+                    <p class="about-us-p">
                             {{__("about-us")['p1']}}
                         </p>
                        <p class="about-us-p">
@@ -50,7 +43,18 @@
                         <p class="about-us-p">
                             {{__("about-us")['p5']}}
                         </p>
+                </div>
+                <div class="col-md-4">
+                <video autoplay muted loop class="about-us-video">
+                        <source src="../images/about-us.mp4" type="video/mp4">
+                    </video>
+</div>
 
+                        
+
+</div>
+<div class="row">
+<div class="col-md-12">
                         <p class="about-us-p">
                             {{__("about-us")['p6']}}
                         </p>

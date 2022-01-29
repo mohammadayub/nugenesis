@@ -596,10 +596,7 @@ body .nav-link.active {
 .about-us-video {
   width: 40vw;
   height: 40vh;
-  top:18%;
-  position:fixed;
-  z-index: -1;
-  left:60%;
+
 }
 @media only screen and (max-width: 800px) {
   .about-us-video {
@@ -608,7 +605,6 @@ body .nav-link.active {
     top:0px;
     position:relative;
     z-index: -1;
-   
   }
 }
 .about-us-p{

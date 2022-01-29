@@ -17,7 +17,7 @@
 
     <section class="custom-container container-xl" id="the_nugenesis_flagship">
         <div class="row mb-5">
-            <div class="col-12">
+            <div class="col-8">
                 <h3 class="mb-3 text-center">
                     <b>{{__("the_nugenesis_flagship")['p1']}}</b>
                 </h3>
@@ -44,6 +44,9 @@
                         {{__("the_nugenesis_flagship")['p8']}}
                     </p>
                 </div>
+          
+            </div>
+            <div class="col-md-4">
                 <video autoplay muted loop class="about-us-video">
                         <source src="../images/about-us.mp4" type="video/mp4">
                 </video>
