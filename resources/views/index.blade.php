@@ -3,7 +3,7 @@
 <div id="home">
 		<div class="min-vh-100" id="hero-container">
             <header id="header" class="custom-container container-xl position-relative">
-            <img src="./images/Header IMG.png" alt="hero image" class="hero-image position-absolute d-none d-lg-block">
+            <img src="../images/Header IMG.png" alt="hero image" class="hero-image position-absolute d-none d-lg-block">
 			@include('nav')
         </header>
 			<section id="hero" class="custom-container container-xl">
@@ -43,8 +43,8 @@
 		</div>
 
 		<section id="about" class="custom-container container-xl position-relative pb-lg-5 mb-5 mb-lg-0">
-			<img src="./images/Elements-1.png" alt="" class="position-absolute coin-left z-index-2" width="100">
-			<img src="./images/Elements-1.png" alt="" class="position-absolute coin-right z-index-2" width="100">
+			<img src="../images/Elements-1.png" alt="" class="position-absolute coin-left z-index-2" width="100">
+			<img src="../images/Elements-1.png" alt="" class="position-absolute coin-right z-index-2" width="100">
 			<div class="mb-4 row w-100">
 				<div class="col-12 text-center">
 					<h4 class="mb-3">

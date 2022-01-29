@@ -5,7 +5,6 @@
             @include('nav')
 		</header>
     </div>
-
     <section class="custom-container container-xl pt-5">
         <div class="row">
             <div class="col-12 text-center mb-5">
