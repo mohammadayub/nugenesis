@@ -14,7 +14,6 @@
             </div>
         </div>
     </section>
-
     <section class="custom-container container-xl" id="the_nugenesis_flagship">
         <div class="row mb-5">
             <div class="col-12">
