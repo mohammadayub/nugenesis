@@ -80,12 +80,10 @@
                     </div>
                 </li>
                 <li class="nav-item d-block d-lg-none">
-       
                     <a class="nav-link" href="team">{{__("nav")['team']}}</a>
                 </li>
                 <li class="nav-item d-lg-flex align-items-center">
                     <div class="btn-group">
-                    
                         <a href="{{\App\Language::selectedLanguage('link')}}" class="bg-transparent border-0 btn btn-primary nav-link btn-no-ring font-weight-bold" @if(\App\Language::getCurrentPage()=='') style="color:white!important"@endif><span class="{{\App\Language::selectedLanguage('icon')}}"></span> {{\App\Language::selectedLanguage('label')}}</a>
                         <a class="bg-transparent border-0 btn btn-primary nav-link btn-no-ring font-weight-bold dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-reference="parent"  @if(\App\Language::getCurrentPage()=='') style="color:white!important"@endif>
                           <span class="sr-only">Toggle Dropdown</span>
@@ -96,13 +94,11 @@
                             <a class="pl-2 nav-link" href="{{$l['link']}}"> <span class="{{$l['icon']}}"></span> {{$l['label']}}</a>
                             <div class="dropdown-divider"></div>
                             @endif
-                           
                             @endforeach
-                            
-                           
-                        </div>
+                      </div>
                     </div>
                 </li>
+
                 <li class="nav-item d-lg-flex align-items-center">
                     <a class="nav-link bg-base-color rounded-circle d-flex justify-content-center align-items-center" href="{{url(app()->getLocale(),'contact-us')}}" style="width: 40px; height: 40px;">
                         <i class="text-white fa fa-envelope-o" aria-hidden="true"></i>
@@ -111,4 +107,10 @@
             </ul>
         </div>
     </nav>
+
+    <div class="float-right bold">
+
+            <a class="pl-2 nav-link float-md-left" href="{{url(app()->getLocale(),'language')}}"><b>LANGUAGE TRANSLATIONS</b></a>
+
+    </div>
 

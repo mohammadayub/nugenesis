@@ -24,7 +24,7 @@
                     <h6 class="text-secondary mb-5 text-justify text-secondary">
                         <b>{{__("about-us")['h6']}}</b>
                     </h6>
-             
+
                     <p class="about-us-p">
                             {{__("about-us")['p1']}}
                         </p>
@@ -50,7 +50,7 @@
                     </video>
 </div>
 
-                        
+
 
 </div>
 <div class="row">

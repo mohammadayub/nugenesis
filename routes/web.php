@@ -51,4 +51,8 @@ Route::get('/media',function(){
     return view('media');
 });
 
+Route::get('/language',function(){
+    return view('language');
+});
+
 });
