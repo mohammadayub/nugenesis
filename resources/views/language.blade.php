@@ -15,7 +15,6 @@
                     </h4>
                     <b><h5>Select Language</h5></b>
                     @foreach(\App\Language::getLanguageList() as $l)
-                       
                         <div class="row mt-3">
                             <div class="col-md-4"></div>
                             <div class="col-md-4">
@@ -25,9 +24,7 @@
                             </div>
                             <div class="col-md-4"></div>
                         </div>
-                     
                     @endforeach
-                   
                 </div>
             </div>
         </section>

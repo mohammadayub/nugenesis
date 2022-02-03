@@ -91,7 +91,8 @@
         "athree": "NuGenesisエコシステムに既存または新規のブロックチェーンプロジェクトを導入する �パラチェーン、パラネットワークとして、または単にスーパーチャージを希望する？",
         "afour": "お問い合わせはこちら"
     },
-    "nav": {
+    "nav":
+    {
         "menu": "メヌー",
         "nucoin": "ヌコイヌ",
         "just_social": "ジャストソーシャル",
@@ -288,5 +289,35 @@
         "smallfiveteen": "投資家、人事、オフィス管理",
         "h5p": "ケビン・ボーウェン",
         "smallsixteen": "チーフマーケティングオフィサー"
+    },
+
+    "trans_link" :
+    {
+      "ambassador_program_nugenesis":"en/Ambassador Program/01 NuGENESIS Ambassador Program Brochure .docx",
+      "ambassador_program_deed":"en/Ambassador Program/02 Ambassadorial Deed.docx",
+      "ambassador_program_performance":"en/Ambassador Program/03 Ambassadors Performance Plan.docx",
+      "ambassador_program_terms_condition":"en/Ambassador Program/General Terms and Conditions of Adoption Facilitators.docx",
+      "ambassador_program_online_application":"en/Ambassador Program/online application form.docx",
+      "diplomats_program_nugenesis":"en/Diplomat's program/01 NuGENESIS Diplomats Program Brochure.docx",
+      "diplomats_program_deed":"en/Diplomat's program/02 Diplomatic Deed.docx",
+      "diplomats_program_performance":"en/Diplomat's program/03 Diplomats Performance Plan.docx",
+      "diplomats_program_terms_condition":"en/Diplomat's program/General Terms and Conditions of Adoption Facilitators.docx",
+      "diplomats_program_online_application":"en/Diplomat's program/online application form.docx",
+      "sanators_program_nugenesis":"en/PDF Senator Program Final/01 NuGENESIS Senator Program Brochure.pdf",
+      "sanators_program_deed":"en/PDF Senator Program Final/02 Senatorial Deed.pdf",
+      "sanators_program_performance":"en/PDF Senator Program Final/03 Senators Performance Plan.pdf",
+      "sanators_program_terms_condition":"en/PDF Senator Program Final/General Terms and Conditions of Adoption Facilitators.pdf",
+      "sanators_program_online_application":"en/PDF Senator Program Final/online application form.pdf",
+      "market_consuls_program_nugenesis":"en/Market Consuls Program/01 NuGENESIS Market Consuls Program Brochure.docx",
+      "market_consuls_program_deed":"en/Market Consuls Program/02 Market Consul Deed.docx",
+      "market_consuls_program_performance":"en/Market Consuls Program/03 Market Consuls Performance Plan.docx",
+      "market_consuls_program_terms_condition":"en/Market Consuls Program/General Terms and Conditions of Adoption Facilitators.docx",
+      "market_consuls_program_online_application":"en/Market Consuls Program/online application form.docx",
+      "network_concordat_program_nugenesis":"en/Network Concordat program/01 NuGENESIS Network Concordat Program Brochure.docx",
+      "network_concordat_program_deed":"en/Network Concordat program/02 Network Concordat Deed.docx",
+      "network_concordat_program_performance":"en/Network Concordat program/03 Network Concordat Performance Plan.docx",
+      "network_concordat_program_terms_condition":"en/Network Concordat program/General Terms and Conditions of Adoption Facilitators.docx",
+      "network_concordat_program_online_application":"en/Network Concordat program/online application form.docx"
+
     }
 }
