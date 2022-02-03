@@ -116,23 +116,23 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="../documents/Ambassador Program/01 NuGENESIS Ambassador Program Brochure .docx"
+	                                        <a href="../documents/{{__("trans_link")['ambassador_program_nugenesis']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Ambassador Program/02 Ambassadorial Deed.docx"
+	                                        <a href="../documents/{{__("trans_link")['ambassador_program_deed']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Ambassador Program/03 Ambassadors Performance Plan.docx"
+	                                        <a href="../documents/{{__("trans_link")['ambassador_program_performance']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Ambassador Program/General Terms and Conditions of Adoption Facilitators.docx"
+	                                        <a href="../documents/{{__("trans_link")['ambassador_program_terms_condition']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Ambassador Program/online application form.docx"
+	                                        <a href="../documents/{{__("trans_link")['ambassador_program_online_application']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
@@ -153,23 +153,23 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="../documents/Diplomat's program/01 NuGENESIS Diplomats Program Brochure.docx"
+	                                        <a href="../documents/{{__("trans_link")['diplomats_program_nugenesis']}}"
 	                                            target="_blank" class="text-white"> {{__("diplomats_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Diplomat's program/02 Diplomatic Deed.docx"
+	                                        <a href="../documents/{{__("trans_link")['diplomats_program_deed']}}"
 	                                            target="_blank" class="text-white">{{__("diplomats_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Diplomat's program/03 Diplomats Performance Plan.docx"
+	                                        <a href="../documents/{{__("trans_link")['diplomats_program_performance']}}"
 	                                            target="_blank" class="text-white">{{__("diplomats_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Diplomat's program/General Terms and Conditions of Adoption Facilitators.docx"
+	                                        <a href="../documents/{{__("trans_link")['diplomats_program_terms_condition']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Diplomat's program/online application form.docx"
+	                                        <a href="../documents/{{__("trans_link")['diplomats_program_online_application']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
@@ -190,23 +190,23 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="../documents/PDF Senator Program Final/01 NuGENESIS Senator Program Brochure.pdf"
+	                                        <a href="../documents/{{__("trans_link")['sanators_program_nugenesis']}}"
 	                                            target="_blank" class="text-white">{{__("senators_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/PDF Senator Program Final/02 Senatorial Deed.pdf"
+	                                        <a href="../documents/{{__("trans_link")['sanators_program_deed']}}"
 	                                            target="_blank" class="text-white">{{__("senators_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/PDF Senator Program Final/03 Senators Performance Plan.pdf"
+	                                        <a href="../documents/{{__("trans_link")['sanators_program_performance']}}"
 	                                            target="_blank" class="text-white">{{__("senators_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/PDF Senator Program Final/General Terms and Conditions of Adoption Facilitators.pdf"
+	                                        <a href="../documents/{{__("trans_link")['sanators_program_terms_condition']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/PDF Senator Program Final/online application form.pdf"
+	                                        <a href="../documents/{{__("trans_link")['sanators_program_online_application']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
@@ -227,23 +227,23 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="../documents/Market Consuls Program/01 NuGENESIS Market Consuls Program Brochure.docx"
+	                                        <a href="../documents/{{__("trans_link")['market_consuls_program_nugenesis']}}"
 	                                            target="_blank" class="text-white">{{__("market_consuls_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Market Consuls Program/02 Market Consul Deed.docx"
+	                                        <a href="../documents/{{__("trans_link")['market_consuls_program_deed']}}"
 	                                            target="_blank" class="text-white">{{__("market_consuls_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Market Consuls Program/03 Market Consuls Performance Plan.docx"
+	                                        <a href="../documents/{{__("trans_link")['market_consuls_program_performance']}}"
 	                                            target="_blank" class="text-white">{{__("market_consuls_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Market Consuls Program/General Terms and Conditions of Adoption Facilitators.docx"
+	                                        <a href="../documents/{{__("trans_link")['market_consuls_program_terms_condition']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="./documents/Market Consuls Program/online application form.docx"
+	                                        <a href="./documents/{{__("trans_link")['market_consuls_program_online_application']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
@@ -264,23 +264,23 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="../documents/Network Concordat program/01 NuGENESIS Network Concordat Program Brochure.docx"
+	                                        <a href="../documents/{{__("trans_link")['network_concordat_program_nugenesis']}}"
 	                                            target="_blank" class="text-white">{{__("network_concordat_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Network Concordat program/02 Network Concordat Deed.docx"
+	                                        <a href="../documents/{{__("trans_link")['network_concordat_program_deed']}}"
 	                                            target="_blank" class="text-white">{{__("network_concordat_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Network Concordat program/03 Network Concordat Performance Plan.docx"
+	                                        <a href="../documents/{{__("trans_link")['network_concordat_program_performance']}}"
 	                                            target="_blank" class="text-white">{{__("network_concordat_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Network Concordat program/General Terms and Conditions of Adoption Facilitators.docx"
+	                                        <a href="../documents/{{__("trans_link")['network_concordat_program_terms_condition']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/Network Concordat program/online application form.docx"
+	                                        <a href="../documents/{{__("trans_link")['network_concordat_program_online_application']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>

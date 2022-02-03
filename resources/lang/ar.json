@@ -318,5 +318,12 @@
             "smallfiveteen": "مستثمر، موارد بشرية وإدارة",
             "h5p": "كيفين بوين",
             "smallsixteen": "مدير التسويق"
-        }
+        },
+
+
+    "trans_link" :
+    {
+      "nugenesis_ambassador":"ar/Ambassador Program/تست.docx"
+
+    }
     }
