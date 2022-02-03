@@ -90,11 +90,12 @@
                         </a>
                         <div class="p-2 border-0 shadow-lg dropdown-menu">
                             @foreach(\App\Language::getLanguageList() as $l)
-                            @if($l['name'] != \App\Language::selectedLanguage('name'))
-                            <a class="pl-2 nav-link" href="{{$l['link']}}"> <span class="{{$l['icon']}}"></span> {{$l['label']}}</a>
-                            <div class="dropdown-divider"></div>
-                            @endif
+                                @if($l['name'] != \App\Language::selectedLanguage('name'))
+                                <a class="pl-2 nav-link" href="{{$l['link']}}"> <span class="{{$l['icon']}}"></span> {{$l['label']}}</a>
+                                <div class="dropdown-divider"></div>
+                                @endif
                             @endforeach
+                            <a class="pl-2 nav-link" href="{{url(app()->getLocale(),'language')}}"><b>LANGUAGE TRANSLATIONS</b></a>
                       </div>
                     </div>
                 </li>
@@ -108,9 +109,4 @@
         </div>
     </nav>
 
-    <div class="float-right bold">
-
-            <a class="pl-2 nav-link float-md-left" href="{{url(app()->getLocale(),'language')}}"><b>LANGUAGE TRANSLATIONS</b></a>
-
-    </div>
 
