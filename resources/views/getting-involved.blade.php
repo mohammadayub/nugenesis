@@ -264,23 +264,23 @@
 	                            <div class="text-white">
 	                                <ol class="pl-4">
 	                                    <li>
-	                                        <a href="../documents/{{__("trans_link")['network_concordat_program_nugenesis']}}"
+	                                        <a href="/documents/{{__('trans_link')['network_concordat_program_nugenesis']}}"
 	                                            target="_blank" class="text-white">{{__("network_concordat_program")['a']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/{{__("trans_link")['network_concordat_program_deed']}}"
+	                                        <a href="/documents/{{__('trans_link')['network_concordat_program_deed']}}"
 	                                            target="_blank" class="text-white">{{__("network_concordat_program")['aone']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/{{__("trans_link")['network_concordat_program_performance']}}"
+	                                        <a href="/documents/{{__('trans_link')['network_concordat_program_performance']}}"
 	                                            target="_blank" class="text-white">{{__("network_concordat_program")['atwo']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/{{__("trans_link")['network_concordat_program_terms_condition']}}"
+	                                        <a href="/documents/{{__('trans_link')['network_concordat_program_terms_condition']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['athree']}}</a>
 	                                    </li>
 	                                    <li>
-	                                        <a href="../documents/{{__("trans_link")['network_concordat_program_online_application']}}"
+	                                        <a href="/documents/{{__('trans_link')['network_concordat_program_online_application']}}"
 	                                            target="_blank" class="text-white">{{__("program-selection")['afour']}}</a>
 	                                    </li>
 	                                </ol>
