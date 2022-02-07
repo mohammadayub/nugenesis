@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>NuGENESIS | Home</title>
+	<title>NuGenesis | Home</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -23,11 +23,15 @@
 	<link rel="stylesheet" href="{{asset('/css/owl.carousel.min.css')}}">
 	<link rel="stylesheet" href="{{asset('/css/owl.theme.default.min.css')}}">
 	<link rel="stylesheet" href="{{asset('/css/flag-icons.min.css')}}">
+	
 	@if(\App\Language::direction() == 'rtl')
 		<style>
-				body, li , p , h5{
+				 li , p , h5,h2,h3,h1,a{
 					text-align:right !important;
 					direction:rtl;
+				}
+				body{
+					text-align:right !important;
 				}
 		</style>
 	@endif

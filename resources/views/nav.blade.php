@@ -1,5 +1,5 @@
 
-    <nav id="navbar" class="px-0 py-2 py-lg-5 navbar navbar-light navbar-expand-lg" @if(\App\Language::isRTL()) dir="rtl" @endif >
+    <nav id="navbar" class="px-0 py-2 py-lg-5 navbar navbar-light navbar-expand-lg" >
         <a class="navbar-brand" href="/">
             <img src="../images/nugenesisou-logo-1.png" alt="logo" height="60">
         </a>
@@ -82,7 +82,7 @@
                 <li class="nav-item d-block d-lg-none">
                     <a class="nav-link" href="team">{{__("nav")['team']}}</a>
                 </li>
-                <li class="nav-item d-lg-flex align-items-center">
+                <li class="nav-item d-lg-flex align-items-center"  @if(\App\Language::isRTL()) dir="ltr" @endif>
                     <div class="btn-group">
                         <a href="{{\App\Language::selectedLanguage('link')}}" class="bg-transparent border-0 btn btn-primary nav-link btn-no-ring font-weight-bold" @if(\App\Language::getCurrentPage()=='') style="color:white!important"@endif><span class="{{\App\Language::selectedLanguage('icon')}}"></span> {{\App\Language::selectedLanguage('label')}}</a>
                         <a class="bg-transparent border-0 btn btn-primary nav-link btn-no-ring font-weight-bold dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-reference="parent"  @if(\App\Language::getCurrentPage()=='') style="color:white!important"@endif>

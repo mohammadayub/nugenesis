@@ -1,6 +1,7 @@
 @extends('layout')
 @section('content')
-    <div id="media">
+
+    <div id="media"  @if(\App\Language::isRTL()) dir="rtl" @endif>
         <div class="mb-5 shadow" id="hero-container">
             <header id="header" class="custom-container container-xl position-relative">
 

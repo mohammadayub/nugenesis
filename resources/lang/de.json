@@ -8,14 +8,15 @@
         "p4": "Es ist ein System, das auf unbegrenzte Skalierbarkeit ausgelegt ist, um die Massenanwendung von Blockchain-Technologie zu ermöglichen. NuGenesis arbeitet mit anderen Projekten zusammen, um die Zusammensetzbarkeit, die Beseitigung von Informationssilos und die Weiterentwicklung von Blockchain-Lösungen für Nutzer zu fördern, die den Anforderungen der Masseneinführung gerecht werden.",
         "p5": "NuGenesis ist völlig gasfrei und absolut umweltfreundlich",
         "p6": "Roadmap 1 ist vollständig abgeschlossen. NuGenesis ist ein voll funktionsfähiges Blockchain-System, einschließlich einer gaslosen interaktiven NFT™-Plattform, einer Smart-Contract-Plattform der nächsten Generation (Digital Notarised Contract DNC), einer serialisierten digitalen Asset-Plattform für die nächste Generation von DeFi, einer Multi-Coin-Smart-Chain und einem kompletten Ökosystem, einschließlich einer kryptozentrischen Social-Media-Plattform (Just Social) und einer vollwertigen Fiat-Crypto-Börse, Ledger X.",
-       "p7": "Roadmap 2 ist in Arbeit. Die interaktiven NFTs sind spielerisch gestaltet, haben ein höheres Niveau und gehen in die erweiterte und virtuelle Realität im Meta-Raum über",
-       "p8": "Das NuGenesis-System hat eine konstante Innovationsrate in den Code eingebaut. Das Münzsystem sieht spezielle Schatzkammern vor, um die kontinuierliche Verbesserung und Innovation zu finanzieren.",
-       "p9": "Die Benutzerführung wird gefördert; unterstützt durch viele Programme zum Aufbau einer Gemeinschaft und zur Förderung derjenigen, die Kryptotechnologie zu ihrem Beruf, ihrer Karriere und ihrem Geschäft machen wollen."    },
+        "p7": "Roadmap 2 ist in Arbeit. Die interaktiven NFTs sind spielerisch gestaltet, haben ein höheres Niveau und gehen in die erweiterte und virtuelle Realität im Meta-Raum über",
+        "p8": "Das NuGenesis-System hat eine konstante Innovationsrate in den Code eingebaut. Das Münzsystem sieht spezielle Schatzkammern vor, um die kontinuierliche Verbesserung und Innovation zu finanzieren.",
+        "p9": "Die Benutzerführung wird gefördert; unterstützt durch viele Programme zum Aufbau einer Gemeinschaft und zur Förderung derjenigen, die Kryptotechnologie zu ihrem Beruf, ihrer Karriere und ihrem Geschäft machen wollen."
+    },
     "contact-us": {
         "h4": " Kontaktieren Sie uns ",
         "h4a": "Möchten Sie die Dienste des NUGenesis-Teams in Anspruch nehmen?",
         "p1": "Wir arbeiten mit einer kleinen Anzahl ausgewählter Teams zusammen. Wenn Sie an einer Zusammenarbeit interessiert sind, erzählen Sie uns bitte etwas über sich, Ihren Anwendungsfall und was Sie suchen.",
-        "label":  "Email",
+        "label": "Email",
         "labela": "Wie heißen Sie?",
         "labelb": "Wie lautet der Name Ihres Unternehmens/Ihrer Organisation?",
         "labelc": "Wie lautet Ihr Titel/Ihre Bezeichnung",
@@ -23,72 +24,63 @@
         "labele": "Erzählen Sie uns ein wenig über Ihr Team, seine Größe und seine Aufgaben",
         "labelf": "Was suchen Sie?",
         "small": "Einreichen"
-
     },
     "address-info": {
         "h6": "Kontakt#",
         "p1": "9/A-1 Pratapgunj Opp. C. S. Patel Enclaves Vadodara, Gujarat � 390002, Indien",
         "p2": "(+91) 999 8526878",
         "p3": "admin@nucoin.com.au"
-
     },
     "footer": {
         "copy": "NuGenesis &Kopie; 2021. Alle Rechte vorbehalten."
     },
-
     "hero": {
-        "h1":  "Profilieren Sie sich in der",
+        "h1": "Profilieren Sie sich in der",
         "h1a": "NuGenesis Ökosystem",
-        "h5":  "Karrieren, Berufe und Blockchain",
+        "h5": "Karrieren, Berufe und Blockchain",
         "h5a": "Unternehmen",
-        "h2":  "Möchten Sie der NuGenesis-Gemeinschaft beitreten?",
+        "h2": "Möchten Sie der NuGenesis-Gemeinschaft beitreten?",
         "h5b": "Die Blockchain-Technologie wird nun zum Mainstream. Der Tsunamie-Effekt der massenhaften Einführung wird die Art und Weise verändern, wie wir Geschäfte machen, Werte schaffen und austauschen und unsere Gesellschaft organisieren",
         "p1": "Sie können Teil dieser exponentiellen Phase der Informationsrevolution sein und auf dem Kamm der Welle reiten, die zu einem beispiellosen Wandel in der Schaffung von Wohlstand führt, der nicht mit dem Wandel der Welt, den wir als industrielle Revolution kennen, verglichen werden kann und ihn in den Schatten stellt",
         "p2": " Von allen Blockchain-Ökosystemen, die Sie untersuchen und vergleichen können, werden Sie zustimmen, dass NuGenesis an der Spitze steht. Wir haben die Grenzen der Skalierbarkeit, Transaktionsgeschwindigkeit und Interoperabilität durchbrochen. Wir sind ein System mit mehreren Ketten und paralleler Verarbeitung, und je mehr Nutzer, desto schneller und effizienter wird das System.",
         "p3": "Im Gegensatz zu anderen ist NuGenesis voll funktionsfähig und bereit für das Onboarding von Projekten und das Listing von Krypto-Assets",
         "p4": "Sie haben die Möglichkeit, von Anfang an dabei zu sein und aktiv an der Gestaltung des NuGenesis-Ökosystems mitzuwirken",
-        "p5": "Die meisten der Fähigkeiten und Qualifikationen für die neue Wirtschaft, die die Blockchain-Technologie mit sich bringt, sind noch gar nicht erfunden worden. Jeder, der Enthusiasmus, Initiative und Leidenschaft mitbringt, kann sich in der Blockchain-Welt voll entfalten und seine vorhandenen Talente auf vielfältige Weise einsetzen und neue hinzugewinnen."    },
+        "p5": "Die meisten der Fähigkeiten und Qualifikationen für die neue Wirtschaft, die die Blockchain-Technologie mit sich bringt, sind noch gar nicht erfunden worden. Jeder, der Enthusiasmus, Initiative und Leidenschaft mitbringt, kann sich in der Blockchain-Welt voll entfalten und seine vorhandenen Talente auf vielfältige Weise einsetzen und neue hinzugewinnen."
+    },
     "programs": {
         "h1": "NuGenesis-Programme",
         "p1": "Es ist ein einzigartiger Moment in der Geschichte. Die Blockchain-Technologie ist unvermeidlich. Die neue Wirtschaft wird die derzeitigen Ineffizienzen und Ungleichheiten obsolet machen. Wo wollt ihr sein? Wir möchten, dass Sie Ihren Enkeln erzählen, wie Sie zum Aufbau der neuen digitalen Welt beigetragen haben.",
         "p3": "Es beginnt genau hier."
-
-
     },
     "program-selection": {
         "div": "Botschafter-Programm",
-        "a": "Broschüre zum NuGENESIS-Botschafterprogramm",
+        "a": "Broschüre zum NuGenesis-Botschafterprogramm",
         "aone": "Gesandtschaftsurkunde",
         "atwo": "Ambassadors Leistungsplan",
         "athree": "Allgemeine Geschäftsbedingungen für Adoptionsvermittler",
         "afour": "Online Bewerbungsformular"
-
     },
-
     "diplomats_program": {
         "div": "Diplomaten-Programm",
-        "a": "Broschüre zum NuGENESIS-Diplomatenprogramm",
+        "a": "Broschüre zum NuGenesis-Diplomatenprogramm",
         "aone": "Diplomatische Urkunde",
         "atwo": "Diplomaten Leistungsplan"
-
     },
-
     "senators_program": {
-        "div":"Programm der Senatoren",
-        "a": "Broschüre zum NuGENESIS-Senator-Programm",
+        "div": "Programm der Senatoren",
+        "a": "Broschüre zum NuGenesis-Senator-Programm",
         "aone": "Senatorische Urkunde",
         "atwo": "Leistungsplan des Senators"
     },
     "market_consuls_program": {
         "div": "Programm Marktkonsuln",
-        "a": "Broschüre zum NuGENESIS-Marktkonsulat-Programm",
+        "a": "Broschüre zum NuGenesis-Marktkonsulat-Programm",
         "aone": "Marktkonsulatsurkunde",
         "atwo": "Leistungsplan der Marktkonsuln"
     },
-
     "network_concordat_program": {
         "div": "Netzwerk-Konkordatsprogramm",
-        "a":  "Broschüre zum Konkordatsprogramm des NuGENESIS-Netzwerks",
+        "a": "Broschüre zum Konkordatsprogramm des NuGenesis-Netzwerks",
         "aone": "Netzwerk-Konkordatsurkunde",
         "atwo": "Leistungsplan des Netzkonkordats"
     },
@@ -101,7 +93,7 @@
     },
     "nav": {
         "menu": "Menü",
-        "nucoin": "Nucoin",
+        "nucoin": "NuCoin",
         "just_social": "Einfach sozial",
         "explorer": "Entdecker",
         "nucoin_ledgerx": "NuCoin und LedgerX",
@@ -109,20 +101,17 @@
         "about_us": "Über uns",
         "team": "Team"
     },
-
     "toggledropdown": {
         "projects": "Projekte",
         "media": "Medien",
         "getting_involved": "Sich engagieren"
-
     },
-
     "home_page_hero": {
         "h1": "BLOCKCHAIN-BASIERTE TECHNISCHE INFRASTRUKTUR",
         "p1": "Willkommen auf der NuGenesis-Plattform: dem interoperablen Multi-Chain-Netzwerksystem, das Ihnen die optimale Kombination aus privat, öffentlich, offen, erlaubt und mit dem passenden Dezentralisierungsgrad zur Verfügung steht",
         "p2": "Es wird durch eine doppelte interne und externe künstliche Intelligenz (KI) gesichert und ist gasfrei und kohlenstoffneutral",
         "p3": "Mit ihrer unbegrenzten Größe und Geschwindigkeit ist die NuGenesis-Blockchain-Infrastruktur das Substrat für gaslose interaktive NFTs, Augmented und Virtual Reality. Das Rückgrat des Metaversums und des Metarealms.",
-        "p4":" NuGenesis hat keinen ICO durchgeführt. Das Unternehmen finanzierte selbst ein komplettes, funktionsfähiges Blockchain-System, bevor NuCoin ab dem 23. Dezember 2021 für die Öffentlichkeit verfügbar wurde. NuGenesis hat an Unternehmens- und Regierungslösungen gearbeitet, insbesondere für Länder, die CBDCs (Central Bank Digital Currencies) und Infrastrukturinstrumente einführen wollen. Dementsprechend hat NuGenesis die Blockchain von Anfang an neu entwickelt. Eine \"neue \" Genesis. Neu, nicht nur im Sinne eines anderen und frischen Denkens, sondern \"NU\" wie in N.U. - non-usury.",
+        "p4": " NuGenesis hat keinen ICO durchgeführt. Das Unternehmen finanzierte selbst ein komplettes, funktionsfähiges Blockchain-System, bevor NuCoin ab dem 23. Dezember 2021 für die Öffentlichkeit verfügbar wurde. NuGenesis hat an Unternehmens- und Regierungslösungen gearbeitet, insbesondere für Länder, die CBDCs (Central Bank Digital Currencies) und Infrastrukturinstrumente einführen wollen. Dementsprechend hat NuGenesis die Blockchain von Anfang an neu entwickelt. Eine \"neue \" Genesis. Neu, nicht nur im Sinne eines anderen und frischen Denkens, sondern \"NU\" wie in N.U. - non-usury.",
         "small": "Projekte ansehen"
     },
     "about": {
@@ -143,11 +132,12 @@
         "p4": "Die dezentralisierte Social-Media-Plattform befähigt die Nutzer, ihren Wert zu erkennen. JUST SOCIAL wurde entwickelt, um den Nutzern die Möglichkeit zu geben, ihren Wert mit Hilfe der Blockchain-Technologie wiederzugewinnen",
         "h5d": "SMART CONTRACT der nächsten Generation DIGITAL NOTRALISED CONTRACTS (DNC'S)",
         "p5": "Die NuGenesis-Innovation zur Erleichterung der Massenübernahme durch die Mainstream-Wirtschaft geht über die bestehenden Beschränkungen von Smart-Contract-Protokollen hinaus",
-        "h5e":"NFT City.Exchange - Interaktive NFT™-Plattform",        "p6":"Die NuGenesis Layer 1 NFT-Plattform ist gaslos. Sie ist so konzipiert, dass sie Innovationen fördert. Sie soll den Übergang von den eher statischen NFTs, die es derzeit gibt, zu interaktiveren NFTs fördern. NFTs, die über die Kunst hinausgehen und zum Spiel werden.",
+        "h5e": "NFT City.Exchange - Interaktive NFT™-Plattform",
+        "p6": "Die NuGenesis Layer 1 NFT-Plattform ist gaslos. Sie ist so konzipiert, dass sie Innovationen fördert. Sie soll den Übergang von den eher statischen NFTs, die es derzeit gibt, zu interaktiveren NFTs fördern. NFTs, die über die Kunst hinausgehen und zum Spiel werden.",
         "h5f": "DIE LEDGER X EXCHANGE BLOCKCHAINS",
-        "p7": "Ledger X ist eine vollwertige Börse (Fiat/Krypto), bei der die Preise durch die Brutalität des offenen Marktes bestimmt werden. Sie wurde als wichtiger Teil des NuGenesis-Ökosystems konzipiert, um sicherzustellen, dass das Kapital durch den Markt und nicht durch Anleihekurven und technokratische Formeln zugeteilt wird.",        "klein": "Projekte anzeigen"
+        "p7": "Ledger X ist eine vollwertige Börse (Fiat/Krypto), bei der die Preise durch die Brutalität des offenen Marktes bestimmt werden. Sie wurde als wichtiger Teil des NuGenesis-Ökosystems konzipiert, um sicherzustellen, dass das Kapital durch den Markt und nicht durch Anleihekurven und technokratische Formeln zugeteilt wird.",
+        "small": "Projekte anzeigen"
     },
-
     "medias": {
         "h4": "Medien",
         "h5": "NuGenesis in unter 4 Minuten",
@@ -159,7 +149,7 @@
         "h5d": "Möchten Sie eine Karriere, einen Beruf oder ein Unternehmen in der neuen Wirtschaft aufbauen?",
         "h5e": "Informieren Sie sich über die Möglichkeiten im NuGenesis-Ökosystem:",
         "p1": "Mit unbegrenzter Größe und Geschwindigkeit ist die NuGenesis-Blockchain-Infrastruktur das Substrat für gaslose interaktive NFTs, Augmented und Virtual Reality. Das Rückgrat des Metaversums und des Metarealms.",
-        "smalla":"Schließen Sie"
+        "smalla": "Schließen Sie"
     },
     "media": {
         "h4": "Medien",
@@ -167,7 +157,7 @@
         "p1": "NuGenesis ist das fortschrittlichste Blockchain-Ökosystem. Wir helfen Ihnen, unsere Vision und Mission in weniger als 4 Minuten zu verstehen",
         "h5a": "NuGenesis - Die Enthüllung",
         "p2": "NuGenesis ist endlich hier. Wir möchten Ihnen die heute verfügbaren Lösungen wie LedgerX, Hardware und das NuGenesis MetaRealm-Konzept vorstellen. Bei dieser Enthüllung werden wir auch unser Team aus der ganzen Welt, einschließlich Indien und Dubai, vorstellen",
-        "p3":  "Wir feiern die Evolution der Menschheit und zeigen Ihnen weitere Einblicke in die Roadmap der Nugenesis-Technologien. In dieser Enthüllung tauchen wir tiefer in die Reise und den Zweck von NuGenesis ein. Erfahren Sie mehr über die parallelen Verarbeitungsmöglichkeiten mit NuGenesis, die unvergleichliche Transaktionen pro Sekunde, KI und Sicherheit ermöglichen."
+        "p3": "Wir feiern die Evolution der Menschheit und zeigen Ihnen weitere Einblicke in die Roadmap der Nugenesis-Technologien. In dieser Enthüllung tauchen wir tiefer in die Reise und den Zweck von NuGenesis ein. Erfahren Sie mehr über die parallelen Verarbeitungsmöglichkeiten mit NuGenesis, die unvergleichliche Transaktionen pro Sekunde, KI und Sicherheit ermöglichen."
     },
     "the_nugenesis_flagship": {
         "h5": "Projekte",
@@ -220,13 +210,11 @@
         "p3": "In Transaktionsszenarien kann es erforderlich sein, Geld in Treuhand-Geldbörsen zu halten, mit oder ohne Multi-Sigs, und Standard-Geschäftsgepflogenheiten aufzuerlegen, wie zum Beispiel SGC-Inspektionen für Import-/Exportverträge. Das Ledger X-Blockchain-System ermöglicht es Entwicklern von intelligenten Verträgen, mit der parallelen Verarbeitung in den intelligenten Vertragsprotokollen innovativ zu sein, indem es die Beschränkung der linearen Zeitordnung aufhebt und die Flexibilität ermöglicht, sowohl vertikale als auch horizontale Ereignisse einzubeziehen.",
         "p4": "Wir stehen in Kontakt mit mehreren Rechtsordnungen hinsichtlich der Annahme eines Blockchain-Verhaltenskodex und von Krypto-Gesetzen, um Foren für die effiziente Beilegung von Streitigkeiten, die im Zusammenhang mit der Blockchain-Technologie entstehen, anzuerkennen und bereitzustellen. Diese Gerichtsbarkeiten können als Forum für die Streitbeilegung und das geltende Recht für eine breitere Palette von Geschäftssituationen genutzt werden."
     },
-
     "nft_city": {
         "h3": "NFT City.Exchange - Interaktive NFT™-Plattform",
         "p1": "Die NuGenesis Layer 1 NFT-Plattform ist völlig gasfrei. Sie ist so konzipiert, dass sie Innovationen fördert. Sie soll den Übergang von den eher statischen NFTs, die es derzeit gibt, zu interaktiveren NFTs fördern. NFTs, die über die Kunst hinausgehen und zum Spiel werden. NFTs, die durch Interaktion aufsteigen, sei es im Wettbewerb oder als Teil einer Sammlung",
         "p2": "Interaktive NFTs sind Vehikel für Geschäftsunterlagen, z. B. Personalausweise, Führerscheine, medizinische Unterlagen. Interaktive NFTs können Teil des Metarealms werden. Wenn interaktive NFTs Millionen von Transaktionen pro Sekunde oder als Teil des Metarealms Milliarden von Transaktionen pro Sekunde benötigen, kann die parallele Verarbeitung in mehreren Ketten dies leisten. Es gibt keine Konkurrenz."
     },
-
     "themetarealm": {
         "h3": "THE METAREALM",
         "p1": "Der NuGenesis-Metareal ist der Ort, an dem die NuGenesis-Technologie für den Laien greifbar wird. Der Meta-Raum ist darauf ausgelegt, Basisschicht-Transaktionen auf der Kette in Milliardenhöhe pro Sekunde unterzubringen",
@@ -254,7 +242,7 @@
         "p2": "Ledger X is decentralized in that, unlike say Binance, which has a central point of data storage, the data is decentralized with the 11 witness nodes across the globe. It offers a vital security advantage without compromising the instant settlement time.",
         "p3": "Die Dezentralisierung soll die Nutzer dazu ermutigen, ihre Bestände zu konsolidieren, ihre Portfolios anzuzeigen, zu überwachen und zu verwalten. Metriken und Analysen anzuwenden, die ohne die Risiken einer zentralisierten Börse verfügbar sind. Vermögenswerte von anderen Blockchains können hinterlegt werden und bleiben dabei interoperabel. Mit Multi-Sig, Treasury Wallets und der Möglichkeit, dass Nutzer ihre privaten Schlüssel behalten können, soll es den Nutzerkomfort bieten, der für eine optimale Massenakzeptanz erforderlich ist.",
         "p4": "Was wollen Sie noch wissen?",
-        "a":  "Link",
+        "a": "Link",
         "p5": " Ledger X ist skalierbar und hochleistungsfähig; es wurde für neue Projekte entwickelt, um kostengünstig und effizient Münzen zu erzeugen oder zu prägen, die dem offenen Markt zur Verfügung gestellt werden können, oder für bestehende Projekte, um durch zusätzliche Freigabemechanismen weitere Liquidität zu erhalten.",
         "p6": " Die Leger X-Börse ist eine parallel verarbeitende Tri-Blockchain-Konfiguration",
         "p7": "Die drei Ketten umfassen:",
@@ -271,7 +259,7 @@
         "p13": "Wie die NuGenesis-Blockchain ist sie skalierbar, so dass parallele Ketten erstellt und überbrückt werden können. Sie ist insofern flexibel, als sie es Entwicklern ermöglicht, ein eher vertikales Side-Chain-Szenario zu schaffen. Es gibt weltweit verteilte Superknoten. Bei den 11 Zeugenknoten handelt es sich um Superknoten, die in 8 Ländern auf vier Kontinenten eingerichtet sind.",
         "p14": "Das kettenübergreifende Protokoll ermöglicht die Verankerung von Vermögenswerten auf anderen öffentlichen Ketten durch intelligente Verträge und Skripte, um neu erstellte Krypto-Vermögenswerte in den Ledger X-Börsen-Wallets der Nutzer zu erstellen oder Teil davon zu sein",
         "p15": "Eine derzeitige Einschränkung von Smart Contracts besteht darin, dass sie nicht mit Blick auf paralleles Rechnen entwickelt wurden und mit einem linearen Zeitordnungsprozess arbeiten. Das Ledger X Side-Chain-Protokoll ermöglicht es Entwicklern von intelligenten Verträgen, Side-Chain-Mechanismen einzuführen, die gleichzeitig ablaufen und eine größere Flexibilität für vertikale Side-Chain-Szenarien bieten."
- },
+    },
     "team": {
         "h4": "Team",
         "h5": "Luay Mohsen",
@@ -309,41 +297,31 @@
         "h5p": "Kevin Bowen",
         "smallsixteen": "MARKETINGCHEF"
     },
-
-    "trans_link" :
-    {
-      "ambassador_program_nugenesis":"en/Ambassador Program/01 NuGENESIS Ambassador Program Brochure .docx",
-      "ambassador_program_deed":"en/Ambassador Program/02 Ambassadorial Deed.docx",
-      "ambassador_program_performance":"en/Ambassador Program/03 Ambassadors Performance Plan.docx",
-      "ambassador_program_terms_condition":"en/Ambassador Program/General Terms and Conditions of Adoption Facilitators.docx",
-      "ambassador_program_online_application":"en/Ambassador Program/online application form.docx",
-      "diplomats_program_nugenesis":"en/Diplomat's program/01 NuGENESIS Diplomats Program Brochure.docx",
-      "diplomats_program_deed":"en/Diplomat's program/02 Diplomatic Deed.docx",
-      "diplomats_program_performance":"en/Diplomat's program/03 Diplomats Performance Plan.docx",
-      "diplomats_program_terms_condition":"en/Diplomat's program/General Terms and Conditions of Adoption Facilitators.docx",
-      "diplomats_program_online_application":"en/Diplomat's program/online application form.docx",
-      "sanators_program_nugenesis":"en/PDF Senator Program Final/01 NuGENESIS Senator Program Brochure.pdf",
-      "sanators_program_deed":"en/PDF Senator Program Final/02 Senatorial Deed.pdf",
-      "sanators_program_performance":"en/PDF Senator Program Final/03 Senators Performance Plan.pdf",
-      "sanators_program_terms_condition":"en/PDF Senator Program Final/General Terms and Conditions of Adoption Facilitators.pdf",
-      "sanators_program_online_application":"en/PDF Senator Program Final/online application form.pdf",
-      "market_consuls_program_nugenesis":"en/Market Consuls Program/01 NuGENESIS Market Consuls Program Brochure.docx",
-      "market_consuls_program_deed":"en/Market Consuls Program/02 Market Consul Deed.docx",
-      "market_consuls_program_performance":"en/Market Consuls Program/03 Market Consuls Performance Plan.docx",
-      "market_consuls_program_terms_condition":"en/Market Consuls Program/General Terms and Conditions of Adoption Facilitators.docx",
-      "market_consuls_program_online_application":"en/Market Consuls Program/online application form.docx",
-      "network_concordat_program_nugenesis":"en/Network Concordat program/01 NuGENESIS Network Concordat Program Brochure.docx",
-      "network_concordat_program_deed":"en/Network Concordat program/02 Network Concordat Deed.docx",
-      "network_concordat_program_performance":"en/Network Concordat program/03 Network Concordat Performance Plan.docx",
-      "network_concordat_program_terms_condition":"en/Network Concordat program/General Terms and Conditions of Adoption Facilitators.docx",
-      "network_concordat_program_online_application":"en/Network Concordat program/online application form.docx"
-
+    "trans_link": {
+        "ambassador_program_nugenesis": "en/Ambassador Program/01 NuGENESIS Ambassador Program Brochure .docx",
+        "ambassador_program_deed": "en/Ambassador Program/02 Ambassadorial Deed.docx",
+        "ambassador_program_performance": "en/Ambassador Program/03 Ambassadors Performance Plan.docx",
+        "ambassador_program_terms_condition": "en/Ambassador Program/General Terms and Conditions of Adoption Facilitators.docx",
+        "ambassador_program_online_application": "en/Ambassador Program/online application form.docx",
+        "diplomats_program_nugenesis": "en/Diplomat's program/01 NuGENESIS Diplomats Program Brochure.docx",
+        "diplomats_program_deed": "en/Diplomat's program/02 Diplomatic Deed.docx",
+        "diplomats_program_performance": "en/Diplomat's program/03 Diplomats Performance Plan.docx",
+        "diplomats_program_terms_condition": "en/Diplomat's program/General Terms and Conditions of Adoption Facilitators.docx",
+        "diplomats_program_online_application": "en/Diplomat's program/online application form.docx",
+        "sanators_program_nugenesis": "en/PDF Senator Program Final/01 NuGENESIS Senator Program Brochure.pdf",
+        "sanators_program_deed": "en/PDF Senator Program Final/02 Senatorial Deed.pdf",
+        "sanators_program_performance": "en/PDF Senator Program Final/03 Senators Performance Plan.pdf",
+        "sanators_program_terms_condition": "en/PDF Senator Program Final/General Terms and Conditions of Adoption Facilitators.pdf",
+        "sanators_program_online_application": "en/PDF Senator Program Final/online application form.pdf",
+        "market_consuls_program_nugenesis": "en/Market Consuls Program/01 NuGENESIS Market Consuls Program Brochure.docx",
+        "market_consuls_program_deed": "en/Market Consuls Program/02 Market Consul Deed.docx",
+        "market_consuls_program_performance": "en/Market Consuls Program/03 Market Consuls Performance Plan.docx",
+        "market_consuls_program_terms_condition": "en/Market Consuls Program/General Terms and Conditions of Adoption Facilitators.docx",
+        "market_consuls_program_online_application": "en/Market Consuls Program/online application form.docx",
+        "network_concordat_program_nugenesis": "en/Network Concordat program/01 NuGENESIS Network Concordat Program Brochure.docx",
+        "network_concordat_program_deed": "en/Network Concordat program/02 Network Concordat Deed.docx",
+        "network_concordat_program_performance": "en/Network Concordat program/03 Network Concordat Performance Plan.docx",
+        "network_concordat_program_terms_condition": "en/Network Concordat program/General Terms and Conditions of Adoption Facilitators.docx",
+        "network_concordat_program_online_application": "en/Network Concordat program/online application form.docx"
     }
-
-
-
-
-
-
 }
-
