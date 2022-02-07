@@ -1,11 +1,11 @@
 @extends('layout')
 @section('content')
-	<div class="mb-5 shadow" id="hero-container">
+	<div class="mb-5 shadow" id="hero-container" >
         <header id="header" class="custom-container container-xl position-relative">
 			@include('nav')
         </header>
 	</div>
-	<section class="custom-container container-xl pt-5">
+	<section class="custom-container container-xl pt-5" @if(\App\Language::isRTL()) dir="rtl" @endif>
 		<div class="row">
 			<div class="col-lg-10 offset-lg-1 text-center mb-5">
 				<h4 class="mb-5">

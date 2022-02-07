@@ -1,5 +1,5 @@
 
-    <nav id="navbar" class="px-0 py-2 py-lg-5 navbar navbar-light navbar-expand-lg">
+    <nav id="navbar" class="px-0 py-2 py-lg-5 navbar navbar-light navbar-expand-lg" @if(\App\Language::isRTL()) dir="rtl" @endif >
         <a class="navbar-brand" href="/">
             <img src="../images/nugenesisou-logo-1.png" alt="logo" height="60">
         </a>

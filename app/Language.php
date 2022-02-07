@@ -9,6 +9,8 @@ class Language{
          ['name'=>'ja','icon'=>'fi fi-jp','full_name'=>'Japanese'],
          ['name'=>'kr','icon'=>'fi fi-kr','full_name'=>'Korean'],
     ];
+    
+    const RTL_LANGUAGES=['ar'];
 
     public static function getLanguageList(){
         $languages=[];
@@ -44,6 +46,26 @@ class Language{
             return $path[count($path)-1];
         }
         return '';
+    }
+
+    private static function getSelectedLanguageName(){
+        $selected= Language::getSelectedLanguage();
+        if($selected && isset($selected['name'])){
+            return $selected['name'];
+        }
+
+        return '';
+    }
+
+    public static function isRTL(){
+        return in_array(Language::getSelectedLanguageName(),Language::RTL_LANGUAGES);
+    }
+
+    public static function direction(){
+        if(Language::isRTL()){
+            return 'rtl';
+        }
+        return 'ltr';
     }
     
 

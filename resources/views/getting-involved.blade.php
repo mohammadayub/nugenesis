@@ -7,7 +7,7 @@
 	        </header>
 	    </div>
 
-	    <section id="hero" class="py-5 position-relative">
+	    <section id="hero" class="py-5 position-relative" @if(\App\Language::isRTL()) dir="rtl" @endif>
 	        <div class="hero-bg position-absolute z-index-1"></div>
 	        <div class="custom-container container-xl py-5 z-index-2 position-relative">
 	            <div class="row py-md-5 py-0">

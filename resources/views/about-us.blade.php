@@ -1,6 +1,6 @@
 @extends('layout')
 @section('content')
-    <div id="about-us">
+    <div id="about-us" @if(\App\Language::isRTL()) dir="rtl" @endif>
 		<div class="mb-5 display-relative shadow" id="hero-container">
 			<header id="header" class="custom-container container-xl position-relative">
                 @include('nav')

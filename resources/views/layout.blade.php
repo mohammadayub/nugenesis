@@ -23,6 +23,14 @@
 	<link rel="stylesheet" href="{{asset('/css/owl.carousel.min.css')}}">
 	<link rel="stylesheet" href="{{asset('/css/owl.theme.default.min.css')}}">
 	<link rel="stylesheet" href="{{asset('/css/flag-icons.min.css')}}">
+	@if(\App\Language::direction() == 'rtl')
+		<style>
+				body, li , p , h5{
+					text-align:right !important;
+					direction:rtl;
+				}
+		</style>
+	@endif
 </head>
 <body>
     @yield('content')
