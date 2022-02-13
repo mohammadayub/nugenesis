@@ -1,7 +1,10 @@
 <?php
 
+use App\Http\Controllers\KeyLanguageController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Config;
+use Tests\Feature\KeyLanguageTest;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -54,5 +57,7 @@ Route::get('/media',function(){
 Route::get('/language',function(){
     return view('language');
 });
+
+Route::get('/data', [KeyLanguageController::class, 'index']);
 
 });
