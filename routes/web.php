@@ -58,6 +58,4 @@ Route::get('/language',function(){
     return view('language');
 });
 
-Route::get('/data', [KeyLanguageController::class, 'index']);
-
 });
