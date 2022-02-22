@@ -103,6 +103,14 @@ body {
     overflow-x: hidden !important;
   }
 
+  .nav-link {
+    color: whitesmoke;
+  }
+
+  .nav-link:hover {
+    color: darkgray;
+  }
+
   .dropdown-menu .nav-link {
     color: #7f7f7f !important;
   }
@@ -110,10 +118,60 @@ body {
   .nav-link.active {
     color: var(--base-color) !important;
   }
+
+  // text color
+
+  .text-color-1 {
+    color: #db9632;
+  }
+
+  .text-color-2 {
+    color: #2f87a5;
+  }
+
+  .text-color-3 {
+    color: #08fbf7;
+  }
+
+  .text-color-4 {
+    color: #000D37;
+  }
+
+  // accent color
+  .bg-color-1 {
+    background-color: #000D37;
+  }
+
+  .bg-color-2 {
+    background-color: #2f87a5;
+  }
+
+  .bg-color-3 {
+    background-color: #08fbf7;
+  }
+
+  .bg-color-4 {
+    background-color: #daf6ff;
+  }
+
+  .bg-color-5 {
+    background-color: #db9632 !important;
+  }
 }
 
 #home {
   #hero-container {
+    background-image: url("../images/home/assets/Header.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 200px !important;
+
+    @media (max-width: 991px) {
+      background-size: auto 100%;
+      // background-position: right;
+    }
+
     #hero {
       .hero-text {
         font-weight: 600;
@@ -159,10 +217,13 @@ body {
       opacity: 0.7;
     }
 
+    .about-image {
+      transform: scale(1.1);
+    }
+
     .coin-left {
       left: -170px;
-      top: 250px;
-      // opacity: 0.4;
+      top: 700px;
 
       @media (max-width: 991px) {
         display: none;
@@ -171,7 +232,7 @@ body {
 
     .coin-right {
       right: -170px;
-      top: 100px;
+      top: 200px;
 
       @media (max-width: 991px) {
         opacity: 0.4;
@@ -201,10 +262,39 @@ body {
         }
       }
     }
+
+    .hero-boxes {
+      margin-top: -124px;
+    }
   }
 
   #projects {
+
+    background-image: url("../images/home/assets/bg-middle.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+    .coin-right {
+      right: -170px;
+      top: 700px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }    
+    }
+
+    .coin-left {
+  
+      left: -170px;
+      top: 200px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+
     .project-cards {
+
       .card {
         width: 320px;
 
@@ -212,9 +302,16 @@ body {
           height: 574px !important;
 
           .link-btn {
+            width: 100%;
             bottom: 24px;
             left: 50%;
             transform: translate(-50%, 0);
+
+            @media (max-width: 767px) {
+              a {
+                width: 100% !important;
+              }
+            }
           }
         }
 
@@ -299,6 +396,11 @@ body {
   }
 
   #community_participation {
+
+    background-image: url("../images/home/assets/bg-bottom.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
     .container-bg-video {
       top: 50%;
       transform: translate(0, -50%);
@@ -326,6 +428,24 @@ body {
 }
 
 #about-us {
+
+  #header {
+    background-image: url("../images/bg-navigation\ bar.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    @media (max-width: 991px) {
+      background-size: auto 100% !important;
+    }
+  }
+
+  footer {
+    background-image: url("../images/about_us/Assets/bg-footer.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+  
   p {
     line-height: 2;
   }
@@ -391,6 +511,20 @@ body {
       }
     }
   }
+
+  #system {
+    background-image: url("../images/about_us/Assets/Abtbg-illustration.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+
+    @media (max-width: 767px) {
+      p {
+        color: #2f87a5 !important;
+      }
+
+      background: none;
+    }
+  }
 }
 
 #modals {
@@ -426,12 +560,310 @@ body {
 }
 
 #media {
+
+  #hero-container {
+
+    .coin-right {
+      right: -170px;
+      top: 150px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }    
+    }
+
+    .coin-left {
+  
+      left: -170px;
+      top: 400px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+
+    #header {
+      background-image: url("../images/bg-navigation\ bar.png");
+      background-size: 100% auto;
+      background-repeat: no-repeat;
+
+      background-position: center;
+
+      @media (max-width: 991px) {
+        background-size: auto 100% !important;
+      }
+    }
+
+    .welcome {
+      margin-bottom: 0px !important;
+    }
+
+    .hero-text {
+      font-size: 100px;
+      font-weight: bold;
+
+      @media (max-width: 991px) {
+        font-size: 60px; 
+      }
+    }
+
+    .hero-image {
+      transform: scale(1.5);
+      left: 100px;
+      top: 150px;
+
+      @media (max-width: 991px) {
+        transform: scale(1);
+        left: 20%;
+        transform: translate(0, -50%);
+      }
+    }
+  }
+
+  #content {
+
+    background-image: url("../images/media/Assets/bg-media.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+    .coin-right {
+      right: -170px;
+      top: 1000px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }    
+    }
+
+    .coin-left {
+  
+      left: -170px;
+      top: 300px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+
+    .socials {
+
+      margin-top: 100px !important;
+
+      @media (max-width: 991px) {
+        margin-top: 100px !important;
+      }
+
+      p {
+        margin-bottom: 0 !important;
+      }
+      
+      .social-links {
+        border-radius: 20px;
+      }
+    }
+  }
+
   iframe {
     width: 100%;
     height: 400px;
 
     @media (max-width: 767px) {
       height: 300px !important;
+    }
+  }
+}
+
+#projects {
+
+  line-height: 1.8;
+
+  #hero-container {
+
+    .coin-right {
+      right: -170px;
+      top: 150px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }    
+    }
+
+    .coin-left {
+  
+      left: -170px;
+      top: 400px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+
+    #header {
+      background-image: url("../images/bg-navigation\ bar.png");
+      background-size: 100% auto;
+      background-repeat: no-repeat;
+
+      background-position: center;
+
+      @media (max-width: 991px) {
+        background-size: auto 100% !important;
+      }
+    }
+
+    .welcome {
+      margin-bottom: 0px !important;
+    }
+
+    .hero-text {
+      font-size: 100px;
+      font-weight: bold;
+
+      @media (max-width: 991px) {
+        font-size: 60px; 
+      }
+    }
+
+    .hero-image {
+      transform: scale(1.5);
+      left: 150px;
+      top: 150px;
+
+      @media (max-width: 991px) {
+        // position: relative !important;
+        opacity: 0.4;
+        // transform: scale(1);
+        // left: 20%;
+        // transform: translate(0, -50%);
+      }
+    }
+  }
+
+  #hero-sub {
+
+    background-image: url("../images/projects/Assets/bg-projects\ 2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    .coin-right {
+      right: -170px;
+      top: 1000px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }    
+    }
+  }
+
+  #bitcoin {
+
+    .coin-right {
+      left: 70vw;
+      bottom: 0px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }    
+    }
+  }
+
+  #troy {
+
+    background-image: url("../images/projects/Assets/bg-projects\ 3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  #just-social {
+
+    .coin-right {
+      right: -170px;
+      top: 150px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }    
+    }
+
+    .coin-left {
+  
+      left: -170px;
+      top: 700px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+  }
+
+  #dnc {
+
+    background-image: url("../images/projects/Assets/bg-projects\ 4.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  #exchange {
+    img.nft {
+      transform: scale(1.2);
+    }
+
+    .coin-right {
+      right: -170px;
+      top: 1800px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }    
+    }
+
+    .coin-left {
+  
+      left: -170px;
+      top: 600px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+  }
+
+  #blockchains {
+
+    .coin-right {
+      right: -170px;
+      top: 500px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }    
+    }
+  }
+
+  .ledgerx-box {
+
+    border-radius: 12px !important;
+  }
+
+  #scalable {
+
+    .coin-right {
+      right: -170px;
+      top: 1800px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }    
+    }
+
+    .coin-left {
+  
+      left: -170px;
+      top: 600px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
     }
   }
 }
@@ -452,23 +884,37 @@ body {
   }
 
   .nav-link {
-    color: whitesmoke;
+    color: whitesmoke !important;
+  }
+
+  .nav-link.dropdown {
+    color: #838678 !important;
   }
 
   #hero {
-    margin-bottom: 400px !important;
+    margin-bottom: 200px !important;
 
-    .hero-bg {
-      background-image: url("../images/Header-BG.png");
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-position: center;
+    .hero-video {
       width: 100%;
       height: 100%;
-      transform: scale(1.8);
+      left: 300px;
+
+      video {
+        width: 100%;
+        height: auto;
+
+        @media (max-width: 991px) {
+          width: auto;
+          height: 100%;
+        }
+      }
+
+      @media (max-width: 991px) {
+        left: -100px;
+      }
     }
 
-    @media (max-width: 767px) {
+    @media (max-width: 991px) {
       background-size: auto !important;
       margin-bottom: 0px !important;
     }
@@ -476,6 +922,10 @@ body {
     .hero-text {
       font-weight: 600;
       font-size: 60px !important;
+
+      @media (max-width: 991px) {
+        font-size: 40px !important;
+      }
     }
 
     .hero-sub-text {
@@ -600,13 +1050,18 @@ body {
         width: 33.33vw;
       }
     }
+  }
+}
 
-    // img {
+#general-terms-and-conditions {
 
-    //   @media (max-width: 767px) {
+  li {
+    margin-bottom: 16px;
+  }
 
-    //     height: 200px !important;
-    //   }
-    // }
+  #content {
+    ul {
+      list-style-type: disc;
+    }
   }
 }

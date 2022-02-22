@@ -1,96 +1,512 @@
 {
-    "about-us": {
-        "h4": "About Us",
-        "h6": "Welcome to the NuGenesis platform: the multi-chain interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit. (There are 4 Patents Pending on the key aspects of the platform).",
-        "p1": "Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.",
-        "p2": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.",
-        "p3": "The NuGenesis system is a network of parallel processing sovereign blockchains (including a Bitcoin and Ethereum chain for example) and multi-lingual with 29 different languages allowing dApps built elsewhere to be seamlessly interoperable.",
-        "p4": "It is a system designed for unlimited scalability to cater for mass adoption of blockchain tech. NuGenesis works with other projects to promote composability, elimination of information silos and the advancement of blockchain solutions to users meeting the demands of mass adoption.",
-        "p5": "NuGenesis is entirely gasless and totally green!",
-        "p6": "Roadmap 1 is fully completed. NuGenesis is a fully operational blockchain system, including a gasless interactive NFT™ platform, next gen smart contract Digital Notarised Contract DNC platform, serialised digital asset platform for next gen DeFi, mutli-coin smart chain and a complete ecosystem including a crypto-centric social media platform (Just Social) and a fully-fledged Fiat-Crypto exchange, Ledger X.",
-        "p7": "Roadmap 2 is underway. The interactive NFTs are gamified, level-up and transition into augmented and virtual reality in the meta-realm.",
-        "p8": "The NuGenesis system has a constant rate of innovation built into the code. The minting system provides for special purpose treasuries to fund the continuous rate of upgrade and innovation.",
-        "p9": "User governance is encouraged; supported by a number of programs for community building and fostering those wishing to make crypto tech their career, profession and business."
+    "home_page_hero": {
+        "h1": "BLOCKCHAIN BASED TECHNICAL INFRASTRUCTURE",
+        "p1": "Welcome to the NuGenesis platform: the multi-chain, interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit.",
+        "p2": "Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.",
+        "p3": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented, and virtual reality. The backbone of the metaverse and metarealm.",
+        "p4": "NuGenesis did not have an ICO. It funded a complete operational blockchain system itself before NuCoin became available to the public from 23 December 2021. NuGenesis has been working on enterprise and government solutions, particularly for countries seeking to implement Central Bank Digital Currencies (CBDCs) and infrastructure instruments. Accordingly NuGenesis re-engineered blockchain from inception. A \"new\" Genesis. New, not only in different and fresh thinking, but \"NU\" as in N.U. – non-usury.",
+        "viewproject": "View Projects"
     },
-    "contact-us": {
-        "h4": "Contact Us",
-        "h4a": "Want the service of the NuGenesis team?",
-        "p1": "We work with a small number of select teams. If you are interested in discussing working together,please tell us about yourself, your use case, and what you're looking for.",
-        "label": "Email",
-        "labela": "What's your name",
-        "labelb": "What's the name of your company/organization?",
-        "labelc": "What's your title/designation",
-        "labeld": "Briefly describe your blockchain use case. Feel free to share links to your website or Github",
-        "labele": "Tell us a bit about your team, its size, and what it does.",
-        "labelf": "What are you looking for?",
-        "small": "Submit"
+
+
+    "home_page_about": {
+        "scalability":"Scalability",
+        "p4":"Global scalability and speeds with Dual AI Integrity and Security Systems.",
+        "interoperability":"Interoperability",
+        "p5":"Cross-chain parallel processing and accelerating innovation through collaboration.",
+        "sustainability":"Sustainability",
+        "p6":"Governance that preserves the best of decentralisation and continual improvement.",
+        "about_nugenesis": "About NuGenesis",
+        "p1": "Welcome to the NuGenesis platform: the multi-chain interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit. (There are 4 Patents Pending on the key aspects of the platform).",
+        "p2": "Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.",
+        "p3": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm."
     },
-    "address-info": {
-        "h6": "Contact #",
-        "p1": "9/A-1 Pratapgunj Opp. C. S. Patel Enclaves Vadodara, Gujarat � 390002, India",
-        "p2": "(+91) 999 8526878",
-        "p3": "admin@nucoin.com.au"
+
+
+    "home_page_projects": {
+        "projects": "Projects",
+        "p1": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented, and virtual reality. The backbone of the metaverse and metarealm. Learn more about our Projects.",
+        "the_nugenesis_flagship":"The NuGenesis flagship: NU Coin",
+        "p2": "NuGenesis’ flagship blockchain, NU Coin, is a fully operational and is already at zero-carbon emission. It is way past the POW vs POS debate!",
+        "troy_gold": "TROY Gold-backed token denominated in major currencies",
+        "p3": "A troy is a token to represent the fiat currency representation in physical gold. For example Troy USD (TUSD) Troy Euro (TEURO) Troy AUD (TAUD) etc. It functions similar to a stable coin and a remittance tool.",
+        "just_social": "JUST SOCIAL",
+        "p4": "The decentralised social media platform that empowers users to realise their value. JUST SOCIAL is designed to allow users to re-claim their value using the technology of blockchain.",
+        "next_generation": "Next Generation SMART CONTRACT DIGITAL NOTRALISED CONTRACTS (DNC'S)",
+        "p5": "The NuGenesis innovation to facilitate mass adoption by the mainstream economy is to go beyond existing limitations of smart contract protocols.",
+        "nft": "NFT City.Exchange - Interactive NFT™ Platform",
+        "p6": "NuGenesis Layer 1 NFT Platform is totally gasless. It is designed to encourage innovation. To encourage the shift from the rather static NFTs that are currently in existence, to more interactive NFTs. NFTs that transcend art into gaming.",
+        "the_ledger": "THE LEDGER X EXCHANGE BLOCKCHAINS",
+        "p7": "Ledger X is fully fledged (fiat/crypto) exchange where prices are determined by the brutality of the open market. It was designed to be an important part of the NuGenesis ecosystem to ensure capital is to be allocated by the market rather than bond curves and technocratic formulae.",
+        "learnmore":"Learn More"
     },
-    "footer": {
-        "copy": "NuGenesis &copy; 2021. All rights reserved."
+    "home_page_medias": {
+        "media": "Media",
+        "p1": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented, and virtual reality. The backbone of the metaverse and metarealm.",
+        "community_participation": "Community Participation",
+        "get_involved":"Get involved and make your mark?",
+        "nugenesis_community": "Want to become a part of the NuGenesis community?",
+        "new_economy": "Want to make a career, profession, or business in the new economy?",
+        "nugenesis_ecosystem": "Check out the opportunities in the NuGenesis ecosystem:",
+        "p2": "Unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.",
+        "close": "Close"
     },
-    "hero": {
-        "h1": "Make Your Mark within the",
-        "h1a": "NuGenesis Ecosystem",
-        "h5": "Careers, Professions and Blockchain",
-        "h5a": "Businesses",
-        "h2": "Want to join the NuGenesis Community?",
-        "h5b": "Blockchain technology is now becoming mainstream. The tsunamic effect of mass adoption will change the way we do business, create, and exchange value, and organize our society.",
-        "p1": "You can be part of this exponential phase of the information revolution and ride the crest of the wave to an unprecedented change in wealth creation that cannot be compared to and will dwarf the change to the world that we know as the Industrial Revolution.",
-        "p2": "Of all the blockchain ecosystems that you can research and contrast, you will agree that NuGenesis is at the forefront. We have broken the barriers of scalability, transactional speed, and interoperability. We are a system of multi-chains and parallel processing, and with more users, the faster and more efficient the system becomes.",
-        "p3": "Unlike others, NuGenesis is fully functional and ready for onboarding projects and listing crypto assets.",
-        "p4": "You have an opportunity to get on at the ground floor and take an active part in the shaping of the NuGenesis ecosystem.",
-        "p5": "Most of the skills and qualifications for the new economy brought in by blockchain technology have not even been invented yet. Anyone with enthusiasm, initiative, and passion can become fully emersed in the blockchain world and use their existing talents in numerous ways as well as acquiring others."
+
+    "about-us_page_hero":{
+        "about_nugenesis":"About NuGenesis",
+        "p1":"NuGenesis is system of blockchain technologies to reap the potential in the mass adoption of the crypto market. It integrates blockchain load balancers and system validators to efficiently flow data into infinite parallel processing blockchains. The more users, the faster the transaction speed!",
+        "p2":"NuGenesis parallel processing blockchains are multilingual cross chains allowing dApps built on Eth, Substrate, Bitcoin and 29 other language systems to be seamlessly interoperable.",
+        "p3":" NuGenesis blockchain network configurations are complete and functional, and in-built in the code to constantly improve and innovate. It is entirely gasless. It is zero-carbon emission, and totally Green."
+
     },
-    "programs": {
-        "h1": "NuGenesis Programs",
-        "p1": "It is a unique moment in history. Blockchain technology is inevitable. The new economy will render the current inefficiencies and inequalities obsolete. Where do you want to be? We want you to tell your grandchildren about how you help to build the new digital world.",
-        "p3": "It starts right here."
+   "about-us_page_system":{
+       "p1":"NuGenesis is a fully completed native blockchain originally built for Government and transnational corporate applications. In the context of building a blockchain for Central Bank Digital Currencies (CBDCs), and an exchange clearing house for settlement, limitations to scaling and speed, latency and reliance on human miners and validators had to be eliminated. Security had to be enhanced, its integrity underscored by Artificial Intelligence (AI) and carbon neutral in its efficiency."
+
+   },
+   "about-us_page_roadmap":{
+       "roadmap":"Roadmap 1",
+       "p1":"Roadmap 1 is fully completed. NuGenesis is a fully operational blockchain system, including a gasless interactive NFT platform, next gen smart contract Digital Notarised Contract (DNC) platform, serialised digital asset platform for next gen Decentralised Finance (DeFi), mutli-coin smart chain and a complete ecosystem including a crypto-centric social media platform (Just Social) and a fully-fledged Fiat-Crypto exchange, LedgerX.",
+       "roadmapone":"Roadmap 2",
+       "p2":"Roadmap 2 is underway. The interactive NFTs are gamified, level-up and transition into augmented and virtual reality in the meta-realm.",
+       "p3":"The NuGenesis system has a constant rate of innovation built into the code. The minting system provides for special purpose treasuries to fund the continuous rate of upgrade and innovation.",
+       "p4":"User governance is encouraged; supported by a number of programs for community building and fostering those wishing to make crypto tech their career, profession and business."
+   },
+
+   "projects_page_hero" :{
+
+    "ourprojects":"Our Projects",
+    "the_nugenesis_flagship":"The NuGenesis Flagship:",
+    "nucoin":"NuCoin",
+    "p1":"NuCoin is the native currency in the NuGenesis ecosystem.",
+    "p2":"NuGenesis' flagship blockchain, NuCoin, is fully operational and is already at zero-carbon emissions. It is way past the Proof Of Work (POW) vs Proof Of Stake (POS) debate!",
+    "p3":"With Proof of Authority with useful work AI (Artificial Intelligence) as one of several consensus mechanisms, including consensus before packing, NuGenesis’ NuCoin uses system validator nodes running on the randomness of a round robin protocol and monitored by AI to underscore system integrity.",
+    "p4":" The streamlined validation process, through the super nodes with byzantine fault tolerance and randomness, reduces unnecessarily superfluous broadcasting through validation networks. Being gasless, there are no requests from 1000’s of validators and fee actions."
+
+   },
+
+   "projects_page_hero_sub":{
+       "p1":" NuCoin integrates blockchain load balancers and system validators to efficiently flow data into infinite parallel processing blockchains. It achieves unlimited scalability and transaction speeds. The more users, the faster the transaction speed!",
+       "p2":"NuCoin has multiple uses in the NuGenesis ecosystem. It is the principal currency for all services available (and NuCoin is burned on use), including the currency used in the NuTech cities and special economic zones established with participating jurisdictions. NuCoin is essential for staking by all projects as an effective “fee” for using the system. NuCoin is essential to the ranks involved in the Governance system. The ownership of NuCoin is designed to be widely dispersed, by contrast to tems with the intended effect that users are motivated to establish their substantial economic presence in the NuGenesis ecosystem.",
+       "p3":" Whilst a number of NuGenesis projects (such as LedgerX, Just Social, the Metarealm, V2R, Bitcoin NU and Bitcoin Green, etc) will stand on their own with their own digital assets, NuCoin holders will always be entitled to early and preferential access to these projects."
+   },
+
+   "projects_page_bitcoin":{
+       "bitcoinnu":"Bitcoin NU",
+       "p1":"For the lovers of the classic Bitcoin protocol but for whom the excessive energy demands of the mathematical processes to secure the bitcoin network are too great, NuGenesis has worked with certain Bitcoin devs to create Bitcoin Nu. The system retains the Bitcoin open source code with all the benefits of the robustness from over 12 years of testing.",
+       "p2":"The blockchain proves have that with code change alone unnecessary complexity can be removed and the consequent computational power expended. Most of the environmental problems can be minimised.",
+       "p3":"Mining can be achieved by every day users on their laptops as intended by Satoshi. They prevent the ASIC mining that uses the unnecessary resources.",
+       "p4":"Simultaneously, they can achieve scalability and efficient transaction speed: that is to 1 minute block finalisation, increasing the transaction speed from 45 T/per second as compared to the current 7 T/per second.",
+       "p5":"To offset the carbon footprint of the BTCNU mined, NuGenesis has added an ‘Treasury Offset Anti-carbon System Wallet’ to collect a portion of mined coins to fund ‘carbon offset’ programs such as reforestation projects.",
+       "bitcoingreen":"Bitcoin Green",
+       "p6":" As a further innovation from BitCoin NU, through BitCoin Green, NuGenesis has achieved the 2nd phase in making Bitcoin tech completely green. This blockchain uses proof of useful work AI as at consensus mechanism. They incorporate NAVIS (NuGenesis Artifical Validation Intellegence System) to ensure system security and integrity. Dedicated sub-treasuries are available for specific ‘carbon offset’ projects in reforestation and soil rejuvination. Minting mechansims and staking protocols replace the current halving algaorithims and complexity rates. The speeds here are testing at 1, 500-100,00 T/per second",
+       "p7":" Carbon offests, in both chains are written into the code. The treasuries ensure on-going funding of reforestation and soil rejuvination automatically."
+   },
+
+   "projects_page_troy":{
+      "troy_gold":"TROY Gold-backed token denominated in major currencies",
+      "p1":"A troy is a token to represent the fiat currency representation in physical gold. For example Troy USD (TUSD) Troy Euro (TEURO) Tory AUD (TAUD) etc. It functions similar to a stable coin and a remittance tool.",
+      "p2":"Troys are designed to provide liquidity to crypto markets and be a secure and reliable bridging currency. Troys are designed to meet inflationary concerns. Users can be confident that each Troy is based on the dominated fiat jurisdiction’s equivalent in actual physical gold vaulted by the particpating financial institutions and can be exchanged for that fiat currency.",
+      "p3":"Troys are issued under regulatory licence in Australia. The prototype is built using 5 cross chains pegged to gold and major currencies and the gasless nature of the NuGenesis blockchain system permits exchange efficiency."
+
+   },
+
+   "projects_page_just_social" :{
+      "just_social":"Just Social",
+      "p1":"The decentralised social media platform that empowers users to realise their value.",
+      "p2":"JUST SOCIAL is designed to allow users to re-claim their value using the technology of blockchain.",
+      "p3":"Just Social will provide the means by which users can earn and realise their value. You can earn your slice of your (meta data) that you chose to allow the platform to share with advertisers; from merely participating and receiving airdrops; from rewards for marketing, reviews, and a range of contributions everyone can make to the ecosystem.",
+      "p4":"JUST SOCIAL is focused on the crypto and technology space providing users the optimal access to data, community interaction, and innovative technology to participate in multiple ways, including offering services. It is the ‘One Stop Shop’ to lean, keep up with everything crypto and tech.",
+      "p5":"Just social provides access to a launch pad for new projects known as V2R (‘Vision 2 Reality’) and a Fully Fledged Decentralised Crypto-fiat exchange, LedgerX to maximise the liquidity and capital flow for innovative tech to realise its full potential.",
+      "p6":"The platform provides for reviews, critiques and assessments of tech projects, the generation of an accreditation and qualification system, and the opportunity for users to set terms according to which crowd-sourced projects are released funds to achieve their potential.",
+      "p7":"If you wanted to earn in crypto; to make crypto your career and business, Just Social is the place where you can interact with fellow colleagues. You may be selling services for crypto, or join a project needing assistance.",
+      "p8":"Users are starting to realise that their private data is valuable; that their spending patterns, interests, opinions and sentiments are powerful signals that are marketable.",
+      "p9":"However, the value is reaped only by, and for the benefit of, the intermediary social media giants. Users are left to being the products of the social media giants whether selling to advertisers or other data analytics.",
+      "p10":"The explosion of the NFT market has created a realisation that users do not even own their own data, whether their own photos, audio or videos. By the terms and conditions of social media platforms, your photos are owned by them! Tomorrow this could be a valuable NFT, but it is not yours! Just Social preserves your ownership."
+   },
+
+   "projects_page_dnc":{
+       "next_generation":"Next Generation Smart Contract Digital Notarised Contracts (DNCs)",
+       "p1":"The NuGenesis innovation to facilitate mass adoption by the mainstream economy is to go beyond existing limitations of smart contract protocols. Smart Contract Digital Notarised Contracts™ (DNCs) allow for parties to transact with more comprehensive contracts that cater for a wide range of terms and conditions to cater for the various possibilities that can arise, and consequent allocation of risks in common business practices. The AI capability will build suggested templates of contracts and instruments in an increasing number of commercial scenarios.",
+       "p2":" The AI will pull the suggested templates to a contemplated transaction, fill in the data from the respective chains and wallet IDs, and once the counterparties have signed the respective DNC, the system will witness and notarise the DNC by time-stamp hash it with a unique identifier.",
+       "p3":"Transactional scenarios may require money to be held in trust wallets, with or without multi-sigs, and impose standard business customs such as for example SGC inspections for import/export contracts. The LedgerX blockchain system allows for smart contract developers to innovate with parallel processing in the smart contract protocols removing the limitation of liner time ordering and allowing for the flexibility for both vertical and horizontal events to be incorporated.",
+       "p4":" We are in communication with a number of jurisdictions regarding the adoption of a Blockchain Code of Conduct and Crypto laws to recognise and provide forums for efficient dispute resolution that arise in blockchain technology. These jurisdictions can be made using the forum for dispute resolution and governing law for a wider variety of templated business situations."
+   },
+
+   "projects_page_exchange":{
+       "nftcity":"NFTCity.Echange – The Interactive NFT Platform",
+       "p1":"NuGenesis’ Layer 1 NFT Platform nftcity.exchange is totally gasless. It is designed to encourage innovation. To encourage the shift from the rather static NFTs that are currently in existence, to more interactive NFTs. NFTs that transcend art into gaming. NFTs that level up as they interact whether competing or being part of a collection.",
+       "p2":" Interactive NFTs are vehicles for business records: ID’s, driver’s licences, medical records for example. Interactive NFTs can become part of the metarealm. When interactive NFTs need millions of transactions per second, or as part of the meta-realm, billions of transactions per second, the multi-chain parallel processing can deliver it. There is no competition.",
+       "the_metarelm":"The MetaRealm",
+       "p3":"The NuGenesis meta-realm is where the NuGenesis technology begins to be perceivable by the layperson. The meta-realm is design to accommodate base layer transactions on chain in the billions of transactions per second.",
+       "p4":"The meta-realm pairs with physical reality. It is being built to provide the seamless interaction between the physical, augmented and virtual reality. The social and economic experience is being built to be realistic.",
+       "p5":"The AI self-preservation protocol for example will allow your personal AI Avatar to be trained by you and represent you in the metarealm. This includes after you have passed. Imagine your AI-trained Avatar being available for your great grand-children to meet.",
+       "p6":"The AI resurrection protocol will be the re-creation of a historical figure based on all available known data. Want Martial Arts lessons from Bruce Lee? Interrupt the battle of waterloo and ask Napoleon what he was thinking at any particular moment?",
+       "next_generation":"Next Generation DeFi Through Serialisation",
+       "p7":"NuGenesis provides for digital assets to be serialised. Currently, DeFi lending has been criticised as being is little more than a pawn shop. It cannot advance beyond that with the current state of blockchain technology because recourse/security for lending is limited to those Coins and Tokens that are provided to the lender.",
+       "p8":"By contrast, NuGenesis blockchains involve innovations that include effective serialisation of each individual Coin into a Digital Notarised Contract (‘DNC’) that allows, inter alia:",
+       "eachcoin":"each Coin to be effectively a new version of an NFT;",
+       "condition":"conditions to be placed on each coin, such as a mortgage, charge, options etc;",
+       "multisignatury":"multi-signatory capacity for corporates, trusts and governments; and",
+       "comprehensive":"comprehensive conditions on a coin that resemble those customary in traditional capital markets (rather than short smart contracts).",
+       "p9":"The NuGenesis platform fosters the development of a fully-fledged lending platform. For example, mainstream corporate adoption would be attracted to lend crypto at, for example a 90% or even 100% LVR, for the purchase of new crypto secured by the lending.",
+       "para_chains":"Para-chains, Smart Chains and Parallel Processing and Hybrid Chains",
+       "p10":"NuGenesis offers crypto projects of all sizes the ability to customise their blockchains according to evolving needs. A fledging project may seed fund through the V2R (Vision to Reality) Launchpad. It may use the NuGenesis next gen Smart Chain to create coins or tokens at either Layer 1 or Layer 2.",
+       "p11":"A more advanced project may wish to be a para-chain to economise the on-going infrastructure costs such as storage and security. Another may prefer its own sovereign parallel processing with any drain on its/or the systems resources.",
+       "p12":"Projects may customise blockchains with classes of transactions using differentially private permissioned chains for sensitive information, and open sourced and decentralised chains otherwise. They may tailor and modify the perfect configuration for its business evolution."
+
+   },
+
+   "projects_page_blockchains":{
+       "ledger_exchange":"The LedgerX Exchange Blockchains",
+       "p1":"LedgerX is a fully fledged (fiat/crypto) exchange where prices are determined by the brutality of the open market. It was designed to be an important part of the NuGenesis ecosystem to ensure capital is to be allocated by the market rather than bond curves and technocratic formulae.",
+       "p2":"LedgerX is decentralised, in that, unlike say Binance which has a central point of data storage, the data is decentralised with the 11 witness nodes across the globe. This offers a vital security advantage without compromising the instant settlement time.",
+       "p3":"The decentralisation is designed to encourage users to consolidate their holdings; view; monitor and manage their portfolio; apply metrics and analytics available without the risks of a centralised exchange. Assets from other blockchains can be deposited whilst remaining interoperable. With multi-sig treasury wallets, and allowing users to keep their private keys, it is intended to provide the user the comfort needed to optimise mass adoption.",
+       "p4":"Want to know more?",
+       "clickhere":"Click here."
+   },
+   "projects_page_scalable":{
+       "ledgerx":"LedgerX",
+       "p1":"is scalable and has high performance; it is designed for new projects to cheaply and efficiently create or mint coins to make available to the open market, or for existing projects to obtain further liquidity through supplemental release mechanisms.",
+       "p2":"The LegerX exchange is a parallel processing tri-blockchain configuration.",
+       "p3":"Three chains that run parallel together:",
+       "settlement_chain":"Settlement chain",
+       "match_chain":"Match chain",
+       "content_chain":"Content chain",
+       "the_consensus":"The consensus mechanism involves two major protocols:",
+       "delegated":"Delegated Revenue Proof of Stake; and,",
+       "consensus_before":"Consensus before packing",
+       "p4":"The combined effect of which is that the transaction has already been processed when it goes through the block. This tri-chain concurrent processing achieves a 1 second block speed creation finality.",
+       "p5":"The user therefore experiences a completed order within 1 second; a speed comparable to a centralised exchange.",
+       "p6":"The settlement chain effects the ‘consensus before packing’ and the settlement. The content chain stores the data on finality, and the match chain matches the data (order matching) when trying to resolve it or search it. An explorer search will identify the ID of multiple transactions however they are processed as between the blockchains",
+       "p7":" Like the NuGenesis blockchain, it is scalable such that parallel chains can be created and bridged. It is flexible in that it allows developers to create more vertical side-chain scenario. There are globally dispersed super-nodes. The 11 witness nodes are Super-nodes that are deployed in 8 countries on four continents.",
+       "p8":" The cross-chain protocol allows assets on other public chains to be anchored though smart contracts and scripts to create or be part of newly created crypto assets on the users’ LedgerX exchange wallets.",
+       "p9":"A current limitation of smart contracts is that they are not designed with parallel computing in mind and operate on a linear time ordering process. The LedgerX side-Chain protocol allows smart contract developers to introduce side chain mechanisms that concurrently process providing greater flexibility for vertical side chain scenarios."
+   },
+
+   "some_page_general_footer":{
+       "about_us":"About Us",
+       "projects":"Projects",
+       "media":"Media",
+       "team":"Team",
+       "just_social":"Just Social",
+       "explore":"Explore",
+       "shop":"Shop",
+       "subscribe":"Subscribe to our Newsletter"
+   },
+
+   "contact-us_page": {
+    "contact_us": "Contact Us",
+    "want_to":"Want to join the NuGenesis Team?",
+    "p1":"We work with a small number of select teams. If you are interested in discussing working together, please tell us about yourself, your use case, and what you're looking for.",
+    "email":"Email",
+    "your_name":"What's your name",
+    "your_organization":"What's the name of your company/organization?",
+    "your_title":"What's your title/designation",
+    "p2":" Briefly describe your blockchain use case. Feel free to share links to your website or Github",
+    "tell_us":"Tell us a bit about your team, its size, and what it does.",
+    "what":"What are you looking for?",
+    "submit":"submit"
+
+
+   },
+
+   "media_page_hero":{
+    "media":"Media",
+    "welcome":"Welcome",
+    "nugenesis":"NuGenesis"
+   },
+   "media_page_content":{
+       "nugenesis_under_4_minute":"NuGenesis in Under 4 Minutes",
+       "p1":"NuGenesis is the the most advanced blockchain eco-system. We'll help you understand our vision and mission in under 4 Minutes.",
+       "the_unveiling":"NuGenesis - The Unveiling",
+       "p2":"NuGenesis is finally here. Let us introduce to you the solutions available today, such as LedgerX, hardware, as well as the NuGenesis MetaRealm concept. In this unveiling, we'll also introduce our Team from around the world, including India and Dubai.",
+       "p3":"We celebrate the evolution of mankind and show you more insights on the roadmap of NuGenesis technologies. In this unveiling, we dive deeper into the journey and purpose of NuGenesis. Learn about parralel processing capabilities with NuGenesis, allowing uncomparable transactions per second, AI and Security.",
+       "our_social":"Our Socials"
+   },
+
+   "getting-involved_page_hero" :{
+
+    "mark":"Make Your Mark within the ",
+    "nugenesis_ecosystem":"NuGenesis Ecosystem",
+    "careers":"Careers, Professions and Blockchain",
+    "businesses":"Businesses"
+
+   },
+
+   "getting-involved_page_community" :{
+
+    "want_join":"Want to join the NuGenesis Community? ",
+    "p1":"Blockchain technology is now becoming mainstream. The tsunamic effect of mass adoption will change the way we do business, create, exchange value, and organize our society.",
+    "p2":"You can be part of this exponential phase of the information revolution and ride the crest of the wave to an unprecedented change in wealth creation that cannot be compared to and will dwarf the change to the world that we know as the Industrial Revolution.",
+    "p3":"Of all the blockchain ecosystems that you can research and contrast, you will agree that NuGenesis is at the forefront. We have broken the barriers of scalability, transactional speed, and interoperability. We are a system of multi-chains and parallel processing, and with more users, the faster and more efficient the system becomes.",
+    "p4":" Unlike others, NuGenesis is fully functional and ready for onboarding projects and listing crypto assets.",
+    "p5":"You have an opportunity to get on at the ground floor and take an active part in the shaping of the NuGenesis ecosystem.",
+    "p6":"Most of the skills and qualifications for the new economy brought in by blockchain technology have not even been invented yet. Anyone with enthusiasm, initiative, and passion can become fully emersed in the blockchain world and use their existing talents in numerous ways as well as acquiring others."
+
+   },
+
+
+
+   "getting-involved_page_program" :{
+
+    "nugenesis_programs":"NuGenesis Programs",
+    "p1":" It is a unique moment in history. Blockchain technology is inevitable. The new economy will render the current inefficiencies and inequalities obsolete. Where do you want to be? We want you to tell your grandchildren about how you help to build the new digital world.",
+    "p2":"It starts right here."
+
+   },
+
+   "getting-involved_page_program-selection": {
+    "abassador_program": "Ambassador Program",
+    "ambassador_program_brochure": "NuGenesis Ambassador Program Brochure",
+    "ambassador_deed": "Ambassadorial Deed",
+    "ambassador_performance_plan": "Ambassadors Performance Plan"
+   },
+
+   "getting-involved_page_terms_condition":{
+    "terms_and_condition": "General Terms and Conditions of Adoption Facilitators"
+   },
+
+   "getting-involved_page_online_form":{
+    "online_form": "Online Application Form"
+   },
+
+
+    "getting-involved_page_diplomats_program": {
+        "dimplomat_program": "Diplomats Program",
+        "diplomat_program_brochure": "NuGenesis Diplomats Program Brochure",
+        "diplomat_deed": "Diplomatic Deed",
+        "diplomat_performance_plan": "Diplomats Performance Plan"
     },
-    "program-selection": {
-        "div": "Ambassador Program",
-        "a": "NuGenesis Ambassador Program Brochure",
-        "aone": "Ambassadorial Deed",
-        "atwo": "Ambassadors Performance Plan",
-        "athree": "General Terms and Conditions of Adoption Facilitators",
-        "afour": "Online Application Form"
+
+    "getting-involved_page_senators_program": {
+        "senator_program": "Senators Program",
+        "senator_program_brochure": "NuGenesis Senator Program Brochure",
+        "senator_deed": "Senatorial Deed",
+        "senator_performance_plan": "Senators Performance Plan"
     },
-    "diplomats_program": {
-        "div": "Diplomats Program",
-        "a": "NuGenesis Diplomats Program Brochure",
-        "aone": "Diplomatic Deed",
-        "atwo": "Diplomats Performance Plan"
+
+    "getting-invovled_page_market_consuls_program": {
+        "market_program": "Market Consuls Program",
+        "market_program_brochure": "NuGenesis Market Consuls Program Brochure",
+        "market_deed": "Market Consul Deed",
+        "market_performance_plan": "Market Consuls Performance Plan"
     },
-    "senators_program": {
-        "div": "Senators Program",
-        "a": "NuGenesis Senator Program Brochure",
-        "aone": "Senatorial Deed",
-        "atwo": "Senators Performance Plan"
+
+    "getting-invovled_page_network_concordat_program": {
+        "network_program": "Network Concordat Program",
+        "network_program_brochure": "NuGenesis Network Concordat Program Brochure",
+        "network_deed": "Network Concordat Deed",
+        "network_performance_plan": "Network Concordat Performance Plan"
     },
-    "market_consuls_program": {
-        "div": "Market Consuls Program",
-        "a": "NuGenesis Market Consuls Program Brochure",
-        "aone": "Market Consul Deed",
-        "atwo": "Market Consuls Performance Plan"
+
+    "getting-involved_page_get_in_touch": {
+        "do_have": "Do you have something that will blow our minds?",
+        "tech_developer": "Are you Tech Developer?",
+        "join_team": "Want to join the Team?",
+        "p1": "Introducing an existing or new blockchain project to the NuGenesis Ecosystem � as a parachain, para network or just wants to be supercharged?",
+        "get_touch": "Get in touch"
     },
-    "network_concordat_program": {
-        "div": "Network Concordat Program",
-        "a": "NuGenesis Network Concordat Program Brochure",
-        "aone": "Network Concordat Deed",
-        "atwo": "Network Concordat Performance Plan"
+
+    "general-terms-condition_page_content":{
+        "general_term":"General Terms and Conditions for NuGenesis Adoption Facilitators",
+        "program_overview":"PROGRAM OVERVIEW:",
+        "p1":" The NuGenesis Group is at the forefront of blockchain/cryptographic/distributed ledger technologies (‘NuGenesis technology’) and has created an",
+        "adoption":"Adoption Facilitation Program (‘Program’)",
+        "incentivise": "to incentivise and reward those who can facilitate its adoption through a variety of roles and methods, to help achieve the network effect from driving adoption of NuGenesis technology and the NuGenesis ecosystem.",
+        "p2":"NuGenesis is a comprehensive blockchain-based ecosystem that enables crypto enthusiasts, experts, content creators, marketers, influencers, and the crypto-minded, to drive user adoption and therefore become a vital part of that NuGenesis eco-system. The Program seeks to recruit the skills of people with talents in one or more field, and experts who - individually and together - will help promote NuGenesis.",
+        "p3":"Participants can register to participate in one or more of the NuGenesis category types with respective roles from an",
+        "ambassador":"Ambassador",
+        "senator":"Senator",
+        "market_consul":"Market Consul",
+        "network_concordat":"Network Concordat",
+        "and":", and ",
+        "diplomat":"Diplomat",
+        "p4":"or may be limited to a single one-off campaign. The main purpose of this Program is to share the NuGenesis brand messaging and brand assets via traditional media, social media channels, and digital channels. The person or persons registering to be a part of this NuGenesis Program (either on his/her behalf or using a representative) is heretofore referred to as ‘You’ and ‘Facilitator’.",
+        "p5":"NuGenesis takes the integrity of its brand seriously, and therefore requires individuals agreeing to participate in this Program to fully understand the expectations, responsibilities, and limitations outlined in the following Terms and Conditions, which will apply to all Program categories. These Terms and Conditions will be incorporated into the applicable agreements in the relevant Program categories to form a legally binding set of corresponding duties, obligations, and benefits between the parties. These are called Applicable Adoption Facilitation Agreements in these terms. Specifically:",
+        "p6":"the Senatorial Deed with the Performance Plan, and these general Terms and Conditions govern the legal relationship with individual Senators, and where there is any inconsistency with the general Terms and Conditions, the Deed and Plan will prevail;",
+        "p7":"the Ambassadorial Deed with the Performance Plan, and these general Terms and Conditions govern the legal relationship with individual Ambassadors, and where there is any inconsistency with the general Terms and Conditions, the Deed and Plan will prevail;",
+        "p8":" the Network Concordat Deed with the Performance Plan, and these general Terms and Conditions govern the legal relationship with individual Network Concordat, and where there is any inconsistency with the general Terms and Conditions, the Deed and Plan will prevail;" ,
+        "p9":"the Market Consul Deed with the Performance Plan, and these general Terms and Conditions govern the legal relationship with individual Market Consuls, and where there is any inconsistency with the general Terms and Conditions, the Deed and Plan will prevail; and,",
+        "p10":"the Diplomatic Deed with the Performance Plan, and these general Terms and Conditions govern the legal relationship with individual Market Consuls, and where there is any inconsistency with the general Terms and Conditions, the Deed and Plan will prevail." ,
+        "p11":" As these Terms and Conditions govern an individual’s participation in NuGenesis’ Program, please take the necessary time to fully read and understand the requirements and restrictions applicable and take such legal or other professional advice as You require.",
+        "p12":"To enter into this agreement with NuGenesis You must be 18 years old or over. If You are under 18 years of age You must appoint Your parent or legal guardian (or a representative that has been invested with the necessary authority by Your parent or legal guardian) to agree to these terms on Your behalf.",
+        "p13":"NuGenesis will be contracting with You through NuGenesis Pty Ltd which is a registered company in Australia and undertaking business worldwide as the Sub-Franchisee of Techno Group Enterprises Pty Ltd, which is the Head Franchisee of NuGenesis Technology belonging to the NuGenesis Foundation."
+
     },
-    "get_in_touch": {
-        "a": "Do you have something that will blow our minds?",
-        "aone": "Are you Tech Developer?",
-        "atwo": "Want to join the Team?",
-        "athree": "Introducing an existing or new blockchain project to the NuGenesis Ecosystem � as a parachain, para network or just wants to be supercharged?",
-        "afour": "Get in touch"
+
+    "general-terms-condition_page_agreement_status":{
+
+        "agreement_status" :"STATUS OF AGREEMENT",
+        "p1":"If applicable laws or regulations require it, or the functions or features of the Program change, we may need to change this agreement or our Program features from time to time. The current version of our Terms and Conditions can be found on our website.",
+        "p2":"Your continued participation in this Program following the posting of such changes will constitute Your agreement to all such changes. If at any time You do not agree with this agreement, or You do not agree to any modified Terms and Conditions, then You must immediately stop participating in the Program.",
+        "p3":"However, You will also be provided notice of such changes through an announcement or by electronic mail. Upon being informed of such changes, You may either terminate the Applicable Adoption Facilitation Agreement within fifteen days, and cease participating in the Adoption Facilitation Program or accept the changes and continue to participate in the said Program. Your continued participation in the Program after fifteen days from the date of notice of any such changes shall constitute Your consent to such changes."
+
+
     },
+
+    "general-terms-condition_page_stand_alone":{
+
+        "stand_alone" :"STAND ALONE CAMPAIGNS",
+        "p1":"In the event of a conflict between this agreement and the terms of a stand-alone proposal or campaign, this agreement shall take precedence.",
+        "p2":"You are the seller of the promotional services agreed to in this Program, as well as any stand-alone proposals and/or campaigns. We are the buyer of these promotional services. The contract for the promotional services is solely between You and us. We are purchasing from You these agreed upon promotional services, as well as any engagements in which You participate."
+    },
+
+    "general-terms-condition_page_fullfillment":{
+
+        "fullfillment" :"FULFILLMENT OF ADOPTION FACILITATION AND PROMOTIONAL SERVICES",
+        "p1":"You are agreeing to participate in the NuGenesis Program for business and commercial purposes.",
+        "p2":"We are booking and buying these Program and individual Program/Campaign services from You. This is a contract between NuGenesis and You for the provision of the social media-based posting/content and other promotional activities specified in this agreement, including the individual Performance Plan, for the specified remuneration and reward in those documents." ,
+        "p3":"NuGenesis has Your written authority to add to Your Facilitator profiles certain analytics information relating to the social media accounts such as, but not limited to, the number of followers of the account and average engagement.",
+        "p4":"You must always use the Programand NuGenesis website and social media channels following the Acceptable Use Policy. To the extent that You provide any Facilitator-Generated Content, it must be in accordance with the Acceptable Use Policy, the Disclosure Policy in schedule 3 hereof, and the requirements of the Program.",
+        "p5":"In consideration of You performing all Your other obligations herein and in any additional proposals, and subject to the Applicable Adoption Facilitation Agreement You have entered into, NuGenesis shall provide You with:",
+        "p6":"the benefits set out in the Performance Plan;",
+        "p7":"the benefits set out in the Terms and Conditions; and",
+        "p8":"in respect of any specific campaign.",
+        "p9":"the means to agree to proposals with NuGenesis, and",
+        "p10":"payment of the agreed upon price for each campaign.",
+        "p11":"You may not include in any social media account any material that does not portray NuGenesis in a positive light, or any brand in respect of which You have agreed to in this Program, or stand-alone Proposals/Campaigns. You must not delete any social media account activity comprised in the Program for at least 30 days from the date on which it was posted/activated.",
+        "p12":"NuGenesis may promote Your Facilitator profile(s) and social media posts to other brands and users viareposts, shares, screenshots, blog posts and other social sharing capabilities. The choice of which brands and users with which we choose to share is at our sole discretion." ,
+        "p13":"We shall be entitled to publish press releases and other general marketing information, in any medium, related to Your engagement with NuGenesis.",
+        "p14":" You acknowledge that while campaigns will be targeted to specific territories defined in the Program, the Program does not currently support geo-blocking by territory. This means that posts could reach territories outside the target. Before accepting a Proposal, You must be satisfied that You are not contractually prohibited or restricted from providing the campaign under any other arrangements You may have with any other person or entity, either worldwide or in any particular territory. It is Your responsibility to clear any contradictory rights before advertising products or services. In respect of any User-Generated Content You undertake to respect any applicable Terms and Conditions of third-party websites, or any social media accounts."
+    },
+
+    "general-terms-condition_page_non_circumvention":{
+        "non_circumvention":"NON-CIRCUMVENTION",
+        "p1":" While participating in this Adoption Facilitation Program with NuGenesis You may not offer or negotiate termsor payment for promotional activity with other brands which compete with this Program. In addition to any other rights or remedies we have, any attempt to circumvent the Programin this way may result in Your removal from the Program at our sole discretion.",
+        "p2":" LINKS AND IMAGES ON YOUR WEBSITE",
+        "p3":"NuGenesis may make available to You, a variety of graphic and textual images (‘the Images’) that serve to identify Your site as a member of the Program. NuGenesis may establish ‘Links’ from any websites You own, operate, or control (‘Your site’) to (‘our site’). You may, subject to the Terms and Conditions herein, display Links as often and in as many areas on Your site as You desire. You shall cooperate fully with NuGenesis in establishing and maintaining Links. You may display on Your site only those Images provided to You by NuGenesis, which may be discontinued or replaced at any time and from time to time, at our sole discretion.",
+        "p4":"Upon request, You shall remove any Image from Your site and replace it with a new Image provided by us. Banner Ad Link Codes cannot at any time be modified by You, as doing so will not allow proper reporting of traffic sent through such a Banner Link Code. You agree that each Link connecting users of Your site to our site will in no way alter the look, feel, or functionality of our site. NuGenesis may monitor Your site at any time to determine if You are following these terms."
+
+    },
+
+    "general-terms-condition_page_compaign_obligation":{
+        "compaign_obligation":"CAMPAIGN OBLIGATIONS",
+        "p1":" Nothing in this Agreement shall oblige You to accept any Proposal. However, You must honour all Proposals that have been accepted by You in the Performance Plan or any individual campaign. If You fail to do so, You shall be considered in material breach of this agreement, and may forfeit any payments due to You, and any Miner-Staker position will be deemed forfeited, renunciate, and repudiated by You. Once a proposal has been accepted by You, You shall carry out the campaign (or, to the extent that the campaign involves the use of social media accounts, permit us to utilise them in respect of the campaign) as specified in the Program during the period specified on, under the terms of the Program, and as required under applicable law.",
+        "p2":" You shall be directly responsible to NuGenesis for any failure to honour and permit fulfillment of the Program for any campaigns, or for any other legal liability which arises in respect of the Programor individual campaigns, except where such liability arises because of our negligence.",
+        "p3":"You must not, within 30 days of fulfilling a campaign for NuGenesis, engage in any paid promotion via the social media accounts of any goods or services which directly compete with the goods or services outlined in this Program.",
+        "p4":"You must within 24 hours remove any social media account activity comprised in this Program if requested to do so by NuGenesis.",
+        "p5":"In fulfilling the Campaign, You will cooperate with NuGenesis in all matters relating to promotional services and comply with all reasonable instructions provided by NuGenesis.",
+        "p6":"You shall not make any statement or commit any act which may denigrate or harm the reputation of NuGenesis or the Brand. You shall ensure that Facilitator-generated content will conform with all descriptions and specifications outlined in the Program, and that the Facilitator-generated content will be fit for any purpose expressly or impliedly made known to the Facilitator by NuGenesis.",
+        "p7":"You shall adhere to the highest level of care, skill, and diligence following best practice in the marketing sector in general, and the crypto marketing sector in particular. You acknowledge that time is of the essence as to any performance dates specified in the Proposal."
+
+    },
+
+    "general-terms-condition_page_general_obligation":{
+       "general_obligation":"GENERAL OBLIGATIONS",
+       "p1":"You shall not allow its interests to conflict with its duties under its agreement and shall comply with all reasonable and lawful instructions of NuGenesis.",
+       "p2":"You shall have no authority, and shall not hold Yourself out, or permit any person to hold itself out, as being authorised to bind NuGenesis or any member of the Group in any way and shall not do any act or otherwise conduct itself in such manner which might reasonably create the impression that You are so authorised. You shall not make or enter any contracts or commitments or incur any liability for or on behalf of NuGenesis. Breach of the provisions of this Clause allows NuGenesis to immediately terminate this Agreement by giving You written notice.",
+       "you":"You:",
+       "p3":"shall not represent to any prospective Clients or otherwise create an impression that such Clients are guaranteed any profits by the NuGenesis Group;",
+       "p4":"shall not make any misleading statements, represent, or otherwise create an impression with the prospective Clients that crypto markets are simple, or that they do not require knowledge, experience, and understanding of extreme volatility, financial markets, and instruments;",
+       "p5":"shall not in any way compare an account of the potential Client of NuGenesis to normal bank accounts or create an impression or communicate to the potential Clients, that any account with NuGenesis bears interest and/or enjoys any statutory and regulatory protections afforded to bank accounts;",
+       "p6":"shall not manage or operate any trading account of, or for, any Client, and further shall not undertake any portfolio management (whether on discretionary or on advisory basis) for any active or prospective Client;",
+       "p7":"agree that You will not represent to any prospective Client that NuGenesis will guarantee such Client against losses or limit the losses of such Client;",
+       "p8":" shall not use any language or practices that may be construed as offering any promise or guarantee of any trading gain or profits to any Client;",
+       "p9":"shall not engage in high-pressure sales tactics or use any unethical techniques with any Client, and shall always abide by high ethical standards in dealings with all Clients;",
+       "p10":"shall not seek to advise, direct, or influence, directly or indirectly, how any Client will respond to the NuGenesis questionnaires aimed at NuGenesis assessing the knowledge and experience of the Client, or at assessing the source of wealth and economic profile of the Client."
+
+
+    },
+
+    "general-terms-condition_page_disclosure_compaign":{
+        "disclosure_compaign":"DISCLOSURES OF SPONSORED CAMPAIGNS",
+        "p1":"You agree that whenever You provide regarding Facilitator-generated content, it will contain: (i) hashtags or other means of full disclosure in respect of all campaigns, as to the commercial nature of the campaign; and (ii) the minimum level of disclosure specified in our disclosure policy in schedule 5. To be clear, the disclosure policy is our minimum baseline level of disclosure required in respect of the use of this Program."
+
+    },
+
+    "general-terms-condition_page_intellectual_rights":{
+        "intellectual_rights":"INTELLECTUAL PROPERTY RIGHTS",
+        "p1":" All Intellectual property rights in the branded content shall remain vested with NuGenesis.",
+        "p2":"All intellectual property rights in the Facilitator-generated content shall vest in NuGenesis upon creation. We retain ownership of any content for campaigns that are generated by or on behalf of us. You hereby grant NuGenesis a non-exclusive, worldwide, transferable, irrevocable, perpetual, and sub-licensable licence to use, copy, distribute, display, and perform any material You submit on Your Facilitator profiles, in any medium now known or developed in the future, to fulfil campaigns and/or promote Your participation in this Program. We may also sub-license these rights.",
+        "p3":"You acknowledge that NuGenesis (or its licensors) is the owner of all intellectual property rights (including database rights). The words ‘NuCoin’, ‘NuGenesis’, ‘LedgerX’, ‘Just Social’, and their respective logos are trademarks of NuGenesis. You may not make use of either during trade outside the context of NuGenesis without our written consent.",
+        "p4":"If You submit comments, ideas, or feedback to us You agree that we can use them without any restriction or compensation to You. If we accept Your submission, we do not waive any rights to use similar or related ideas or feedback previously known to us, developed by our employees, or obtained from sources other than You.",
+        "p5":"You acknowledge and agree that all intellectual property rights in the production of this Program and stand-alone campaigns are vested in NuGenesis, regardless of its being published on social media accounts."
+
+    },
+
+    "general-terms-condition_page_indemnifiction":{
+        "indemnifiction":"INDEMNIFICATION",
+        "p1":"You hereby agree to indemnify, keep indemnified and hold harmless NuGenesis and its officers, directors, and employees, from and against any claims, demands, obligations, actual or alleged causes of action and lawsuits, and all damages, liabilities, fines, judgments, costs (including settlement costs), and expenses associated with them (including the payment of reasonable legal charges and disbursements) arising out of, or in connection with, any breach by You of any term of this agreement, or arising out of any action brought by any third party (including any social media network operator) relating to any Campaign, or actions (or failure to act), by You or any person (other than NuGenesis) acting on Your behalf. This clause shall survive the termination of this agreement."
+
+    },
+
+    "general-terms-condition_page_remuneration":{
+        "remuneration":"REMUNERATION",
+        "p1":"NuGenesis agrees to:",
+        "p2":" provide the benefits set out in the Performance Plan, and" ,
+        "p3": "pay the fees outlined in the Scope of Work section in respect of an individual stand-alone campaign (if applicable) within 30 days after receipt of invoice, or in respect to the specific terms outlined in the Scope of Work section.",
+        "p4":"Payment will be strictly subject to fulfilment of the responsibilities and services outlined in these Terms and Conditions. All taxes applicable will be Your responsibility to determine, collect and remit. You agree to comply with all applicable tax laws and regulations."
+
+    },
+
+    "general-terms-condition_page_referal_commission":{
+        "referal_commision":"REFERRAL COMMISSION",
+        "referred_facilitators":"Referred–Facilitators",
+        "p1":" Subject to NuGenesis’ acceptance, the Facilitator may refer third parties that were not already registered as NuGenesis Facilitators (each will become a ‘Referred Facilitator’) by using a dedicated link provided by NuGenesis for this purpose (the ‘Sub Facilitator Link’). The registration of a Referred Facilitator is subject to such Referred Facilitator accepting the NuGenesis general Terms and Conditions for Adoption Facilitators and the Applicable Agreement and, upon registering, using the Sub Facilitator Link.",
+        "p2":"Referred-Facilitator Commission",
+        "p3":"Facilitators will be entitled to a commission of 10% of the revenue earned by each Referred Facilitator. Such commission shall be paid to the Facilitator under these terms, and the Applicable Agreement to the category of facilitation undertaken by that Facilitator.",
+        "p4":"You are an independent contractor and nothing in this agreement will render You an employee, worker, agent, or partner of NuGenesis. You will not hold Yourself out as such.",
+        "p5":"You will be fully responsible for, and indemnify NuGenesis against, any liability, assessment, or claim for taxation whatsoever, arising from or made in connection with the performance of this Program, where such recovery is not prohibited by law; and any employment-related claim or any claim based on worker status (including reasonable costs and expenses) brought by You against NuGenesis, arising out of or in connection with the provision of this Program. We may satisfy such indemnity (in whole or part) by way of deduction from any payment due to You, and the forfeiture and resale of any miner-staker position that You have."
+    },
+
+    "general-terms-condition_page_training_support":{
+        "training_support":"Training and Support",
+        "p1":"We may make available to You, without charge, various webinars, training badges, and other resources made available as part of our Adoption Facilitation Program. If we make such resources available to You, You will encourage Your sales representatives, and/or other relevant personnel, to participate in training and/or other certifications as we recommend and may make available to You from time to time."
+
+    },
+
+    "general-terms-condition_page_terms_condition":{
+        "terms_condition":"TERM AND TERMINATION",
+        "p1":"These terms are effective on the date You accept and sign the respective agreement for the category of Facilitator You undertake. These terms will remain in effect through the expiration of the Program and any additional proposals/campaigns, unless otherwise earlier terminated under Your respective agreement. We may terminate this agreement and suspend Your role as Facilitator for any reason. You or NuGenesis may terminate this agreement at any time in the event of a material breach of its terms. You may terminate this Agreement at any time for any reason, on 30 days’ written notice. Any such termination shall not affect any of Your obligations to us under any existing proposals/campaigns. You must complete any proposal/campaign in respect of which You have accepted, in advance of the date of termination."
+
+    },
+
+    "general-terms-condition_page_relationship":{
+        "relationship":" RELATIONSHIP BETWEEN THE PARTIES",
+        "p1":" This Agreement shall not be construed as creating a partnership, joint venture, agency, or any other relationship. You are not authorised to enter into any contract, or to assume any obligation on behalf of NuGenesis. Neither is NuGenesis authorised to enter into any contract, or to assume any obligation, on Your behalf.",
+        "p2":"No exclusivity is granted to You under this Agreement.",
+        "p3":"The Services provided by You, are provided at Your own cost and risk.",
+        "agree":"You agree that:",
+        "p4":"where You are not authorised and regulated in the provision of investment or any other services, You shall not hold Yourself out as being regulated to provide any services for which it is not duly authorised and regulated following the provisions of the Applicable Laws and Regulations, and shall not make use of the contractual or other relationship which You have with NuGenesis, to represent or hold Yourself out as being so regulated;",
+        "p5":"You shall not engage in any conduct which gives the impression that the regulated status of a NuGenesis licenced entity is provided by You;",
+        "p6":" without prejudice to the generality of the above You shall not be construed or hold Yourself out as acting as broker or agent of NuGenesis, and shall not indicate or seek to indicate such in any marketing or communication material;",
+        "p7":"You shall not use the name of NuGenesis in answering its telephone or in any other ways represent that it is associated with NuGenesis other than in a relationship of a Facilitator. In contracting for support services such as rent, telephone and  utilities You shall not use or refer the name of NuGenesis.",
+        "p8":"You confirm that You are acting on Your behalf and for solely for Your own benefit and not for the benefit of any other person." ,
+        "p9":"You agree that NuGenesismay at any time, directly or indirectly, solicit customer referrals and enter into similar agreements on terms that may be the same, similar or differ from those contained in this agreement, or enter into an agreement with Your competitors, or may operate web sites that are similar to or compete with Your web site. You warrant that You have independently evaluated the desirability of participating in the transactions contemplated hereunder, and are not relying on any representation, guarantee, or statement other than as specifically outlined in these Terms and Conditions." ,
+        "identifying_status":"Identifying Facilitator Status",
+        "p10":"Except as otherwise outlined in the applicable agreement for the category of Facilitator, You shall not use the NuGenesis name, trademarks, service marks or any derivations or variations thereof in any manner, including without limitation, (a) in metatags, (b) in hidden text or source code or (c) in Your domain name or any other part of Your universal record locator (URL).",
+        "p11":"Except as expressly authorised by the respective Agreement applicable for the category of Facilitator, You shall not use any of the NuGenesis trademarked terms, either alone or in conjunction with or as part of any other word or name, in any advertisement, publicity or promotion on Your behalf, to express or imply any endorsement by NuGenesis of any services provided by You, or in any other manner whatsoever.",
+        "p12":"Facilitators found in violation of this clause are subject to punitive actions by NuGenesis, without further notice. Such actions include but are not limited to suspension or termination of Facilitator account, withholding of payments to Facilitator; and publication (at our discretion) of Facilitator's activities." ,
+        "relationship_with_clients":"RELATIONSHIP WITH CLIENTS",
+        "p13":"You shall not represent Yourself as NuGenesis and should specify on its website (if it has any) of the nature of the Facilitator relationship.",
+        "p14":"You shall ensure that there is no conflict of interest between Your interests and any Client in connection with the subject of the applicable Facilitation Agreement.",
+        "p15":"NuGenesis shall be under no obligation whatsoever to accept as a Client any Applicant introduced by You.",
+        "p16":"NuGenesis reserves the right to take legal actions against You in the event You attempt to manipulate NuGenesis and/or abuse the NuGenesis Facilitator Program. Without limitation of the foregoing, NuGenesis reserves the right to withhold, setoff and/or deduct from any payment due to You, including forfeiting any StakerMiner position in the event of such manipulation and/or abuse and may also terminate the applicable Facilitation Agreement with immediate effect."
+
+    },
+
+    "general-terms-condition_page_warranty":{
+
+        "warranty":"WARRANTIES",
+        "p1":" You hereby warrant and undertake that the information provided on Your application is true, fair, complete, and accurate. NuGenesis has the right to constantly monitor Your activities to ensure compliance with the applicable Facilitator Agreement. In the event in which any such information is or becomes false, misleading, or inaccurate, You agree and accept that NuGenesis shall have the right to terminate the respective Agreement with immediate effect by a written notice to You.",
+        "p2":"You acknowledge that Clients referred to NuGenesis and who open NuGenesis accounts become clients of NuGenesis with that account and are not Your clients in respect of matters arising from the NuGenesis ecosystem, and further that You shall always refrain from any action which could be construed by prospective or actual Clients to indicate that there is a contractual or other legal relationship between the Clients and Yourself.",
+        "p3":"You represent and warrant that: (a) You have the power and authority to enter into the Applicable Facilitator Agreement, which includes these terms, and perform its obligations under that agreement; and (b) You shall comply with all laws, regulations, and codes of practice applicable to its obligations under that agreement.",
+        "p4":"Each party warrants and relies upon the other party having made their inquiries as to the accuracy of any information or representation that may have been made, and that these terms are the entire and complete terms agreed upon by the parties, and supersede all previous oral, written or representations including by conduct, implication, or omission.",
+        "p5":"YExcept as expressly outlined in this agreement, NuGenesis does not make any representations or warranties with the services NuGenesis provides to You, express or implied, including without limitation any implied warranty of quality or fitness for a particular purpose. NuGenesis does not warrant or guarantee that You will receive any additional proposals/campaigns, or that those proposals/campaigns will be attractive or of interest to You beyond those in Your Performance Plan.",
+        "p6":"NuGenesis makes no representations or warranty regarding the NuGenesis website and its social media channels, or any promotion or redemption method used or provided by NuGenesis and/or the accuracy, adequacy, reliability, availability, timeliness, completeness, suitability or other characteristics of the information and materials contained or presented therein. The NuGenesis website, social media channels and this Program are provided ‘as is’, without any warranty of any kind, and on an ‘as available’ basis.",
+        "p7":" On request NuGenesis may provide You with consultation on various aspects of social media usage. Such consultation and any related advice are provided free of charge, ‘as is’ and without warranty and the Facilitator acknowledges that it is responsible for his/her practices and strategy about this advice or counsel. Facilitator acknowledges and agrees that NuGenesis will not be responsible for any liability arising in respect of the provision of such advice.",
+        "p8":" You further represent and warrant that: (i) You will ensure You are compliant with any trade or regulatory requirements that may apply to Your participation in the Facilitator Program(for example, by clearly stating You are a NuGenesis Adoption Facilitator on any website(s) You own where Youmake an Facilitator Link available); (ii) You will accurately provide in the Facilitator Tool all websites and domains You own where You intend to use Facilitator Links to generate Facilitator Leads; (iii) You will not purchase ads that direct to Your site(s) or through a Facilitator Link that could be considered as competing with NuGenesis’ advertising, including, but not limited to, our branded keywords; (iv) You will not participate in cookie stuffing or pop-ups, false or misleading links; (v) You will not attempt to mask the referring URL information; and (vi) You will not use any mechanisms to deliver leads other than through an intended consumer. This includes sourcing leads through compilations of personal data such as phonebooks, using fake redirects or other tools or automation devices to generate leads (including but not limited to robots, frames, or hidden frames), or offering incentives to encourage purchases or signups."
+
+    },
+
+
+
+
+
+
+
+
+
     "nav": {
         "menu": "menu",
         "nucoin": "NuCoin",
@@ -99,229 +515,37 @@
         "nucoin_ledgerx": "NuCoin and LedgerX",
         "shop": "Shop",
         "about_us": "About Us",
-        "team": "Team"
+        "team": "Team",
+        "contact":"Contact Us"
     },
+
+
     "toggledropdown": {
         "projects": "Projects",
         "media": "Media",
         "getting_involved": "Getting Involved"
     },
-    "home_page_hero": {
-        "h1": "BLOCKCHAIN BASED TECHNICAL INFRASTRUCTURE",
-        "p1": "Welcome to the NuGenesis platform: the multi-chain interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit.",
-        "p2": "Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.",
-        "p3": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.",
-        "p4": "NuGenesis did not have an ICO. It funded a complete operational blockchain system itself before NuCoin became available to the public from 23 December 2021. NuGenesis has been working on enterprise and government solutions, particularly for countries seeking to implement (Central Bank Digital Currencies) CBDCs and infrastructure instruments. Accordingly NuGenesis re-engineered blockchain from inception. A \"new \" Genesis. New, not only in different and fresh thinking, but \"NU\" as in N.U. - non-usury.",
-        "small": "View Projects"
-    },
-    "about": {
-        "h4": "About NuGenesis",
-        "p1": "Welcome to the NuGenesis platform: the multi-chain interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit. (There are 4 Patents Pending on the key aspects of the platform).",
-        "p2": "Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.",
-        "p3": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.",
-        "small": "Learn More"
-    },
-    "projects": {
-        "h4": "Projects",
-        "p1": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm. Learn more about our Projects.",
-        "h5": "The NuGenesis flagship: NU Coin",
-        "p2": "NuGenesis' flagship blockchain, NU Coin, is a fully operational and is already at zero-carbon emission. It is way past the POW vs POS debate!",
-        "h5b": "TROY Gold-backed token denominated in major currencies",
-        "p3": "A troy is a token to represent the fiat currency representation in physical gold. For example Troy USD (TUSD) Troy Euro (TEURO) Troy AUD (TAUD) etc. It functions similar to a stable coin and a remittance tool.",
-        "h5c": "JUST SOCIAL",
-        "p4": "The decentralised social media platform that empowers users to realise their value. JUST SOCIAL is designed to allow users to re-claim their value using the technology of blockchain.",
-        "h5d": "Next Generation SMART CONTRACT DIGITAL NOTRALISED CONTRACTS (DNC'S)",
-        "p5": "The NuGenesis innovation to facilitate mass adoption by the mainstream economy is to go beyond existing limitations of smart contract protocols.",
-        "h5e": "NFT City.Exchange - Interactive NFT™ Platform",
-        "p6": "NuGenesis Layer 1 NFT Platform is totally gasless. It is designed to encourage innovation. To encourage the shift from the rather static NFTs that are currently in existence, to more interactive NFTs. NFTs that transcend art into gaming.",
-        "h5f": "THE LEDGER X EXCHANGE BLOCKCHAINS",
-        "p7": "Ledger X is fully fledged (fiat/crypto) exchange where prices are determined by the brutality of the open market. It was designed to be an important part of the NuGenesis ecosystem to ensure capital is to be allocated by the market rather than bond curves and technocratic formulae.",
-        "small": "View Projects"
-    },
-    "medias": {
-        "h4": "Media",
-        "h5": "NuGenesis in Under 4 Minutes",
-        "h5a": "NuGenesis - The Unveiling",
-        "small": "Learn More",
-        "h4a": "Community Participation",
-        "h5b": "Get involved and make your mark?",
-        "h5c": "Want to become a part of the NuGenesis community?",
-        "h5d": "Want to make a career, profession, or business in the new economy?",
-        "h5e": "Check out the opportunities in the NuGenesis ecosystem:",
-        "p1": "Unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented and virtual reality. The  backbone of the metaverse and metarealm.",
-        "smalla": "Close"
-    },
-    "media": {
-        "h4": "Media",
-        "h5": "NuGenesis in Under 4 Minutes",
-        "p1": "NuGenesis is the the most advanced blockchain eco-system. We'll help you understand our vision and mission in under 4 Minutes.",
-        "h5a": "NuGenesis - The Unveiling",
-        "p2": "NuGenesis is finally here. Let us introduce to you the solutions available today, such as LedgerX, hardware, as well as the NuGenesis MetaRealm concept. In this unveiling, we'll also introduce our Team from around the world, including India and Dubai.",
-        "p3": "We celebrate the evolution of mankind and show you more insights on the roadmap of NuGenesis technologies. In this unveiling, we dive deeper into the journey and purpose of NuGenesis. Learn about parralel processing capabilities with NuGenesis, allowing uncomparable transactions per second, AI and Security."
-    },
-    "the_nugenesis_flagship": {
-        "h5": "Projects",
-        "p1": "The NuGenesis flagship: NU Coin",
-        "p2": "NuCoin is the native currency in the NuGenesis ecosystem.",
-        "p3": "NuGenesis' flagship blockchain, NU Coin, is a fully operational and is already at zero-carbon emission. It is way past the POW vs POS debate!",
-        "p4": "With Proof of Authority with useful work AI (Artificial Intelligence) as one of several consensus mechanisms, including consensus before packing, NuGenesis' NuCoin uses system validator nodes running on the randomness of a round robin protocol and monitored by AI to underscore system integrity.",
-        "p5": "The streamlined validation process, through the super nodes with byzantine fault tolerance and randomness, reduces unnecessarily superfluous broadcasting through validation networks. Being gas less, there are no requests from 1000's of validators and fee actions.",
-        "p6": "NuCoin integrates blockchain load balancers and system validators to efficiently flow data into infinite parallel processing blockchains. It achieves unlimited scalability and transaction speeds. The more users, the faster the transaction speed!",
-        "p7": "NuCoin has multiple uses in the NuGenesis ecosystem. It is the principal currency for all services available (and NuCoin is burned on use), including the currency used in the NuTech cities and special economic zones established with participating jurisdictions. NuCoin is essential for staking by all projects as an effective \"fee\" for using the system. NuCoin is essential to the ranks involved in the Governance system. The ownership of NuCoin is designed to be widely dispersed, by contrast to tems with the intended effect that users are motivated to establish their substantial economic presence in the NuGenesis ecosystem.",
-        "p8": "Whilst a number of NuGenesis projects ( such Ledger X, Just Social, the Metarealm, V2R etc) will stand on their own with their own digital assets, NuCoin holders will always be entitled to early and preferential access to these projects."
-    },
-    "bitcoin_nu": {
-        "h5": "Bitcoin NU",
-        "p1": "For the lovers of the classic Bitcoin protocol but for whom the excessive energy demands of the mathematical processes to secure the bitcoin network are too great, NuGenesis has worked with certain Bitcoin devs to create Bitcoin Nu. The system retains the Bitcoin open source code with all the benefits of the robustness from over 12 years to testing.",
-        "p2": "The chain proves have that with code change alone unnecessary complexity can be removed and the consequent computational power expended. Most of the environmental problems can be minimised.",
-        "p3": "Mining can be achieved by ordinary users on their laptops as intended by Satoshi. They prevent the ASIC mining that uses the unnecessary resources.",
-        "p4": "Simultaneously, they can achieve scalability and efficient transaction speed: that is to 1 minute block finalisation, increasing the transaction speed from 45 T/per second as compared to the current 7 T/per second.",
-        "p5": "To offset the carbon footprint of the BTCNU mined, NuGenesis has added an offset treasury \"'Treasury\" Offset anti-carbon system wallet\" to collect a portion of mined coins to fund 'carbon offset' programs such as reforestation projects."
-    },
-    "bitcoin_green": {
-        "h5": "BITCOIN GREEN",
-        "p1": "As a further innovation from BitCoin NU, through BitCoin Green, NuGenesis have achieve the 2 nd phase in making Bitcoin tech completely green. This blockchain uses proof of useful work AI as at consensus mechanism. They incorporate NAVIS (NuGenesis Artifical Validation Intellegence System) to ensure system security and integrity. Dedicated sub-treasuries are available for specific 'carbon offset' projects in reforestation and soil rejuvination. Minting mechansims and staking protocols replace the current halving algaorithims and complexity rates. The speeds here are testing at 1, 500-100,00 T/per second",
-        "p2": "Carbon offests, in both chains are written into the code. The treasuries ensure on-going funding of reforestation and soil rejuvination automatically."
-    },
-    "troy_gold_backed_token": {
-        "h3": "TROY Gold-backed token denominated in major currencies",
-        "p1": "A troy is a token to represent the fiat currency representation in physical gold. For example Troy USD (TUSD) Troy Euro (TEURO) Tory AUD (TAUD) etc. It functions similar to a stable coin and a remittance tool.",
-        "p2": "Troys are designed to provide liquidity to crypto markets and be a secure and reliable bridging currency. Troys are designed to meet inflationary concerns. Users can be confident that each Troy is based on the dominated fiat jurisdiction's equivalent in actual physical gold vaulted by the particpating financial institutions and can be exchanged for that fiat currency.",
-        "p3": "Troys are issued under regulatory licence in Australia. The prototype is built using 5 cross chains pegged to gold and major currencies and the gasless nature of the NuGenesis blockchain system permits exchange efficiency."
-    },
-    "just_social": {
-        "h3": "JUST SOCIAL",
-        "p1": "The decentralised social media platform that empowers users to realise their value.",
-        "p2": "JUST SOCIAL is designed to allow users to re-claim their value using the technology of blockchain.",
-        "p3": "Just Social will provide the means by which users can earn and realise their value. You can earn your slice of your (meta data) that you chose to allow the platform to share with advertisers; from merely participating and receiving airdrops; from rewards for marketing, reviews, and a range of contributions everyone can make to the ecosystem.",
-        "p4": "JUST SOCIAL is focused on the crypto and technology space providing users the optimal access to data, community interaction, and innovative technology to participate in multiple ways including offering services. It is the 'one stop shop' to lean, keep up with everything crypto and tech.",
-        "p5": "Just social provides access to a launch pad for new projects known as V2R ('Vision to Reality') and a Fully Fledged Decentralised Crypto-fiat exchange, Ledger X to maximise the liquidity and capital flow for innovative tech to realise its full potential.",
-        "p6": "The platform provides for reviews, critiques and assessments of tech projects, the generation of an accreditation and qualification system, and the opportunity for users to set terms according to which crowd-sourced projects are released funds to achieve their potential.",
-        "p7": "If you wanted to earn in crypto; to make crypto your career and business, Just Social is the place where you can interact with fellow colleagues. You may be selling services for crypto, or join a project needing assistance.",
-        "h5": "Users realising their value",
-        "p8": "Users are starting to realise that their private data is valuable; that their spending patterns, interests, opinions and sentiments are powerful signals that are marketable.",
-        "p9": "However, the value is reaped only by, and for the benefit of, the intermediary social media giants. Users are left to being the products of the social media giants whether selling to advertisers or other data analytics.",
-        "p10": "The explosion of the NFT market has created a realisation that users do not even own their own data, whether their own photos, audio or videos. By the terms and conditions of social media platforms, your photos are owned by them! Tomorrow this could be a valuable NFT, but it is not yours! Just Social preserves your ownership."
-    },
-    "dnc": {
-        "h3": "Next Generation SMART CONTRACT DIGITAL NOTRALISED CONTRACTS (DNC'S)",
-        "p1": "The NuGenesis innovation to facilitate mass adoption by the mainstream economy is to go beyond existing limitations of smart contract protocols. Smart Contract Digital Notarised Contracts™ (DNCs) allow for parties to transact with more comprehensive contracts that cater for a wide range of terms and conditions to cater for the various possibilities that can arise, and consequent allocation of risks in common business practices. The AI capability will build suggested templates of contracts and instruments in an increasingly number of commercial scenarios.",
-        "p2": "The AI will pull the suggested templates to a contemplated transaction, fill in the data from the respective chains and wallet IDs, and the counterparties have signed the respective DNC, the system will witness and notarise the DNC by time-stamp hash it with a unique identifier.",
-        "p3": "Transactional scenarios may require money to be held in trust wallets, with or without multi-sigs, and impose standard business customs such as for example SGC inspections for import/export contracts. The Ledger X blockchain system allows for smart contract developers to innovate with parallel processing in the smart contract protocols removing the limitation of liner time ordering and allowing for the flexibility for both vertical and horizontal events to be incorporated.",
-        "p4": "We are in communication with a number of jurisdictions regarding the adoption of a Blockchain Code of Conduct and Crypto laws to recognise and provide forums for efficient dispute resolution that arise in blockchain technology. These jurisdictions can be made the forum for dispute resolution and governing law for a wider variety of templated business situations."
-    },
-    "nft_city": {
-        "h3": "NFT City.Exchange - Interactive NFT™ Platform",
-        "p1": "NuGenesis Layer 1 NFT Platform is totally gasless. It is designed to encourage innovation. To encourage the shift from the rather static NFTs that are currently in existence, to more interactive NFTs. NFTs that transcend art into gaming. NFTs that level up as they interact whether competing or being part of a collection.",
-        "p2": "Interactive NFTs are vehicles for business records: ID's, driver's licences, medical records for example. Interactive NFTs can become part of the metarealm. When interactive NFTs need millions of transactions per second, or as part of the meta-realm, billions of transactions per second, the multi-chain parallel processing can deliver it. There is no competition."
-    },
-    "themetarealm": {
-        "h3": "THE METAREALM",
-        "p1": "The NuGenesis meta-realm is where the NuGenesis technology begins to be perceivable by the layperson. The meta-realm is design to accommodate base layer transactions on chain in the billions of transactions per second.",
-        "p2": "The meta-realm pairs with physical reality. It is being built to provide the seamless interaction between the physical, augmented and virtual reality. The social and economic experience is being built to be realistic.",
-        "p3": "The AI self-preservation protocol for example will allow your personal AI Avatar to be trained by you and represent you in the metarealm. This includes after you have passed. Imagine your AI-trained Avatar being available for your great grand-children to meet.",
-        "p4": "The AI resurrection protocol will be the re-creation of a historical figure based on all available known data. Want Martial Arts lessons from Bruce Lee? Interrupt the battle of waterloo and ask Napoleon what he was thinking at any particular moment?"
-    },
-    "nextgeneration": {
-        "h5": "NEXT GENERATION DEFI THROUGH SERIALISATION",
-        "p1": "NuGenesis provides for digital assets to be serialised. Currently, Defi lending has been criticised as being is little more than a pawn shop. It cannot advance beyond that with the current state of blockchain technology because recourse/security for lending is limited to those Coins and Tokens that are provided to the lender.",
-        "p2": "By contrast, NuGenesis blockchains involve innovations that include effective serialisation of each individual Coin into a Digital Notarised Contract ('DNC') that allows, inter alia:",
-        "li": "each Coin to be effectively a new version of a NFT;",
-        "lia": "conditions to be placed on each coin, such as a mortgage, charge, options etc;",
-        "lib": "multi-signatory capacity for corporates, trusts and governments; and,",
-        "lic": "comprehensive conditions on a coin that resemble those customary in traditional capital markets (rather than short smart contracts).",
-        "lid": "The NuGenesis platforms fosters the development of a fully-fledged lending platform, where for example, mainstream corporate adoption would be attracted to lend crypto at, for example a 90% or even 100% LVR, for the purchase of new crypto secured by the lending.",
-        "h5a": "PARA-CHAINS, SMART CHAINS AND PARRALLEL PROCESSING AND HYBRID CHAINS",
-        "p3": "NuGenesis offers crypto projects of all sizes the ability to customise their blockchains according to evolving needs. A fledging project may seed fund through the V2R (Vision to Reality) Launchpad. It may use the NuGenesis next gen Smart Chain to create coins or tokens at either Layer 1 or Layer 2.",
-        "p4": "A more advanced project may wish to be a para-chain to economise the on-going infrastructure costs such as storage and security. Another may prefer its own sovereign parallel processing with any drain on its/or the systems resources.",
-        "p5": "Projects may customise blockchains with classes of transactions using differentially private permissioned chains for sensitive information, and open sourced and decentralised chains otherwise. They may tailor and modify the perfect configuration for its business evolution."
-    },
-    "ledgerx_p": {
-        "h3": "THE LEDGER X EXCHANGE BLOCKCHAINS",
-        "p1": "Ledger X is fully fledged (fiat/crypto) exchange where prices are determined by the brutality of the open market. It was designed to be an important part of the NuGenesis ecosystem to ensure capital is to be allocated by the market rather than bond curves and technocratic formulae.",
-        "p2": "Ledger X is decentralised in that, unlike say Binance which has a central point of data storage, the data is decentralised with the 11 witness nodes across the globe. This offers a vital security advantage without compromising the instant settlement time.",
-        "p3": "The decentralisation is designed to encourage users to consolidate their holdings; view; monitor and manage their portfolio; apply metrics and analytics available without the risks of a centralised exchange. Assets from other blockchains can be deposited whilst remaining interoperable. With multi-sig, treasury wallets and allowing users to keep their private keys, it is intended to provide the user experience comfort needed to optimise mass adoption.",
-        "p4": " What to know a bit more?",
-        "a": "Link",
-        "p5": "Ledger X is scalable and high performance; it is designed for new projects to cheaply and efficiently create or mint coins to make available to the open market, or for existing projects to obtain further liquidity through supplemental release mechanisms.",
-        "p6": "The Leger X exchange is a parallel processing tri blockchain configuration",
-        "p7": "The three chains include:",
-        "li": "Settlement chain;",
-        "lia": "Match chain; and",
-        "lib": "Content chain",
-        "p8": "which are running parallel together.",
-        "p9": "The consensus mechanism involves two major protocols:",
-        "lic": "Delegated Revenue Proof of Stake; and,",
-        "lid": "Consensus before packing",
-        "p10": "the combined effect of which is that the transaction has already been processed when it goes through the block. This tri-chain concurrent processing achieves a 1 second block speed creation finality.",
-        "p11": "The user therefore experiences a completed order within 1 second; a speed comparable to a centralised exchange.",
-        "p12": "The settlement chain effects the 'consensus before packing' and the settlement. The content chain stores the data on finality, and the match chain matches the data (order matching) when trying to resolve it or search it. An explorer search will identify the ID of multiple transactions however they are processed as between the blockchains",
-        "p13": "Like the NuGenesis blockchain, it is scalable such that parallel chains can be created and bridged. It is flexible in that it allows developers to create more vertical side-chain scenario. There are globally dispersed super-nodes. The 11 witness nodes are Super-nodes that are deployed in 8 countries on four continents.",
-        "p14": "The cross-chain protocol allows assets on other public chains to be anchored though smart contracts and scripts to create or be part of newly created crypto assets on the users' Ledger X exchange wallets.",
-        "p15": "A current limitation of smart contracts is that they are not designed with parallel computing in mind and operate on a linear time ordering process. The Ledger X side-Chain protocol allows smart contract developers to introduce side chain mechanisms that concurrently process providing greater flexibility for vertical side chain scenarios."
-    },
-    "team": {
-        "h4": "Team",
-        "h5": "Luay Mohsen",
-        "small": "CHIEF TECHNOLOGY OFFICER",
-        "h5a": "Hamza Yasin",
-        "smallone": "BLOCKCHAIN DEVELOPER",
-        "h5b": "Zain Ul Abedin",
-        "smalltwo": "BLOCKCHAIN DEVELOPER",
-        "h5c": "Raja Fayyaz",
-        "smallthree": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING",
-        "h5d": "Mohamed Hassan",
-        "smallfour": "MULTIFACETED TECHNICAL ENGINEER",
-        "h5e": "Fahad Aziz",
-        "smallfive": "FRONT-END DEVELOPER",
-        "h5f": "Omer Iftikhar",
-        "smallsix": "FRONT-END DEVELOPER",
-        "h5g": "Ali Zaryab",
-        "smallseven": "UI/UX FULL STACK DEVELOPER",
-        "h5h": "Reza Motevallizadah",
-        "smalleight": "CLOUD SOFTWARE ARCHITECTURE ENGINEER",
-        "h5i": "Muhammad Hassan",
-        "smallnine": "WEB/MOBILE & BLOCKCHAIN DEVELOPER",
-        "h5j": "Abdullah Ahmed",
-        "smallten": "WEB & BLOCKCHAIN DEVELOPER",
-        "h5k": "Hussein Faraj",
-        "smalleleven": "CHIEF EXECUTIVE OFFICER",
-        "h5l": "Nivine khanafer",
-        "smalltwelve": "EXECUTIVE ASSITANT",
-        "h5m": "Ibrahim Hamidy",
-        "smallthirteen": "ETHICS OFFICER",
-        "h5n": "Imran Bhojani",
-        "smallfourteen": "PROJECT MANAGER",
-        "h5o": "Anthony Weinman",
-        "smallfiveteen": "INVESTOR, HR & OFFICE ADMINISTRATION",
-        "h5p": "Kevin Bowen",
-        "smallsixteen": "CHIEF MARKETING OFFICER"
-    },
+
     "trans_link": {
         "ambassador_program_nugenesis": "en/Ambassador Program/01 NuGENESIS Ambassador Program Brochure .docx",
         "ambassador_program_deed": "en/Ambassador Program/02 Ambassadorial Deed.docx",
         "ambassador_program_performance": "en/Ambassador Program/03 Ambassadors Performance Plan.docx",
-        "ambassador_program_terms_condition": "en/Ambassador Program/General Terms and Conditions of Adoption Facilitators.docx",
         "ambassador_program_online_application": "en/Ambassador Program/online application form.docx",
         "diplomats_program_nugenesis": "en/Diplomat's program/01 NuGENESIS Diplomats Program Brochure.docx",
         "diplomats_program_deed": "en/Diplomat's program/02 Diplomatic Deed.docx",
         "diplomats_program_performance": "en/Diplomat's program/03 Diplomats Performance Plan.docx",
-        "diplomats_program_terms_condition": "en/Diplomat's program/General Terms and Conditions of Adoption Facilitators.docx",
         "diplomats_program_online_application": "en/Diplomat's program/online application form.docx",
         "sanators_program_nugenesis": "en/PDF Senator Program Final/01 NuGENESIS Senator Program Brochure.pdf",
         "sanators_program_deed": "en/PDF Senator Program Final/02 Senatorial Deed.pdf",
         "sanators_program_performance": "en/PDF Senator Program Final/03 Senators Performance Plan.pdf",
-        "sanators_program_terms_condition": "en/PDF Senator Program Final/General Terms and Conditions of Adoption Facilitators.pdf",
         "sanators_program_online_application": "en/PDF Senator Program Final/online application form.pdf",
         "market_consuls_program_nugenesis": "en/Market Consuls Program/01 NuGENESIS Market Consuls Program Brochure.docx",
         "market_consuls_program_deed": "en/Market Consuls Program/02 Market Consul Deed.docx",
         "market_consuls_program_performance": "en/Market Consuls Program/03 Market Consuls Performance Plan.docx",
-        "market_consuls_program_terms_condition": "en/Market Consuls Program/General Terms and Conditions of Adoption Facilitators.docx",
         "market_consuls_program_online_application": "en/Market Consuls Program/online application form.docx",
         "network_concordat_program_nugenesis": "en/Network Concordat program/01 NuGENESIS Network Concordat Program Brochure.docx",
         "network_concordat_program_deed": "en/Network Concordat program/02 Network Concordat Deed.docx",
         "network_concordat_program_performance": "en/Network Concordat program/03 Network Concordat Performance Plan.docx",
-        "network_concordat_program_terms_condition": "en/Network Concordat program/General Terms and Conditions of Adoption Facilitators.docx",
         "network_concordat_program_online_application": "en/Network Concordat program/online application form.docx"
     }
 }

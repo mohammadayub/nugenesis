@@ -1,151 +1,105 @@
 @extends('layout')
 @section('content')
-    <div id="about-us" @if(\App\Language::isRTL()) dir="rtl" @endif>
-		<div class="mb-5 display-relative shadow" id="hero-container">
-			<header id="header" class="custom-container container-xl position-relative">
+<div id="about-us" @if(\App\Language::isRTL()) dir="rtl" @endif>
+    <div class="position-relative min-vh-100 d-flex flex-column" id="hero-container">
+        <section id="header">
+            <header class="custom-container container-xl position-relative z-index-2s">
+                <!-- <img src="./images/Header IMG.png" alt="hero image" class="hero-image position-absolute d-none d-lg-block"> -->
                 @include('nav')
-			</header>
-		</div>
-        <section class="custom-container container-xl pt-5">
-            <div class="row">
-                <div class="col-12 text-center mb-5">
-                    <h2 class="mb-3">
-                        <b>{{__("about-us")['h4']}}</b>
-                    </h2>
-                </div>
-
-            </div>
+            </header>
         </section>
-        <section class="custom-container container-xl">
-
-            <div class="row mb-2">
-                <div class="col-md-8">
-
-                    <h6 class="text-secondary mb-5 text-justify text-secondary">
-                        <b>{{__("about-us")['h6']}}</b>
-                    </h6>
-
-                    <p class="about-us-p">
-                            {{__("about-us")['p1']}}
-                        </p>
-                       <p class="about-us-p">
-                            {{__("about-us")['p2']}}
-                       </p>
-
-                        <p class="about-us-p">
-                                {{__("about-us")['p3']}}
-                        </p>
-
-                        <p class="about-us-p">
-                            {{__("about-us")['p4']}}
-                        </p>
-
-                        <p class="about-us-p">
-                            {{__("about-us")['p5']}}
-                        </p>
-                </div>
-                <div class="col-md-4">
-                <video autoplay muted loop class="about-us-video">
-                        <source src="../images/about-us.mp4" type="video/mp4">
-                    </video>
-</div>
-
-
-
-</div>
-<div class="row">
-<div class="col-md-12">
-                        <p class="about-us-p">
-                            {{__("about-us")['p6']}}
-                        </p>
-
-                        <div class="mb-5 py-5 bg-light- position-relative">
-                            <img src="../images/Elements-1.png" alt="" class="position-absolute coin-left z-index-1" width="100">
-                            <img src="../images/Elements-1.png" alt="" class="position-absolute coin-right z-index-1" width="100">
+        <section id="hero" class="bg-white py-5 align-self-stretch">
+            <div class="custom-container container-xl">
+                <div class="row text-justify">
+                    <div class="col-lg-6 about-container pt-lg-5 d-flex align-items-center">
+                        <div class="z-index-2">
+                            <h4 class="mb-3 text-color-1">
+                                <b>{{__("about-us_page_hero")['about_nugenesis']}}</b>
+                            </h4>
+                            <div class="text-color-2">
+                                <p>
+                                    {{__("about-us_page_hero")['p1']}}
+                                </p>
+                                <p>
+                                    {{__("about-us_page_hero")['p2']}}
+                                </p>
+                                <p>
+                                    {{__("about-us_page_hero")['p3']}}
+                                </p>
+                            </div>
                         </div>
-
-                        <p class="about-us-p">
-                            {{__("about-us")['p7']}}
-                        </p>
-
-                        <p class="about-us-p">
-                            {{__("about-us")['p8']}}
-                        </p>
-
-                        <p class="about-us-p">
-                            {{__("about-us")['p9']}}
-                        </p>
-
+                    </div>
+                    <div class="col-lg-6 position-relative">
+                        <img src="./images/about_us/Assets/abt-illustration-1.png" alt="" class="z-index-2 w-100 about-image">
                     </div>
                 </div>
-            </section>
+            </div>
+        </section>
+    </div>
 
+    <section id="system" class="min-vh-100 d-flex align-items-center">
+        <div class="custom-container container-xl">
+            <div class="row">
+                <div class="col-lg-7 offset-lg-5 text-white">
+                    <p>
+                        {{__("about-us_page_system")['p1']}}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <section id="roadmap">
+        <div class="custom-container container-xl">
+            <div class="row text-justify mb-5">
+                <div class="col-lg-6 about-container pt-lg-5 d-flex align-items-center order-2 order-lg-1">
+                    <div class="z-index-2">
+                        <h4 class="mb-3 text-color-1">
+                            <b>{{__("about-us_page_roadmap")['roadmap']}}</b>
+                        </h4>
+                        <div class="text-color-2">
+                            <p>
+                                {{__("about-us_page_roadmap")['p1']}}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 position-relative order-1 order-lg-2">
+                    <img src="../images/about_us/Assets/abt-illustration-3.png" alt="" class="z-index-2 w-100 about-image">
+                </div>
+            </div>
+            <div class="row text-justify mb-5">
+                <div class="col-lg-6 position-relative">
+                    <img src="../images/about_us/Assets/abt-illustration-4.png" alt="" class="z-index-2 w-100 about-image">
+                </div>
+                <div class="col-lg-6 about-container pt-lg-5 d-flex align-items-center">
+                    <div class="z-index-2">
+                        <h4 class="mb-3 text-color-1">
+                            <b>{{__("about-us_page_roadmap")['roadmapone']}}</b>
+                        </h4>
+                        <div class="text-color-2">
+                            <p>
+                                {{__("about-us_page_roadmap")['p2']}}
+                            </p>
+                            <p>
+                                {{__("about-us_page_roadmap")['p3']}}
+                            </p>
+                            <p>
+                                {{__("about-us_page_roadmap")['p4']}}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <footer class="py-5">
+        <div class="d-flex justify-content-center text-white">
+            NuGenesis &copy; <span id="year"></span>. All rights reserved.
+        </div>
+    </footer>
 
-      {{--
-		<section class="pt-5">
-			<div class="position-relative custom-container container-xl row">
-				<div class="container-bg-image position-absolute z-index-n1 rounded-lg"></div>
-				<div class="col-12">
-					<div class="text-center mb-5 py-5 bg-light- position-relative">
-                        <img src="../images/Elements-1.png" alt="" class="position-absolute coin-left z-index-1" width="100">
-						<img src="../images/Elements-1.png" alt="" class="position-absolute coin-right z-index-1" width="100">
-						<div class="row mb-4">
-							<div class="col-lg-4 offset-lg-4">
-								<h4>
-									<b>{{__("about-us")['h4']}}</b>
-								</h4>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-6 offset-lg-3">
-								<h5 class="text-secondary mb-5">
-									{{__("about-us")['h5']}}
-								</h5>
-							</div>
-						</div>
-						<div class="row text-lg-center text-justify">
-							<div class="col-lg-10 offset-lg-1">
-								<p class="mb-4">
-									{{__("about-us")['p1']}}
-								</p>
-								<p class="mb-4">
-								{{__("about-us")['p2']}}
-								</p>
-								<p class="mb-4">
-								{{__("about-us")['p3']}}
-								</p>
-								<p class="mb-4">
-								{{__("about-us")['p4']}}
-								</p>
-								<p class="mb-4">
-								{{__("about-us")['p5']}}
-								</p>
-
-
-
-								<p class="mb-4">
-								{{__("about-us")['p6']}}
-								</p>
-								<p class="mb-4">
-								{{__("about-us")['p7']}}
-								</p>
-								<p class="mb-4">
-								{{__("about-us")['p8']}}
-								</p>
-								<p class="about-us-p">
-								{{__("about-us")['p9']}}
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-
-        --}}
-
-	</div>
-	@endsection
+</div>
+@endsection
 

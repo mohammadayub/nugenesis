@@ -58,4 +58,8 @@ Route::get('/language',function(){
     return view('language');
 });
 
+Route::get('/general-terms-condition',function(){
+    return view('general-terms-condition');
+});
+
 });

@@ -71,5 +71,11 @@ class KeyLanguageTest extends MainKeyLanguageTest
     }
 
 
+    public function testFailure(): void
+    {
+        $this->assertContains(4, [1, 2, 3]);
+    }
+
+
 
 }

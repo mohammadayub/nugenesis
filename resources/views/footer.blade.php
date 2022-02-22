@@ -1,4 +1,5 @@
-<footer class="pt-5">
+<footer class="py-4">
     <div class="d-flex justify-content-center">
-        <p>{!! __('footer')['copy'] !!}</p>
+        <p class="mb-0">NuGenesis &copy; <span id="year"></span>. All rights reserved.</p>
+    </div>
 </footer>
