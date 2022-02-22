@@ -499,6 +499,29 @@
 
     },
 
+    "general-terms-condition_page_confidential_information":{
+        "confidential_information":"CONFIDENTIAL INFORMATION",
+        "p1":"You agree that any remunerations paid to participate in this Program and for individual proposals/campaigns are confidential between You and NuGenesis, and You shall not disclose them to any third party except as required by law."
+
+    },
+
+    "general-terms-condition_page_data_protection":{
+        "data_protection":"Data and privacy protection",
+        "ensure":"You shall ensure that:",
+        "p1":"You have obtained all necessary rights from third parties and any notification or consent requirements which may be required from any person about or for processing data to provide Services by its obligations under these Terms and Conditions;" ,
+        "p2":"You have complied with all other requirements under any applicable privacy and data protection laws, regulations, and mandatory codes;",
+        "p3":"You shall, upon request of NuGenesis, provide to NuGenesis all such documentation and information evidencing its compliance with the requirements of this Clause;",
+        "p4":"You agree and accept that nothing in this Agreement creates an obligation for NuGenesis to share any information it gathers or acquires at any stage about any Client with You."
+
+    },
+
+    "general-terms-condition_page_limitation_liability":{
+
+
+    }
+
+
+
 
 
 

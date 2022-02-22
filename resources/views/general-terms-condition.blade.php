@@ -631,12 +631,12 @@
 
         <section class="custom-container container-xl mb-5 text-justify">
             <h4 class="mb-4">
-                CONFIDENTIAL INFORMATION
+                {{__("general-terms-condition_page_confidential_information")['confidential_information']}}
             </h4>
             <div>
                 <ol start="64">
                     <li>
-                        You agree that any remunerations paid to participate in this Program and for individual proposals/campaigns are confidential between You and NuGenesis, and You shall not disclose them to any third party except as required by law.
+                        {{__("general-terms-condition_page_confidential_information")['p1']}}
                     </li>
                 </ol>
             </div>
@@ -644,27 +644,27 @@
 
         <section class="custom-container container-xl mb-5 text-justify">
             <div class="mb-3">
-                <u>Data and privacy protection</u>
+                <u>{{__("general-terms-condition_page_data_protection")['data_protection']}}</u>
             </div>
             <div>
                 <ol start="65">
                     <li>
-                        You shall ensure that:
+                        {{__("general-terms-condition_page_data_protection")['ensure']}}
 
                         <ol type="a">
                             <li>
-                                You have obtained all necessary rights from third parties and any notification or consent requirements which may be required from any person about or for processing data to provide Services by its obligations under these Terms and Conditions;
+                                {{__("general-terms-condition_page_data_protection")['p1']}}
                             </li>
                             <li>
-                                You have complied with all other requirements under any applicable privacy and data protection laws, regulations, and mandatory codes;
+                                {{__("general-terms-condition_page_data_protection")['p2']}}
                             </li>
                         </ol>
                     </li>
                     <li>
-                        You shall, upon request of NuGenesis, provide to NuGenesis all such documentation and information evidencing its compliance with the requirements of this Clause;
+                        {{__("general-terms-condition_page_data_protection")['p3']}}
                     </li>
                     <li>
-                        You agree and accept that nothing in this Agreement creates an obligation for NuGenesis to share any information it gathers or acquires at any stage about any Client with You.
+                        {{__("general-terms-condition_page_data_protection")['p4']}}
                     </li>
                 </ol>
             </div>
