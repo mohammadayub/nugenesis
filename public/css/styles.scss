@@ -104,7 +104,7 @@ body {
   }
 
   .nav-link {
-    color: whitesmoke;
+     color: whitesmoke;
   }
 
   .nav-link:hover {
@@ -280,11 +280,11 @@ body {
 
       @media (max-width: 991px) {
         display: none;
-      }    
+      }
     }
 
     .coin-left {
-  
+
       left: -170px;
       top: 200px;
 
@@ -400,7 +400,7 @@ body {
     background-image: url("../images/home/assets/bg-bottom.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    
+
     .container-bg-video {
       top: 50%;
       transform: translate(0, -50%);
@@ -445,7 +445,7 @@ body {
     background-size: 100% 100%;
     background-repeat: no-repeat;
   }
-  
+
   p {
     line-height: 2;
   }
@@ -569,11 +569,11 @@ body {
 
       @media (max-width: 991px) {
         display: none;
-      }    
+      }
     }
 
     .coin-left {
-  
+
       left: -170px;
       top: 400px;
 
@@ -603,7 +603,7 @@ body {
       font-weight: bold;
 
       @media (max-width: 991px) {
-        font-size: 60px; 
+        font-size: 60px;
       }
     }
 
@@ -633,11 +633,11 @@ body {
 
       @media (max-width: 991px) {
         display: none;
-      }    
+      }
     }
 
     .coin-left {
-  
+
       left: -170px;
       top: 300px;
 
@@ -657,7 +657,7 @@ body {
       p {
         margin-bottom: 0 !important;
       }
-      
+
       .social-links {
         border-radius: 20px;
       }
@@ -686,11 +686,11 @@ body {
 
       @media (max-width: 991px) {
         display: none;
-      }    
+      }
     }
 
     .coin-left {
-  
+
       left: -170px;
       top: 400px;
 
@@ -720,7 +720,7 @@ body {
       font-weight: bold;
 
       @media (max-width: 991px) {
-        font-size: 60px; 
+        font-size: 60px;
       }
     }
 
@@ -751,7 +751,7 @@ body {
 
       @media (max-width: 991px) {
         display: none;
-      }    
+      }
     }
   }
 
@@ -763,7 +763,7 @@ body {
 
       @media (max-width: 991px) {
         display: none;
-      }    
+      }
     }
   }
 
@@ -782,11 +782,11 @@ body {
 
       @media (max-width: 991px) {
         display: none;
-      }    
+      }
     }
 
     .coin-left {
-  
+
       left: -170px;
       top: 700px;
 
@@ -814,11 +814,11 @@ body {
 
       @media (max-width: 991px) {
         display: none;
-      }    
+      }
     }
 
     .coin-left {
-  
+
       left: -170px;
       top: 600px;
 
@@ -836,7 +836,7 @@ body {
 
       @media (max-width: 991px) {
         display: none;
-      }    
+      }
     }
   }
 
@@ -853,11 +853,11 @@ body {
 
       @media (max-width: 991px) {
         display: none;
-      }    
+      }
     }
 
     .coin-left {
-  
+
       left: -170px;
       top: 600px;
 
@@ -883,9 +883,12 @@ body {
     z-index: 100 !important;
   }
 
+
   .nav-link {
     color: whitesmoke !important;
   }
+
+
 
   .nav-link.dropdown {
     color: #838678 !important;
