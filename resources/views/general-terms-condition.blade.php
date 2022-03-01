@@ -672,30 +672,30 @@
 
         <section class="custom-container container-xl mb-5 text-justify">
             <h4 class="mb-4">
-                {{__("general-terms-condition_page_data_protection")['limitation_liability']}}
+                {{__("general-terms-condition_page_limitation_liability")['limitation_liability']}}
             </h4>
             <div>
                 <ol start="68">
                     <li>
-                        {{__("general-terms-condition_page_data_protection")['p1']}}
+                        {{__("general-terms-condition_page_limitation_liability")['p1']}}
                     </li>
                     <li>
-                        {{__("general-terms-condition_page_data_protection")['p2']}}
+                        {{__("general-terms-condition_page_limitation_liability")['p2']}}
                     </li>
                     <li>
-                        {{__("general-terms-condition_page_data_protection")['p3']}}
+                        {{__("general-terms-condition_page_limitation_liability")['p3']}}
                     </li>
                     <li>
-                        {{__("general-terms-condition_page_data_protection")['p4']}}
+                        {{__("general-terms-condition_page_limitation_liability")['p4']}}
                     </li>
                     <li>
-                        {{__("general-terms-condition_page_data_protection")['p5']}}
+                        {{__("general-terms-condition_page_limitation_liability")['p5']}}
                     </li>
                     <li>
-                        <u>{{__("general-terms-condition_page_data_protection")['force_majeure']}}</u>. {{__("general-terms-condition_page_data_protection")['p6']}}
+                        <u>{{__("general-terms-condition_page_limitation_liability")['force_majeure']}}</u>. {{__("general-terms-condition_page_limitation_liability")['p6']}}
                     </li>
                     <li>
-                        <u>{{__("general-terms-condition_page_data_protection")['third_party']}}</u>.{{__("general-terms-condition_page_data_protection")['p7']}}
+                        <u>{{__("general-terms-condition_page_limitation_liability")['third_party']}}</u>.{{__("general-terms-condition_page_limitation_liability")['p7']}}
                     </li>
                 </ol>
             </div>

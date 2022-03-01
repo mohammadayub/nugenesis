@@ -1,768 +1,761 @@
 {
-    "home_page_hero": {
-        "h1": "BLOCKCHAIN BASED TECHNICAL INFRASTRUCTURE",
-        "p1": "Welcome to the NuGenesis platform: the multi-chain, interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit.",
-        "p2": "Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.",
-        "p3": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented, and virtual reality. The backbone of the metaverse and metarealm.",
-        "p4": "NuGenesis did not have an ICO. It funded a complete operational blockchain system itself before NuCoin became available to the public from 23 December 2021. NuGenesis has been working on enterprise and government solutions, particularly for countries seeking to implement Central Bank Digital Currencies (CBDCs) and infrastructure instruments. Accordingly NuGenesis re-engineered blockchain from inception. A \"new\" Genesis. New, not only in different and fresh thinking, but \"NU\" as in N.U. – non-usury.",
-        "viewproject": "View Projects"
+    "home_page_hero":
+    {
+    "h1":"ブロックチェーンベース技術基盤",
+    "p1":"NuGenesisプラットフォームへようこそ：マルチチェーン、相互運用可能なネットワークシステムで、プライベート、パブリック、オープン、パーミッション、分散化の最適な組み合わせが可能です。",
+    "p2":"内部と外部の二重の人工知能（AI）で保護され、ガスレスでカーボンニュートラルです。",
+    "p3":"無限のスケールとスピードを持つNuGenesisブロックチェーン基盤は、ガスレスインタラクティブNFT、拡張現実、仮想現実の基層となるものです。メタバースとメタリズムのバックボーンです。",
+    "p4":"NuGenesisはICOを行わなかった。2021年12月23日からNuCoinが一般公開される前に、完全な運用型ブロックチェーンシステム自体に資金を供給したのだ。NuGenesisは、企業や政府のソリューション、特に中央銀行デジタル通貨（CBDC）やインフラストラクチャーの手段を導入しようとしている国々に取り組んできた。それに伴い、NuGenesisはブロックチェーンを創業時から再構築した。新しい」ジェネシスです。新しいとは、異なる新鮮な考え方という意味だけでなく、N.U.-non-usuryのように「NU」であることです。",
+    "viewproject":"プロジェクトを見る"
     },
-    "home_page_about": {
-        "scalability":"Scalability",
-        "p4":"Global scalability and speeds with Dual AI Integrity and Security Systems.",
-        "interoperability":"Interoperability",
-        "p5":"Cross-chain parallel processing and accelerating innovation through collaboration.",
-        "sustainability":"Sustainability",
-        "p6":"Governance that preserves the best of decentralisation and continual improvement.",
-        "about_nugenesis": "About NuGenesis",
-        "p1": "Welcome to the NuGenesis platform: the multi-chain interoperable network system availing your optimal combination of private, public, open, permission and with degree of decentralisation to suit. (There are 4 Patents Pending on the key aspects of the platform).",
-        "p2": "Secured by dual layer internal and external Artificial intelligence (AI), it is gasless and carbon neutral.",
-        "p3": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gas less interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm."
+    "home_page_about":
+    {
+    "scalability":"スケーラビリティ",
+    "p4":"デュアルAIインテグリティとセキュリティシステムによるグローバルなスケーラビリティとスピード。",
+    "interoperability":"インターオペラビリティ",
+    "p5":"クロスチェーン並列処理とコラボレーションによるイノベーションの加速。",
+    "sustainability":"サステナビリティ",
+    "p6":"地方分権と継続的改善の長所を維持するガバナンス。",
+    "about_nugenesis":"NuGenesisについて",
+    "p1":"NuGenesisプラットフォームへようこそ：マルチチェーン相互運用ネットワークシステムは、プライベート、パブリック、オープン、パーミッション、そして分散化の度合いを最適に組み合わせることができます。(このプラットフォームの主要な部分については、4つの特許が出願中です。）",
+    "p2":"内部と外部の二重の人工知能（AI）で保護され、ガスレスでカーボンニュートラルです。",
+    "p3":"無限のスケールとスピードを持つNuGenesisブロックチェーン・インフラは、ガスの少ないインタラクティブなNFT、拡張現実、仮想現実のための基層となります。メタバースとメタレルムのバックボーン。"
     },
-    "home_page_projects": {
-        "projects": "Projects",
-        "p1": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented, and virtual reality. The backbone of the metaverse and metarealm. Learn more about our Projects.",
-        "the_nugenesis_flagship":"The NuGenesis flagship: NU Coin",
-        "p2": "NuGenesis’ flagship blockchain, NU Coin, is a fully operational and is already at zero-carbon emission. It is way past the POW vs POS debate!",
-        "troy_gold": "TROY Gold-backed token denominated in major currencies",
-        "p3": "A troy is a token to represent the fiat currency representation in physical gold. For example Troy USD (TUSD) Troy Euro (TEURO) Troy AUD (TAUD) etc. It functions similar to a stable coin and a remittance tool.",
-        "just_social": "JUST SOCIAL",
-        "p4": "The decentralised social media platform that empowers users to realise their value. JUST SOCIAL is designed to allow users to re-claim their value using the technology of blockchain.",
-        "next_generation": "Next Generation SMART CONTRACT DIGITAL NOTRALISED CONTRACTS (DNC'S)",
-        "p5": "The NuGenesis innovation to facilitate mass adoption by the mainstream economy is to go beyond existing limitations of smart contract protocols.",
-        "nft": "NFT City.Exchange - Interactive NFT™ Platform",
-        "p6": "NuGenesis Layer 1 NFT Platform is totally gasless. It is designed to encourage innovation. To encourage the shift from the rather static NFTs that are currently in existence, to more interactive NFTs. NFTs that transcend art into gaming.",
-        "the_ledger": "THE LEDGER X EXCHANGE BLOCKCHAINS",
-        "p7": "Ledger X is fully fledged (fiat/crypto) exchange where prices are determined by the brutality of the open market. It was designed to be an important part of the NuGenesis ecosystem to ensure capital is to be allocated by the market rather than bond curves and technocratic formulae.",
-        "learnmore":"Learn More"
+    "home_page_projects":
+    {
+    "projects":"プロジェクト",
+    "p1":"無限のスケールとスピードを持つNuGenesisブロックチェーン基盤は、ガスレスインタラクティブNFT、拡張現実、仮想現実の基層となるものです。メタバースとメタリズムのバックボーンです。私たちのプロジェクトについてもっと知る",
+    "the_nugenesis_flagship":"NuGenesisのフラッグシップ。NU Coin",
+    "p2":"NuGenesisの代表的なブロックチェーンであるNU Coinは、フル稼働で、すでにゼロカーボン排出を達成しています。POW vs POSの議論をはるかに超えているのです",
+    "troy_gold":"TROY 主要通貨建ての金貨トークンです。",
+    "p3":"トロイは、不換紙幣の表現を現物の金で表すためのトークンです。例えば、トロイ米ドル（TUSD）トロイユーロ（TEURO）トロイ豪ドル（TAUD）等です。安定したコインと送金ツールに似た機能を持ちます。",
+    "just_social":"JUST SOCIAL","p4":"ユーザーが自分の価値に気づく力を与える、分散型ソーシャルメディアプラットフォーム。JUST SOCIALは ブロックチェーンの技術を使って ユーザーが自分の価値を再認識できるように設計されています。",
+    "next_generation":"Next Generation SMART CONTRACT DIGITAL NOTRALISED CONTRACTS (DNC'S)",
+    "p5":"NuGenesisのイノベーションは、主流経済圏での大量採用を促進するために、スマートコントラクトプロトコルの既存の制限を超えることです。",
+    "nft":"NFT City.Exchange - インタラクティブNFT™プラットフォーム",
+    "p6":"NuGenesis Layer 1 NFT Platformは、完全なガスレスです。イノベーションを促進するために設計されています。現在の静的なNFTから、よりインタラクティブなNFTへの移行を促進するためです。アートからゲームへ、NFTの進化。",
+    "the_ledger":"THE LEDGER X EXCHANGE BLOCKCHAINS",
+    "p7":"Ledger Xは、オープンマーケットの残酷さによって価格が決定される本格的な（フィアット/クリプト）取引所です。ボンドカーブやテクノクラート式ではなく、市場によって資本が配分されることを保証するために、NuGenesisのエコシステムの重要な部分として設計されました。",
+    "learnmore":"もっと詳しく"
     },
-    "home_page_medias": {
-        "media": "Media",
-        "p1": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented, and virtual reality. The backbone of the metaverse and metarealm.",
-        "community_participation": "Community Participation",
-        "get_involved":"Get involved and make your mark?",
-        "nugenesis_community": "Want to become a part of the NuGenesis community?",
-        "new_economy": "Want to make a career, profession, or business in the new economy?",
-        "nugenesis_ecosystem": "Check out the opportunities in the NuGenesis ecosystem:",
-        "p2": "Unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.",
-        "close": "Close"
+    "home_page_medias":
+    {
+    "media":"メディア",
+    "p1":"無限のスケールとスピードを持つNuGenesisブロックチェーン基盤は、ガスレスインタラクティブNFT、拡張現実、仮想現実の基層となるものです。メタバースとメタリズムのバックボーンです。",
+    "community_participation":"コミュニティへの参画",
+    "get_involved":"参加し、自分の力を発揮する？",
+    "nugenesis_community":"NuGenesisコミュニティの一員になりませんか？",
+    "new_economy":"ニューエコノミーでキャリア、職業、ビジネスを作りたい？",
+    "nugenesis_ecosystem":"NuGenesisのエコシステムにおける機会をご確認ください。",
+    "p2":"無限のスケールとスピードを誇るNuGenesisブロックチェーン基盤は、ガスレスインタラクティブNFT、拡張現実、仮想現実の基層となる。メタバースとメタレルムのバックボーン。",
+    "close":"閉じる"
     },
-
-    "about-us_page_hero":{
-        "about_nugenesis":"About NuGenesis",
-        "p1":"NuGenesis is system of blockchain technologies to reap the potential in the mass adoption of the crypto market. It integrates blockchain load balancers and system validators to efficiently flow data into infinite parallel processing blockchains. The more users, the faster the transaction speed!",
-        "p2":"NuGenesis parallel processing blockchains are multilingual cross chains allowing dApps built on Eth, Substrate, Bitcoin and 29 other language systems to be seamlessly interoperable.",
-        "p3":" NuGenesis blockchain network configurations are complete and functional, and in-built in the code to constantly improve and innovate. It is entirely gasless. It is zero-carbon emission, and totally Green."
-
+    "about-us_page_hero":
+    {
+    "about_nugenesis":"NuGenesisについて",
+    "p1":"NuGenesisは、暗号市場の大量導入における潜在的な可能性を刈り取るためのブロックチェーン技術のシステムです。ブロックチェーンのロードバランサーとシステムバリデーターを統合し、無限並列処理のブロックチェーンに効率的にデータを流します。ユーザーが増えれば増えるほど、取引速度が速くなります",
+    "p2":"NuGenesisの並列処理ブロックチェーンは多言語クロスチェーンで、Eth、Substrate、Bitcoinなど29の言語システムで構築されたdAppsをシームレスに相互運用することが可能です。",
+    "p3":"NuGenesisブロックチェーンのネットワーク構成は、完全かつ機能的であり、常に改善と革新を行うためにコードに組み込まれています。完全にガスレスです。炭素排出量ゼロで、完全にグリーンです。"
     },
-   "about-us_page_system":{
-       "p1":"NuGenesis is a fully completed native blockchain originally built for Government and transnational corporate applications. In the context of building a blockchain for Central Bank Digital Currencies (CBDCs), and an exchange clearing house for settlement, limitations to scaling and speed, latency and reliance on human miners and validators had to be eliminated. Security had to be enhanced, its integrity underscored by Artificial Intelligence (AI) and carbon neutral in its efficiency."
-
-   },
-   "about-us_page_roadmap":{
-       "roadmap":"Roadmap 1",
-       "p1":"Roadmap 1 is fully completed. NuGenesis is a fully operational blockchain system, including a gasless interactive NFT platform, next gen smart contract Digital Notarised Contract (DNC) platform, serialised digital asset platform for next gen Decentralised Finance (DeFi), mutli-coin smart chain and a complete ecosystem including a crypto-centric social media platform (Just Social) and a fully-fledged Fiat-Crypto exchange, LedgerX.",
-       "roadmapone":"Roadmap 2",
-       "p2":"Roadmap 2 is underway. The interactive NFTs are gamified, level-up and transition into augmented and virtual reality in the meta-realm.",
-       "p3":"The NuGenesis system has a constant rate of innovation built into the code. The minting system provides for special purpose treasuries to fund the continuous rate of upgrade and innovation.",
-       "p4":"User governance is encouraged; supported by a number of programs for community building and fostering those wishing to make crypto tech their career, profession and business."
-   },
-
-   "projects_page_hero" :{
-
-    "ourprojects":"Our Projects",
-    "the_nugenesis_flagship":"The NuGenesis Flagship:",
+    "about-us_page_system":
+    {
+    "p1":"NuGenesisは、もともと政府機関や多国籍企業向けのアプリケーションとして構築された、完全に完成されたネイティブブロックチェーンです。中央銀行デジタル通貨（CBDC）のためのブロックチェーンと、決済のための取引所クリアリングハウスを構築するという文脈では、スケーリングとスピード、レイテンシー、人間のマイナーとバリデータへの依存に対する制限を排除する必要がありました。セキュリティは強化され、その完全性は人工知能（AI）によって強調され、その効率性においてカーボンニュートラルでなければなりませんでした。"
+    },
+    "about-us_page_roadmap":
+    {
+    "roadmap":"ロードマップ1",
+    "p1":"ロードマップ1は完全に完成しています。NuGenesisは、ガスレスインタラクティブNFTプラットフォーム、次世代スマートコントラクトDigital Notarised Contract（DNC）プラットフォーム、次世代分散型金融（DeFi）向けシリアル化デジタルアセットプラットフォーム、ミューリコインスマートチェーンと、暗号中心のソーシャルメディアプラットフォーム（Just Social）や完全なフィアットと暗号の交換であるLedgerXなどの完全エコシステムと、完全に動作するブロックチェーンシステムであり、このようなシステムは、NuGenesisが開発したものです。",
+    "roadmapone":"ロードマップ2",
+    "p2":"ロードマップ2が進行中です。インタラクティブなNFTはゲーミフィケーションされ、レベルアップし、メタ領域の拡張現実や仮想現実に移行していく。",
+    "p3":"NuGenesisシステムは、コードに一定の技術革新の速度が組み込まれています。造幣局のシステムは、継続的なアップグレードと技術革新のための資金を調達するための特別な目的の財務省を提供します。",
+    "p4":"ユーザーによるガバナンスが推奨され、コミュニティ構築のための多くのプログラムによってサポートされ、暗号技術を自分のキャリア、職業、ビジネスにしたいと願う人たちを育てています。"
+    },
+    "projects_page_hero":
+    {
+    "ourprojects":"私たちのプロジェクト",
+    "the_nugenesis_flagship":"NuGenesis のフラッグシップ:",
     "nucoin":"NuCoin",
-    "p1":"NuCoin is the native currency in the NuGenesis ecosystem.",
-    "p2":"NuGenesis' flagship blockchain, NuCoin, is fully operational and is already at zero-carbon emissions. It is way past the Proof Of Work (POW) vs Proof Of Stake (POS) debate!",
-    "p3":"With Proof of Authority with useful work AI (Artificial Intelligence) as one of several consensus mechanisms, including consensus before packing, NuGenesis’ NuCoin uses system validator nodes running on the randomness of a round robin protocol and monitored by AI to underscore system integrity.",
-    "p4":" The streamlined validation process, through the super nodes with byzantine fault tolerance and randomness, reduces unnecessarily superfluous broadcasting through validation networks. Being gasless, there are no requests from 1000’s of validators and fee actions."
+    "p1":"NuCoinは、NuGenesisのエコシステムにおけるネイティブな通貨です。",
+    "p2":"NuGenesisの主力ブロックチェーンであるNuCoinは完全に稼働しており、すでに炭素排出量ゼロを達成しています。Proof Of Work (POW) vs Proof Of Stake (POS)の論争をはるかに超えているのです!",
+    "p3":"パッキング前のコンセンサスなど、いくつかのコンセンサスメカニズムの1つとして、有用な作業AI（人工知能）によるProof of Authorityを持つNuGenesisのNuCoinは、ラウンドロビンプロトコルのランダム性で動作するシステムバリデータノードとAIによる監視でシステムの整合性を強調する。",
+    "p4":"ビザンチン耐障害性とランダム性を備えたスーパーノードを介した合理的な検証プロセスは、検証ネットワークを介して不必要な余分な放送を減らすことができます。ガス抜きであるため、1000人以上のバリデータからの要求や料金アクションはありません。"
+    },
+    "projects_page_hero_sub":
+    {
+    "p1":"NuCoinは、ブロックチェーンのロードバランサーとシステムバリデーターを統合し、無限並列処理のブロックチェーンに効率的にデータを流すことができます。無限のスケーラビリティとトランザクション速度を実現します。ユーザーが多ければ多いほど、トランザクションのスピードは速くなります",
+    "p2":"NuCoinは、NuGenesisのエコシステムにおいて複数の用途があります。NuTech都市や参加する管轄区域と設立した経済特区で使用される通貨を含め、利用できるすべてのサービスの主要通貨です（NuCoinは使用時に燃やされます）。NuCoinは、システムを利用するための効果的な「料金」として、すべてのプロジェクトによるステークに不可欠である。NuCoinは、ガバナンスシステムに関わるランクに不可欠である。NuCoin の所有権は広く分散されるように設計されています。これは、ユーザーが NuGenesis エコシステムの中で実質的な経済的存在を確立しようとする動機付けとなることを意図して、Tems とは対照的です。",
+    "p3":"多くのNuGenesisプロジェクト（LedgerX、Just Social、the Metarealm、V2R、Bitcoin NU、Bitcoin Greenなど）が独自のデジタル資産で独立する一方で、NuCoin保有者は常にこれらのプロジェクトに早期かつ優先的にアクセスする権利がある。"
+    },
+    "projects_page_bitcoin":
+    {
+    "bitcoinnu":"Bitcoin NU",
+    "p1":"古典的なビットコインプロトコルを愛するが、ビットコインネットワークを保護するための数学的プロセスの過剰なエネルギー需要が大きすぎる人のために、NuGenesisは特定のビットコイン開発者と協力して、Bitcoin Nuを作成しました。このシステムは、ビットコインのオープンソースコードをそのままに、12年以上にわたるテストから得られた堅牢性のすべての利点を備えています。",
+    "p2":"ブロックチェーンは、コードの変更だけで、不必要な複雑さを取り除き、その結果、計算能力を消費できることを証明している。環境問題のほとんどを最小化することができる。",
+    "p3":"マイニングは、サトシが意図したように、日常のユーザーがノートパソコンで実現することができます。不必要なリソースを使用するASICマイニングを防ぐことができるのです。",
+    "p4":"同時に、スケーラビリティと効率的な取引速度を達成することができます。つまり、ブロックの最終処理を1分にすることで、現在の7T/秒から45T/秒へと取引速度を向上させることができるのです。",
+    "p5":"NuGenesisは、採掘したBTCNUの二酸化炭素排出量を相殺するため、「トレジャリーオフセット・アンチカーボンシステム・ウォレット」を追加し、採掘したコインの一部を集めて、森林再生プロジェクトなどの「カーボンオフセット」プログラムに資金を提供することにしています。",
+    "bitcoingreen":"Bitcoin Green",
+    "p6":"BitCoin NU のさらなる革新として、NuGenesis は BitCoin Green を通じて、ビットコイン技術を完全にグリーン化する第 2 フェーズを達成しました。このブロックチェーンは、合意形成のメカニズムとして、有用な作業の証明AIを使用しています。NAVIS (NuGenesis Artifical Validation Intellegence System)を搭載し、システムの安全性と完全性を保証しています。森林再生や土壌改良などの特定の「カーボンオフセット」プロジェクトには、専用のサブトレーを用意しています。Minting mechansimsとstaking protocolは、現在の半減アルゴリズムと複雑なレートを置き換えるものです。このスピードは1,500-100,00T/sec.でテストされています。",
+    "p7":"どちらのチェーンでも、カーボンオフセットがコードに書き込まれています。森林再生と土壌改良のための継続的な資金調達が自動的に行われます。"
+    },
+    "projects_page_troy":
+    {
+    "troy_gold":"TROY 主要通貨建ての金貨トークンです。",
+    "p1":"トロイは、不換紙幣の表現を現物の金で表すためのトークンです。例えば、トロイ米ドル（TUSD）トロイユーロ（TEURO）トロイ豪ドル（TAUD）等です。安定したコインと送金ツールに似た機能を持ちます。",
+    "p2":"トロイは、暗号市場に流動性を提供し、安全で信頼性の高いブリッジング通貨となるように設計されています。トロイは、インフレ懸念に対応するように設計されています。ユーザーは、各トロイが、参加する金融機関によって保管されている実際の物理的な金で支配的な不換紙幣管轄の等価に基づいており、その不換通貨と交換することができると確信することができます。",
+    "p3":"トロイは、オーストラリアの規制当局の認可を受けて発行されます。プロトタイプは、金と主要通貨に固定された5つのクロスチェーンを用いて構築されており、NuGenesisブロックチェーンシステムのガスレス性により、交換効率が可能になります。"
+    },
+    "projects_page_just_social":
+    {
+    "just_social":"Just Social",
+    "p1":"ユーザーが自分の価値を実現するための力を与える分散型ソーシャルメディアプラットフォームです。",
+    "p2":"JUST SOCIALは、ブロックチェーンの技術を利用して、ユーザーが自分の価値を再認識できるように設計されています。",
+    "p3":"ジャストソーシャルは、ユーザーが自分の価値を獲得し、実現するための手段を提供します。プラットフォームが広告主と共有することを選択したあなたの（メタデータ）のスライスを獲得することができます。単に参加してエアドロップを受け取ることから、マーケティング、レビュー、および誰もがエコシステムに貢献できる範囲の報酬から。",
+    "p4":"JUST SOCIALは、データへの最適なアクセス、コミュニティの交流、革新的な技術をユーザーに提供し、サービスの提供を含む複数の方法で参加できる暗号とテクノロジーの領域に焦点を当てています。それは、すべての暗号と技術に追いつくために、無駄のない「ワンストップショップ」です。",
+    "p5":"ジャストソーシャルは、V2R（'Vision 2 Reality'）と呼ばれる新しいプロジェクトのための発射台と、本格的な分散型暗号フィアット取引所であるLedgerXへのアクセスを提供し、流動性と資本フローの最大化により、イノベーション技術の可能性を最大限に実現させることを目指しています。",
+    "p6":"このプラットフォームは、技術プロジェクトのレビュー、批評、評価、認定および資格制度の生成を提供し、ユーザーがクラウドソースプロジェクトの可能性を実現するために資金を放出する条件を設定する機会を提供します。",
+    "p7":"暗号で稼ぎたい、暗号を自分のキャリアやビジネスにしたいと思ったとき、Just Socialは仲間と交流できる場所です。あなたは暗号のためのサービスを販売したり、支援を必要とするプロジェクトに参加することができます。",
+    "p8":"ユーザーは、自分の個人情報が貴重であることに気づき始めています。消費パターン、興味、意見、感情などは、市場価値のある強力なシグナルなのです。",
+    "p9":"しかし、その価値は仲介者であるソーシャルメディア大手によってのみ、またその利益のためにのみ刈り取られるのです。ユーザーは、広告主への販売であれ、他のデータ分析であれ、ソーシャルメディア大手の商品となるに過ぎないのです。",
+    "p10":"NFT市場の爆発的な拡大により、ユーザーは自分の写真、音声、動画など、自分のデータさえも所有していないという現実が生まれました。ソーシャルメディアプラットフォームの利用規約では、あなたの写真はプラットフォームが所有しているのです。明日には貴重なNFTになるかもしれませんが、それはあなたのものではありません! Just Socialはあなたの所有権を保持します。"
+    },
 
-   },
+    "projects_page_dnc":
+    {
+    "next_generation":"次世代スマートコントラクト デジタル公証契約(DNC)",
+    "p1":"NuGenesisのイノベーションは、主流経済圏での大量採用を促進するために、スマートコントラクトプロトコルの既存の制限を超えるものです。スマートコントラクトのデジタル公証契約™（DNC）により、当事者は、発生しうるさまざまな可能性に対応するための幅広い条件と、その結果として一般的なビジネス慣行におけるリスクの配分に対応する、より包括的な契約で取引することができます。このAI機能により、より多くの商取引シナリオに対応した契約や商品のテンプレートが提案されます。",
+    "p2":"AIは、想定される取引に提案されたテンプレートを引き出し、それぞれのチェーンやウォレットIDからデータを記入し、取引相手がそれぞれのDNCに署名すると、システムがタイムスタンプハッシュでDNCに固有の識別子を付けて立会いと公証を行います。",
+    "p3":"取引シナリオでは、マルチシグの有無にかかわらず、トラストウォレットに資金を保有する必要があり、例えば輸出入契約ではSGC検査などの標準的なビジネス慣習が課される場合があります。LedgerXブロックチェーンシステムは、スマートコントラクト開発者がスマートコントラクトプロトコルの並列処理でイノベーションを起こすことを可能にし、ライナータイムオーダーの制限を取り除き、垂直・水平両方のイベントを柔軟に取り入れることを可能にします。",
+    "p4":"私たちは、ブロックチェーン技術で発生する効率的な紛争解決のためのフォーラムを認識し提供するために、ブロックチェーン行動規範と暗号法の採用に関して、多くの法域と連絡を取り合っています。これらの管轄区域は、より多様なテンプレート化されたビジネス状況のために、紛争解決のためのフォーラムと準拠法を使用することができます。"
+    },
 
-   "projects_page_hero_sub":{
-       "p1":" NuCoin integrates blockchain load balancers and system validators to efficiently flow data into infinite parallel processing blockchains. It achieves unlimited scalability and transaction speeds. The more users, the faster the transaction speed!",
-       "p2":"NuCoin has multiple uses in the NuGenesis ecosystem. It is the principal currency for all services available (and NuCoin is burned on use), including the currency used in the NuTech cities and special economic zones established with participating jurisdictions. NuCoin is essential for staking by all projects as an effective “fee” for using the system. NuCoin is essential to the ranks involved in the Governance system. The ownership of NuCoin is designed to be widely dispersed, by contrast to tems with the intended effect that users are motivated to establish their substantial economic presence in the NuGenesis ecosystem.",
-       "p3":" Whilst a number of NuGenesis projects (such as LedgerX, Just Social, the Metarealm, V2R, Bitcoin NU and Bitcoin Green, etc) will stand on their own with their own digital assets, NuCoin holders will always be entitled to early and preferential access to these projects."
-   },
+    "projects_page_exchange":
+    {
+    "nftcity":"NFTCity.Echange - インタラクティブなNFTプラットフォーム",
+    "p1":"ニュージェネシスのレイヤー1 NFTプラットフォーム nftcity.exchangeは、完全なガスレスです。イノベーションを促進するために設計されています。現在ある静的なNFTから、よりインタラクティブなNFTへの移行を促進します。アートを超えてゲームになるNFT。競い合ったり、コレクションの一部となったりと、相互作用によってレベルアップするNFT。",
+    "p2":"インタラクティブNFTは、業務記録のための乗り物です。例えば、身分証明書、運転免許証、医療記録などです。インタラクティブNFTはメタリズムの一部となることができます。インタラクティブNFTが1秒間に数百万、あるいはメタレルムの一部として1秒間に数十億のトランザクションを必要とする場合、マルチチェーン並列処理がそれを実現することができるのです。競争相手がいないのです。",
+    "the_metarelm":"メタレルム",
+    "p3":"NuGenesisのメタ領域は、NuGenesisのテクノロジーが素人にも理解できるようになる場所です。メタ領域は、1秒間に数十億のトランザクションを処理するベースレイヤートランザクションに対応するよう設計されています。",
+    "p4":"メタ領域は物理的な現実と対になるものです。物理的現実、拡張現実、仮想現実の間のシームレスな相互作用を提供するために構築されています。社会的、経済的な経験を現実的にするために構築されています。",
+    "p5":"例えば、AI自己保存プロトコルは、あなた個人のAIアバターをあなたによって訓練し、メタレルムであなたを代表することを可能にします。これは、あなたが亡くなった後も含みます。AIに訓練されたあなたのアバターが、あなたのひ孫に会うことができると想像してください。",
+    "p6":"AIによる復活プロトコルは、利用可能なすべての既知のデータに基づき、歴史上の人物を再現することになります。ブルース・リーから武術を習いたい？ワーテルローの戦いを中断して、ナポレオンにその時何を考えていたのか聞いてみたい？",
+    "next_generation":"シリアライズによる次世代DeFi",
+    "p7":"NuGenesisは、デジタルアセットをシリアル化する機能を提供します。現在、DeFiレンディングは質屋に過ぎないという批判がある。貸し出しのためのリコース／セキュリティが貸し手に提供されたコインやトークンに限定されるため、ブロックチェーン技術の現状ではそれ以上の進化は望めません。",
+    "p8":"対照的に、NuGenesisブロックチェーンは、個々のコインをデジタル公証契約（「DNC」）に効果的にシリアル化するなどのイノベーションを含んでおり、これにより特に以下のことが可能になります。",
+    "eachcoin":"を、NFTの新しいバージョンと位置づけました。",
+    "condition":"抵当権、チャージ、オプションなど、各コインに設定される条件。",
+    "multisignatury":"企業、信託、政府に対するマルチシグネチャーの能力",
+    "comprehensive":"ショートスマートコントラクトではなく）従来の資本市場の慣習に類似したコインの包括的な条件。",
+    "p9":"NuGenesisのプラットフォームは、本格的なレンディングプラットフォームの開発を促進します。例えば、主流となる企業の採用は、例えば90％、あるいは100％のLVRで暗号を貸し出し、その貸し出しによって担保された新しい暗号を購入することに魅力を感じるでしょう。",
+    "para_chains":"パラチェーン、スマートチェーン、並列処理とハイブリッドチェーン",
+    "p10":"NuGenesisは、あらゆる規模の暗号プロジェクトに、進化するニーズに応じてブロックチェーンをカスタマイズする能力を提供します。新興のプロジェクトは、V2R（Vision to Reality）ローンチパッドを通じてシード資金を調達することができます。NuGenesisの次世代スマートチェーンを使用して、レイヤー1またはレイヤー2のいずれかでコインやトークンを作成することもできます。",
+    "p11":"より高度なプロジェクトでは、ストレージやセキュリティといった継続的なインフラコストを節約するために、パラチェーンになることを望むかもしれません。また、システムリソースに負担をかけずに独自の並列処理を行いたいプロジェクトもあるでしょう。",
+    "p12":"プロジェクトは、機密情報にはプライベートな許可制のチェーンを、それ以外にはオープンソースで分散化されたチェーンを使用し、取引のクラスによってブロックチェーンをカスタマイズすることができます。そのビジネスの進化に最適な構成を調整し、変更することができます。"
+    },
 
-   "projects_page_bitcoin":{
-       "bitcoinnu":"Bitcoin NU",
-       "p1":"For the lovers of the classic Bitcoin protocol but for whom the excessive energy demands of the mathematical processes to secure the bitcoin network are too great, NuGenesis has worked with certain Bitcoin devs to create Bitcoin Nu. The system retains the Bitcoin open source code with all the benefits of the robustness from over 12 years of testing.",
-       "p2":"The blockchain proves have that with code change alone unnecessary complexity can be removed and the consequent computational power expended. Most of the environmental problems can be minimised.",
-       "p3":"Mining can be achieved by every day users on their laptops as intended by Satoshi. They prevent the ASIC mining that uses the unnecessary resources.",
-       "p4":"Simultaneously, they can achieve scalability and efficient transaction speed: that is to 1 minute block finalisation, increasing the transaction speed from 45 T/per second as compared to the current 7 T/per second.",
-       "p5":"To offset the carbon footprint of the BTCNU mined, NuGenesis has added an ‘Treasury Offset Anti-carbon System Wallet’ to collect a portion of mined coins to fund ‘carbon offset’ programs such as reforestation projects.",
-       "bitcoingreen":"Bitcoin Green",
-       "p6":" As a further innovation from BitCoin NU, through BitCoin Green, NuGenesis has achieved the 2nd phase in making Bitcoin tech completely green. This blockchain uses proof of useful work AI as at consensus mechanism. They incorporate NAVIS (NuGenesis Artifical Validation Intellegence System) to ensure system security and integrity. Dedicated sub-treasuries are available for specific ‘carbon offset’ projects in reforestation and soil rejuvination. Minting mechansims and staking protocols replace the current halving algaorithims and complexity rates. The speeds here are testing at 1, 500-100,00 T/per second",
-       "p7":" Carbon offests, in both chains are written into the code. The treasuries ensure on-going funding of reforestation and soil rejuvination automatically."
-   },
+    "projects_page_blockchains":
+    {
+    "ledger_exchange":"LedgerX Exchangeブロックチェーン",
+    "p1":"LedgerXは、オープンマーケットの残酷さによって価格が決定される本格的な（フィアット/クリプト）取引所です。ボンドカーブやテクノクラート式ではなく、市場によって資本が配分されることを保証するために、NuGenesisエコシステムの重要な部分となるように設計されています。",
+    "p2":"LedgerXは分散型であり、例えばBinanceが中央でデータを保存しているのとは異なり、データは世界中にある11の証人ノードで分散化されています。このため、即時決済を損なうことなく、重要なセキュリティ上の利点を得ることができます。",
+    "p3":"分散化により、ユーザーは中央集権的な取引所のリスクなしに、保有株式の集約、ポートフォリオの閲覧、監視、管理、指標や分析の適用ができるように設計されています。他のブロックチェーンからの資産も、相互運用性を維持したまま預け入れることができます。マルチシグトレジャリーウォレットにより、ユーザーは自分の秘密鍵を保持することができ、大量導入に必要な快適さをユーザーに提供することを目的としています。",
+    "p4":"もっと知りたいですか？",
+    "clickhere":"こちらをご覧ください。"
+    },
 
-   "projects_page_troy":{
-      "troy_gold":"TROY Gold-backed token denominated in major currencies",
-      "p1":"A troy is a token to represent the fiat currency representation in physical gold. For example Troy USD (TUSD) Troy Euro (TEURO) Tory AUD (TAUD) etc. It functions similar to a stable coin and a remittance tool.",
-      "p2":"Troys are designed to provide liquidity to crypto markets and be a secure and reliable bridging currency. Troys are designed to meet inflationary concerns. Users can be confident that each Troy is based on the dominated fiat jurisdiction’s equivalent in actual physical gold vaulted by the particpating financial institutions and can be exchanged for that fiat currency.",
-      "p3":"Troys are issued under regulatory licence in Australia. The prototype is built using 5 cross chains pegged to gold and major currencies and the gasless nature of the NuGenesis blockchain system permits exchange efficiency."
+    "projects_page_scalable":
+    {
+    "ledgerx":"レジャーX",
+    "p1":"はスケーラブルで高性能です。新規プロジェクトが安価かつ効率的にコインを作成または鋳造して公開市場に提供したり、既存プロジェクトが追加リリースメカニズムによってさらなる流動性を得るために設計されています。",
+    "p2":"LegerX取引所は、並列処理のトライブロックチェーン構成です。",
+    "p3":"3本のチェーンが並行して走る",
+    "settlement_chain":"決済チェーン",
+    "match_chain":"Match chain",
+    "content_chain":"Content chain",
+    "the_consensus":"コンセンサスメカニズムには、大きく分けて2つのプロトコルがあります。",
+    "delegated":"委任された収入証明書、および。",
+    "consensus_before":"梱包前のコンセンサス",
+    "p4":"その複合的な効果として、トランザクションはブロックを通過するときにすでに処理されていることになる。この3チェーン同時処理により、1秒のブロックスピード作成確定を実現しています。",
+    "p5":"そのため、ユーザーは1秒以内に注文を完了することができ、中央の取引所に匹敵するスピードを体験することができます。",
+    "p6":"決済チェーンは、「梱包前の合意」と「決済」を効果的に行う。コンテンツチェーンは最終的にデータを保存し、マッチチェーンはデータを解決しようとするときや検索するときにデータを照合（オーダーマッチ）する。エクスプローラで検索すると、ブロックチェーン間でどのように処理されていても、複数の取引のIDが特定される",
+    "p7":"NuGenesisブロックチェーンと同様に、並列チェーンを作成し、ブリッジすることが可能なスケーラビリティを備えています。開発者がより垂直なサイドチェーンシナリオを作ることができる柔軟性がある。グローバルに分散されたスーパーノードが存在する。11の証人ノードは、4大陸8カ国に配置されたスーパーノードです。",
+    "p8":"クロスチェーンプロトコルでは、スマートコントラクトやスクリプトによって、他のパブリックチェーン上の資産を固定し、ユーザーのLedgerX取引所ウォレット上に新たに作成された暗号資産の一部とすることができます。",
+    "p9":"現在のスマートコントラクトの限界は、並列計算を念頭に置いて設計されておらず、線形時間順序処理で動作することです。LedgerX side-Chainプロトコルは、スマートコントラクトの開発者が、垂直方向のサイドチェーンシナリオに大きな柔軟性を提供する同時処理を行うサイドチェーン機構を導入することを可能にします。"
+    },
 
-   },
+    "some_page_general_footer":
+    {
+    "about_us":"私たちについて",
+    "projects":"プロジェクト",
+    "media":"メディア",
+    "team":"チーム",
+    "just_social":"Just Social",
+    "explore":"Explore",
+    "shop":"ショップ",
+    "subscribe":"ニュースレターを購読する"
+    },
 
-   "projects_page_just_social" :{
-      "just_social":"Just Social",
-      "p1":"The decentralised social media platform that empowers users to realise their value.",
-      "p2":"JUST SOCIAL is designed to allow users to re-claim their value using the technology of blockchain.",
-      "p3":"Just Social will provide the means by which users can earn and realise their value. You can earn your slice of your (meta data) that you chose to allow the platform to share with advertisers; from merely participating and receiving airdrops; from rewards for marketing, reviews, and a range of contributions everyone can make to the ecosystem.",
-      "p4":"JUST SOCIAL is focused on the crypto and technology space providing users the optimal access to data, community interaction, and innovative technology to participate in multiple ways, including offering services. It is the ‘One Stop Shop’ to lean, keep up with everything crypto and tech.",
-      "p5":"Just social provides access to a launch pad for new projects known as V2R (‘Vision 2 Reality’) and a Fully Fledged Decentralised Crypto-fiat exchange, LedgerX to maximise the liquidity and capital flow for innovative tech to realise its full potential.",
-      "p6":"The platform provides for reviews, critiques and assessments of tech projects, the generation of an accreditation and qualification system, and the opportunity for users to set terms according to which crowd-sourced projects are released funds to achieve their potential.",
-      "p7":"If you wanted to earn in crypto; to make crypto your career and business, Just Social is the place where you can interact with fellow colleagues. You may be selling services for crypto, or join a project needing assistance.",
-      "p8":"Users are starting to realise that their private data is valuable; that their spending patterns, interests, opinions and sentiments are powerful signals that are marketable.",
-      "p9":"However, the value is reaped only by, and for the benefit of, the intermediary social media giants. Users are left to being the products of the social media giants whether selling to advertisers or other data analytics.",
-      "p10":"The explosion of the NFT market has created a realisation that users do not even own their own data, whether their own photos, audio or videos. By the terms and conditions of social media platforms, your photos are owned by them! Tomorrow this could be a valuable NFT, but it is not yours! Just Social preserves your ownership."
-   },
+    "contact-us_page":
+    {
+    "contact_us":"お問い合わせ",
+    "want_to":"NuGenesisチームへの参加はいかがですか？",
+    "p1":"私たちは少数の選ばれたチームと仕事をしています。もし、一緒に仕事をすることに興味があれば、あなた自身について、あなたの使用事例、あなたが探しているものについて教えてください。",
+    "email":"メール",
+    "your_name":"名前は",
+    "your_organization":"会社名・団体名を教えてください。",
+    "your_title":"肩書き／役職は？",
+    "p2":"ブロックチェーンのユースケースを簡単に説明してください。ウェブサイトやGithubへのリンクはご自由にどうぞ。",
+    "tell_us":"チームの概要、規模、業務内容を教えてください。",
+    "what":"何をお探しですか？",
+    "submit":"申し出る"
+    },
 
-   "projects_page_dnc":{
-       "next_generation":"Next Generation Smart Contract Digital Notarised Contracts (DNCs)",
-       "p1":"The NuGenesis innovation to facilitate mass adoption by the mainstream economy is to go beyond existing limitations of smart contract protocols. Smart Contract Digital Notarised Contracts™ (DNCs) allow for parties to transact with more comprehensive contracts that cater for a wide range of terms and conditions to cater for the various possibilities that can arise, and consequent allocation of risks in common business practices. The AI capability will build suggested templates of contracts and instruments in an increasing number of commercial scenarios.",
-       "p2":" The AI will pull the suggested templates to a contemplated transaction, fill in the data from the respective chains and wallet IDs, and once the counterparties have signed the respective DNC, the system will witness and notarise the DNC by time-stamp hash it with a unique identifier.",
-       "p3":"Transactional scenarios may require money to be held in trust wallets, with or without multi-sigs, and impose standard business customs such as for example SGC inspections for import/export contracts. The LedgerX blockchain system allows for smart contract developers to innovate with parallel processing in the smart contract protocols removing the limitation of liner time ordering and allowing for the flexibility for both vertical and horizontal events to be incorporated.",
-       "p4":" We are in communication with a number of jurisdictions regarding the adoption of a Blockchain Code of Conduct and Crypto laws to recognise and provide forums for efficient dispute resolution that arise in blockchain technology. These jurisdictions can be made using the forum for dispute resolution and governing law for a wider variety of templated business situations."
-   },
-
-   "projects_page_exchange":{
-       "nftcity":"NFTCity.Echange – The Interactive NFT Platform",
-       "p1":"NuGenesis’ Layer 1 NFT Platform nftcity.exchange is totally gasless. It is designed to encourage innovation. To encourage the shift from the rather static NFTs that are currently in existence, to more interactive NFTs. NFTs that transcend art into gaming. NFTs that level up as they interact whether competing or being part of a collection.",
-       "p2":" Interactive NFTs are vehicles for business records: ID’s, driver’s licences, medical records for example. Interactive NFTs can become part of the metarealm. When interactive NFTs need millions of transactions per second, or as part of the meta-realm, billions of transactions per second, the multi-chain parallel processing can deliver it. There is no competition.",
-       "the_metarelm":"The MetaRealm",
-       "p3":"The NuGenesis meta-realm is where the NuGenesis technology begins to be perceivable by the layperson. The meta-realm is design to accommodate base layer transactions on chain in the billions of transactions per second.",
-       "p4":"The meta-realm pairs with physical reality. It is being built to provide the seamless interaction between the physical, augmented and virtual reality. The social and economic experience is being built to be realistic.",
-       "p5":"The AI self-preservation protocol for example will allow your personal AI Avatar to be trained by you and represent you in the metarealm. This includes after you have passed. Imagine your AI-trained Avatar being available for your great grand-children to meet.",
-       "p6":"The AI resurrection protocol will be the re-creation of a historical figure based on all available known data. Want Martial Arts lessons from Bruce Lee? Interrupt the battle of waterloo and ask Napoleon what he was thinking at any particular moment?",
-       "next_generation":"Next Generation DeFi Through Serialisation",
-       "p7":"NuGenesis provides for digital assets to be serialised. Currently, DeFi lending has been criticised as being is little more than a pawn shop. It cannot advance beyond that with the current state of blockchain technology because recourse/security for lending is limited to those Coins and Tokens that are provided to the lender.",
-       "p8":"By contrast, NuGenesis blockchains involve innovations that include effective serialisation of each individual Coin into a Digital Notarised Contract (‘DNC’) that allows, inter alia:",
-       "eachcoin":"each Coin to be effectively a new version of an NFT;",
-       "condition":"conditions to be placed on each coin, such as a mortgage, charge, options etc;",
-       "multisignatury":"multi-signatory capacity for corporates, trusts and governments; and",
-       "comprehensive":"comprehensive conditions on a coin that resemble those customary in traditional capital markets (rather than short smart contracts).",
-       "p9":"The NuGenesis platform fosters the development of a fully-fledged lending platform. For example, mainstream corporate adoption would be attracted to lend crypto at, for example a 90% or even 100% LVR, for the purchase of new crypto secured by the lending.",
-       "para_chains":"Para-chains, Smart Chains and Parallel Processing and Hybrid Chains",
-       "p10":"NuGenesis offers crypto projects of all sizes the ability to customise their blockchains according to evolving needs. A fledging project may seed fund through the V2R (Vision to Reality) Launchpad. It may use the NuGenesis next gen Smart Chain to create coins or tokens at either Layer 1 or Layer 2.",
-       "p11":"A more advanced project may wish to be a para-chain to economise the on-going infrastructure costs such as storage and security. Another may prefer its own sovereign parallel processing with any drain on its/or the systems resources.",
-       "p12":"Projects may customise blockchains with classes of transactions using differentially private permissioned chains for sensitive information, and open sourced and decentralised chains otherwise. They may tailor and modify the perfect configuration for its business evolution."
-
-   },
-
-   "projects_page_blockchains":{
-       "ledger_exchange":"The LedgerX Exchange Blockchains",
-       "p1":"LedgerX is a fully fledged (fiat/crypto) exchange where prices are determined by the brutality of the open market. It was designed to be an important part of the NuGenesis ecosystem to ensure capital is to be allocated by the market rather than bond curves and technocratic formulae.",
-       "p2":"LedgerX is decentralised, in that, unlike say Binance which has a central point of data storage, the data is decentralised with the 11 witness nodes across the globe. This offers a vital security advantage without compromising the instant settlement time.",
-       "p3":"The decentralisation is designed to encourage users to consolidate their holdings; view; monitor and manage their portfolio; apply metrics and analytics available without the risks of a centralised exchange. Assets from other blockchains can be deposited whilst remaining interoperable. With multi-sig treasury wallets, and allowing users to keep their private keys, it is intended to provide the user the comfort needed to optimise mass adoption.",
-       "p4":"Want to know more?",
-       "clickhere":"Click here."
-   },
-   "projects_page_scalable":{
-       "ledgerx":"LedgerX",
-       "p1":"is scalable and has high performance; it is designed for new projects to cheaply and efficiently create or mint coins to make available to the open market, or for existing projects to obtain further liquidity through supplemental release mechanisms.",
-       "p2":"The LegerX exchange is a parallel processing tri-blockchain configuration.",
-       "p3":"Three chains that run parallel together:",
-       "settlement_chain":"Settlement chain",
-       "match_chain":"Match chain",
-       "content_chain":"Content chain",
-       "the_consensus":"The consensus mechanism involves two major protocols:",
-       "delegated":"Delegated Revenue Proof of Stake; and,",
-       "consensus_before":"Consensus before packing",
-       "p4":"The combined effect of which is that the transaction has already been processed when it goes through the block. This tri-chain concurrent processing achieves a 1 second block speed creation finality.",
-       "p5":"The user therefore experiences a completed order within 1 second; a speed comparable to a centralised exchange.",
-       "p6":"The settlement chain effects the ‘consensus before packing’ and the settlement. The content chain stores the data on finality, and the match chain matches the data (order matching) when trying to resolve it or search it. An explorer search will identify the ID of multiple transactions however they are processed as between the blockchains",
-       "p7":" Like the NuGenesis blockchain, it is scalable such that parallel chains can be created and bridged. It is flexible in that it allows developers to create more vertical side-chain scenario. There are globally dispersed super-nodes. The 11 witness nodes are Super-nodes that are deployed in 8 countries on four continents.",
-       "p8":" The cross-chain protocol allows assets on other public chains to be anchored though smart contracts and scripts to create or be part of newly created crypto assets on the users’ LedgerX exchange wallets.",
-       "p9":"A current limitation of smart contracts is that they are not designed with parallel computing in mind and operate on a linear time ordering process. The LedgerX side-Chain protocol allows smart contract developers to introduce side chain mechanisms that concurrently process providing greater flexibility for vertical side chain scenarios."
-   },
-
-   "some_page_general_footer":{
-       "about_us":"About Us",
-       "projects":"Projects",
-       "media":"Media",
-       "team":"Team",
-       "just_social":"Just Social",
-       "explore":"Explore",
-       "shop":"Shop",
-       "subscribe":"Subscribe to our Newsletter"
-   },
-
-   "contact-us_page": {
-    "contact_us": "Contact Us",
-    "want_to":"Want to join the NuGenesis Team?",
-    "p1":"We work with a small number of select teams. If you are interested in discussing working together, please tell us about yourself, your use case, and what you're looking for.",
-    "email":"Email",
-    "your_name":"What's your name",
-    "your_organization":"What's the name of your company/organization?",
-    "your_title":"What's your title/designation",
-    "p2":" Briefly describe your blockchain use case. Feel free to share links to your website or Github",
-    "tell_us":"Tell us a bit about your team, its size, and what it does.",
-    "what":"What are you looking for?",
-    "submit":"submit"
-
-
-   },
-
-   "media_page_hero":{
-    "media":"Media",
-    "welcome":"Welcome",
+    "media_page_hero":
+    {
+    "media":"メディア",
+    "welcome":"ようこそ",
     "nugenesis":"NuGenesis"
-   },
-   "media_page_content":{
-       "nugenesis_under_4_minute":"NuGenesis in Under 4 Minutes",
-       "p1":"NuGenesis is the the most advanced blockchain eco-system. We'll help you understand our vision and mission in under 4 Minutes.",
-       "the_unveiling":"NuGenesis - The Unveiling",
-       "p2":"NuGenesis is finally here. Let us introduce to you the solutions available today, such as LedgerX, hardware, as well as the NuGenesis MetaRealm concept. In this unveiling, we'll also introduce our Team from around the world, including India and Dubai.",
-       "p3":"We celebrate the evolution of mankind and show you more insights on the roadmap of NuGenesis technologies. In this unveiling, we dive deeper into the journey and purpose of NuGenesis. Learn about parralel processing capabilities with NuGenesis, allowing uncomparable transactions per second, AI and Security.",
-       "our_social":"Our Socials"
-   },
-
-   "getting-involved_page_hero" :{
-
-    "mark":"Make Your Mark within the ",
-    "nugenesis_ecosystem":"NuGenesis Ecosystem",
-    "careers":"Careers, Professions and Blockchain",
-    "businesses":"Businesses"
-
-   },
-
-   "getting-involved_page_community" :{
-
-    "want_join":"Want to join the NuGenesis Community? ",
-    "p1":"Blockchain technology is now becoming mainstream. The tsunamic effect of mass adoption will change the way we do business, create, exchange value, and organize our society.",
-    "p2":"You can be part of this exponential phase of the information revolution and ride the crest of the wave to an unprecedented change in wealth creation that cannot be compared to and will dwarf the change to the world that we know as the Industrial Revolution.",
-    "p3":"Of all the blockchain ecosystems that you can research and contrast, you will agree that NuGenesis is at the forefront. We have broken the barriers of scalability, transactional speed, and interoperability. We are a system of multi-chains and parallel processing, and with more users, the faster and more efficient the system becomes.",
-    "p4":" Unlike others, NuGenesis is fully functional and ready for onboarding projects and listing crypto assets.",
-    "p5":"You have an opportunity to get on at the ground floor and take an active part in the shaping of the NuGenesis ecosystem.",
-    "p6":"Most of the skills and qualifications for the new economy brought in by blockchain technology have not even been invented yet. Anyone with enthusiasm, initiative, and passion can become fully emersed in the blockchain world and use their existing talents in numerous ways as well as acquiring others."
-
-   },
-
-
-
-   "getting-involved_page_program" :{
-
-    "nugenesis_programs":"NuGenesis Programs",
-    "p1":" It is a unique moment in history. Blockchain technology is inevitable. The new economy will render the current inefficiencies and inequalities obsolete. Where do you want to be? We want you to tell your grandchildren about how you help to build the new digital world.",
-    "p2":"It starts right here."
-
-   },
-
-   "getting-involved_page_program-selection": {
-    "abassador_program": "Ambassador Program",
-    "ambassador_program_brochure": "NuGenesis Ambassador Program Brochure",
-    "ambassador_deed": "Ambassadorial Deed",
-    "ambassador_performance_plan": "Ambassadors Performance Plan"
-   },
-
-   "getting-involved_page_terms_condition":{
-    "terms_and_condition": "General Terms and Conditions of Adoption Facilitators"
-   },
-
-   "getting-involved_page_online_form":{
-    "online_form": "Online Application Form"
-   },
-
-
-    "getting-involved_page_diplomats_program": {
-        "dimplomat_program": "Diplomats Program",
-        "diplomat_program_brochure": "NuGenesis Diplomats Program Brochure",
-        "diplomat_deed": "Diplomatic Deed",
-        "diplomat_performance_plan": "Diplomats Performance Plan"
     },
 
-    "getting-involved_page_senators_program": {
-        "senator_program": "Senators Program",
-        "senator_program_brochure": "NuGenesis Senator Program Brochure",
-        "senator_deed": "Senatorial Deed",
-        "senator_performance_plan": "Senators Performance Plan"
+    "media_page_content":
+    {
+    "nugenesis_under_4_minute":"4分以内でわかるNuGenesis",
+    "p1":"NuGenesisは、最先端のブロックチェーンエコシステムです。私たちのビジョンとミッションを4分以内に理解できるようにします。",
+    "the_unveiling":"NuGenesis - The Unveiling",
+    "p2":"NuGenesisがついに登場。LedgerXやハードウェア、そしてNuGenesis MetaRealmのコンセプトなど、現在利用可能なソリューションをご紹介します。また、今回のお披露目では、インドやドバイなど、世界各国のチームもご紹介します。",
+    "p3":"人類の進化を祝うとともに、NuGenesisテクノロジーのロードマップをより深くご紹介します。このお披露目会では、NuGenesisの旅と目的について深く掘り下げます。NuGenesisによるパラレル処理機能、1秒あたりのトランザクションの比類なき実現、AI、セキュリティについて学びます。",
+    "our_social":"社会貢献活動"
     },
 
-    "getting-invovled_page_market_consuls_program": {
-        "market_program": "Market Consuls Program",
-        "market_program_brochure": "NuGenesis Market Consuls Program Brochure",
-        "market_deed": "Market Consul Deed",
-        "market_performance_plan": "Market Consuls Performance Plan"
+    "getting-involved_page_hero":
+    {
+    "mark":"あなたの存在をアピールする",
+    "nugenesis_ecosystem":"NuGenesis イコシステム",
+    "careers":"キャリア、プロフェッション、ブロックチェーン",
+    "businesses":"ビジネス"
     },
 
-    "getting-invovled_page_network_concordat_program": {
-        "network_program": "Network Concordat Program",
-        "network_program_brochure": "NuGenesis Network Concordat Program Brochure",
-        "network_deed": "Network Concordat Deed",
-        "network_performance_plan": "Network Concordat Performance Plan"
+    "getting-involved_page_community":
+    {
+    "want_join":"NuGenesis コミュニティに参加しませんか？",
+    "p1":"ブロックチェーン技術は今や主流になりつつあります。大量導入による津波効果で、ビジネスのやり方、価値の創造、交換、そして社会の編成が変わるでしょう。",
+    "p2":"あなたは、この情報革命の指数関数的な段階に参加し、産業革命として知られている世界の変化とは比較にならない、そしてそれを凌駕する富の創造における前例のない変化への波の頂点に乗ることができます。",
+    "p3":"ブロックチェーンエコシステムを調査し、対比させることができる中で、NuGenesisが最前線であることに同意していただけると思います。私たちは、スケーラビリティ、取引速度、相互運用性の壁を破りました。私たちはマルチチェーンと並列処理のシステムであり、ユーザーが増えれば増えるほど、システムはより速く、より効率的になります。",
+    "p4":"他社とは異なり、NuGenesisは完全に機能し、プロジェクトのオンボーディングや暗号資産のリスティングに対応できるようになっています。",
+    "p5":"NuGenesisのエコシステムの形成に積極的に参加し、一階から参加する機会があります。",
+    "p6":"ブロックチェーン技術がもたらす新しい経済のためのスキルや資格のほとんどは、まだ発明すらされていない。熱意、自発性、情熱があれば、誰でもブロックチェーンの世界にどっぷりと浸かることができ、既存の才能を数多く活用し、また他の才能を身につけることができます。"
     },
 
-    "getting-involved_page_get_in_touch": {
-        "do_have": "Do you have something that will blow our minds?",
-        "tech_developer": "Are you Tech Developer?",
-        "join_team": "Want to join the Team?",
-        "p1": "Introducing an existing or new blockchain project to the NuGenesis Ecosystem � as a parachain, para network or just wants to be supercharged?",
-        "get_touch": "Get in touch"
+    "getting-involved_page_program":
+    {
+    "nugenesis_programs":"NuGenesis プログラム",
+    "p1":"歴史上、唯一無二の瞬間です。ブロックチェーン技術は必然です。新しい経済が、現在の非効率や不平等を時代遅れにするのです。あなたはどこにいたいですか？私たちは、あなたが新しいデジタル世界の構築にどのように貢献しているか、孫に伝えてほしいのです。",
+    "p2":"ここから始めます"
     },
 
-    "general-terms-condition_page_content":{
-        "general_term":"General Terms and Conditions for NuGenesis Adoption Facilitators",
-        "program_overview":"PROGRAM OVERVIEW:",
-        "p1":" The NuGenesis Group is at the forefront of blockchain/cryptographic/distributed ledger technologies (‘NuGenesis technology’) and has created an",
-        "adoption":"Adoption Facilitation Program (‘Program’)",
-        "incentivise": "to incentivise and reward those who can facilitate its adoption through a variety of roles and methods, to help achieve the network effect from driving adoption of NuGenesis technology and the NuGenesis ecosystem.",
-        "p2":"NuGenesis is a comprehensive blockchain-based ecosystem that enables crypto enthusiasts, experts, content creators, marketers, influencers, and the crypto-minded, to drive user adoption and therefore become a vital part of that NuGenesis eco-system. The Program seeks to recruit the skills of people with talents in one or more field, and experts who - individually and together - will help promote NuGenesis.",
-        "p3":"Participants can register to participate in one or more of the NuGenesis category types with respective roles from an",
-        "ambassador":"Ambassador",
-        "senator":"Senator",
-        "market_consul":"Market Consul",
-        "network_concordat":"Network Concordat",
-        "and":", and ",
-        "diplomat":"Diplomat",
-        "p4":"or may be limited to a single one-off campaign. The main purpose of this Program is to share the NuGenesis brand messaging and brand assets via traditional media, social media channels, and digital channels. The person or persons registering to be a part of this NuGenesis Program (either on his/her behalf or using a representative) is heretofore referred to as ‘You’ and ‘Facilitator’.",
-        "p5":"NuGenesis takes the integrity of its brand seriously, and therefore requires individuals agreeing to participate in this Program to fully understand the expectations, responsibilities, and limitations outlined in the following Terms and Conditions, which will apply to all Program categories. These Terms and Conditions will be incorporated into the applicable agreements in the relevant Program categories to form a legally binding set of corresponding duties, obligations, and benefits between the parties. These are called Applicable Adoption Facilitation Agreements in these terms. Specifically:",
-        "p6":"the Senatorial Deed with the Performance Plan, and these general Terms and Conditions govern the legal relationship with individual Senators, and where there is any inconsistency with the general Terms and Conditions, the Deed and Plan will prevail;",
-        "p7":"the Ambassadorial Deed with the Performance Plan, and these general Terms and Conditions govern the legal relationship with individual Ambassadors, and where there is any inconsistency with the general Terms and Conditions, the Deed and Plan will prevail;",
-        "p8":" the Network Concordat Deed with the Performance Plan, and these general Terms and Conditions govern the legal relationship with individual Network Concordat, and where there is any inconsistency with the general Terms and Conditions, the Deed and Plan will prevail;" ,
-        "p9":"the Market Consul Deed with the Performance Plan, and these general Terms and Conditions govern the legal relationship with individual Market Consuls, and where there is any inconsistency with the general Terms and Conditions, the Deed and Plan will prevail; and,",
-        "p10":"the Diplomatic Deed with the Performance Plan, and these general Terms and Conditions govern the legal relationship with individual Market Consuls, and where there is any inconsistency with the general Terms and Conditions, the Deed and Plan will prevail." ,
-        "p11":" As these Terms and Conditions govern an individual’s participation in NuGenesis’ Program, please take the necessary time to fully read and understand the requirements and restrictions applicable and take such legal or other professional advice as You require.",
-        "p12":"To enter into this agreement with NuGenesis You must be 18 years old or over. If You are under 18 years of age You must appoint Your parent or legal guardian (or a representative that has been invested with the necessary authority by Your parent or legal guardian) to agree to these terms on Your behalf.",
-        "p13":"NuGenesis will be contracting with You through NuGenesis Pty Ltd which is a registered company in Australia and undertaking business worldwide as the Sub-Franchisee of Techno Group Enterprises Pty Ltd, which is the Head Franchisee of NuGenesis Technology belonging to the NuGenesis Foundation."
-
+    "getting-involved_page_program-selection":
+    {
+    "abassador_program":"アンバサダー・プログラム",
+    "ambassador_program_brochure":"NuGenesis  アンバサダー プログラム パンフレット",
+    "ambassador_deed":"アンバサダーディード",
+    "ambassador_performance_plan":"アンバサダー・パフォーマンス・プラン"
     },
 
-    "general-terms-condition_page_agreement_status":{
-
-        "agreement_status" :"STATUS OF AGREEMENT",
-        "p1":"If applicable laws or regulations require it, or the functions or features of the Program change, we may need to change this agreement or our Program features from time to time. The current version of our Terms and Conditions can be found on our website.",
-        "p2":"Your continued participation in this Program following the posting of such changes will constitute Your agreement to all such changes. If at any time You do not agree with this agreement, or You do not agree to any modified Terms and Conditions, then You must immediately stop participating in the Program.",
-        "p3":"However, You will also be provided notice of such changes through an announcement or by electronic mail. Upon being informed of such changes, You may either terminate the Applicable Adoption Facilitation Agreement within fifteen days, and cease participating in the Adoption Facilitation Program or accept the changes and continue to participate in the said Program. Your continued participation in the Program after fifteen days from the date of notice of any such changes shall constitute Your consent to such changes."
-
-
+    "getting-involved_page_terms_condition":
+    {
+    "terms_and_condition":"アダプションファシリテーター一般規約"
     },
 
-    "general-terms-condition_page_stand_alone":{
-
-        "stand_alone" :"STAND ALONE CAMPAIGNS",
-        "p1":"In the event of a conflict between this agreement and the terms of a stand-alone proposal or campaign, this agreement shall take precedence.",
-        "p2":"You are the seller of the promotional services agreed to in this Program, as well as any stand-alone proposals and/or campaigns. We are the buyer of these promotional services. The contract for the promotional services is solely between You and us. We are purchasing from You these agreed upon promotional services, as well as any engagements in which You participate."
+    "getting-involved_page_online_form":
+    {
+    "online_form":"オンライン申請フォーム"
     },
 
-    "general-terms-condition_page_fullfillment":{
-
-        "fullfillment" :"FULFILLMENT OF ADOPTION FACILITATION AND PROMOTIONAL SERVICES",
-        "p1":"You are agreeing to participate in the NuGenesis Program for business and commercial purposes.",
-        "p2":"We are booking and buying these Program and individual Program/Campaign services from You. This is a contract between NuGenesis and You for the provision of the social media-based posting/content and other promotional activities specified in this agreement, including the individual Performance Plan, for the specified remuneration and reward in those documents." ,
-        "p3":"NuGenesis has Your written authority to add to Your Facilitator profiles certain analytics information relating to the social media accounts such as, but not limited to, the number of followers of the account and average engagement.",
-        "p4":"You must always use the Programand NuGenesis website and social media channels following the Acceptable Use Policy. To the extent that You provide any Facilitator-Generated Content, it must be in accordance with the Acceptable Use Policy, the Disclosure Policy in schedule 3 hereof, and the requirements of the Program.",
-        "p5":"In consideration of You performing all Your other obligations herein and in any additional proposals, and subject to the Applicable Adoption Facilitation Agreement You have entered into, NuGenesis shall provide You with:",
-        "p6":"the benefits set out in the Performance Plan;",
-        "p7":"the benefits set out in the Terms and Conditions; and",
-        "p8":"in respect of any specific campaign.",
-        "p9":"the means to agree to proposals with NuGenesis, and",
-        "p10":"payment of the agreed upon price for each campaign.",
-        "p11":"You may not include in any social media account any material that does not portray NuGenesis in a positive light, or any brand in respect of which You have agreed to in this Program, or stand-alone Proposals/Campaigns. You must not delete any social media account activity comprised in the Program for at least 30 days from the date on which it was posted/activated.",
-        "p12":"NuGenesis may promote Your Facilitator profile(s) and social media posts to other brands and users viareposts, shares, screenshots, blog posts and other social sharing capabilities. The choice of which brands and users with which we choose to share is at our sole discretion." ,
-        "p13":"We shall be entitled to publish press releases and other general marketing information, in any medium, related to Your engagement with NuGenesis.",
-        "p14":" You acknowledge that while campaigns will be targeted to specific territories defined in the Program, the Program does not currently support geo-blocking by territory. This means that posts could reach territories outside the target. Before accepting a Proposal, You must be satisfied that You are not contractually prohibited or restricted from providing the campaign under any other arrangements You may have with any other person or entity, either worldwide or in any particular territory. It is Your responsibility to clear any contradictory rights before advertising products or services. In respect of any User-Generated Content You undertake to respect any applicable Terms and Conditions of third-party websites, or any social media accounts."
+    "getting-involved_page_diplomats_program":
+    {
+    "dimplomat_program":"ディプロマット・プログラム",
+    "diplomat_program_brochure":"NuGenesis Diplomats Programパンフレット",
+    "diplomat_deed":"外交辞令",
+    "diplomat_performance_plan":"ディプロマット・パフォーマンス・プラン"
     },
 
-    "general-terms-condition_page_non_circumvention":{
-        "non_circumvention":"NON-CIRCUMVENTION",
-        "p1":" While participating in this Adoption Facilitation Program with NuGenesis You may not offer or negotiate termsor payment for promotional activity with other brands which compete with this Program. In addition to any other rights or remedies we have, any attempt to circumvent the Programin this way may result in Your removal from the Program at our sole discretion.",
-        "p2":" LINKS AND IMAGES ON YOUR WEBSITE",
-        "p3":"NuGenesis may make available to You, a variety of graphic and textual images (‘the Images’) that serve to identify Your site as a member of the Program. NuGenesis may establish ‘Links’ from any websites You own, operate, or control (‘Your site’) to (‘our site’). You may, subject to the Terms and Conditions herein, display Links as often and in as many areas on Your site as You desire. You shall cooperate fully with NuGenesis in establishing and maintaining Links. You may display on Your site only those Images provided to You by NuGenesis, which may be discontinued or replaced at any time and from time to time, at our sole discretion.",
-        "p4":"Upon request, You shall remove any Image from Your site and replace it with a new Image provided by us. Banner Ad Link Codes cannot at any time be modified by You, as doing so will not allow proper reporting of traffic sent through such a Banner Link Code. You agree that each Link connecting users of Your site to our site will in no way alter the look, feel, or functionality of our site. NuGenesis may monitor Your site at any time to determine if You are following these terms."
-
+    "getting-involved_page_senators_program":
+    {
+    "senator_program":"セネタースプログラム",
+    "senator_program_brochure":"NuGenesis セネタースプログラム パンフレット",
+    "senator_deed":"議員証書",
+    "senator_performance_plan":"セネタース パフォーマンスプラン"
     },
 
-    "general-terms-condition_page_compaign_obligation":{
-        "compaign_obligation":"CAMPAIGN OBLIGATIONS",
-        "p1":" Nothing in this Agreement shall oblige You to accept any Proposal. However, You must honour all Proposals that have been accepted by You in the Performance Plan or any individual campaign. If You fail to do so, You shall be considered in material breach of this agreement, and may forfeit any payments due to You, and any Miner-Staker position will be deemed forfeited, renunciate, and repudiated by You. Once a proposal has been accepted by You, You shall carry out the campaign (or, to the extent that the campaign involves the use of social media accounts, permit us to utilise them in respect of the campaign) as specified in the Program during the period specified on, under the terms of the Program, and as required under applicable law.",
-        "p2":" You shall be directly responsible to NuGenesis for any failure to honour and permit fulfillment of the Program for any campaigns, or for any other legal liability which arises in respect of the Programor individual campaigns, except where such liability arises because of our negligence.",
-        "p3":"You must not, within 30 days of fulfilling a campaign for NuGenesis, engage in any paid promotion via the social media accounts of any goods or services which directly compete with the goods or services outlined in this Program.",
-        "p4":"You must within 24 hours remove any social media account activity comprised in this Program if requested to do so by NuGenesis.",
-        "p5":"In fulfilling the Campaign, You will cooperate with NuGenesis in all matters relating to promotional services and comply with all reasonable instructions provided by NuGenesis.",
-        "p6":"You shall not make any statement or commit any act which may denigrate or harm the reputation of NuGenesis or the Brand. You shall ensure that Facilitator-generated content will conform with all descriptions and specifications outlined in the Program, and that the Facilitator-generated content will be fit for any purpose expressly or impliedly made known to the Facilitator by NuGenesis.",
-        "p7":"You shall adhere to the highest level of care, skill, and diligence following best practice in the marketing sector in general, and the crypto marketing sector in particular. You acknowledge that time is of the essence as to any performance dates specified in the Proposal."
-
+    "getting-invovled_page_market_consuls_program":
+    {
+    "market_program":"マーケットコンシュルプログラム",
+    "market_program_brochure":"NuGenesis マーケットコンシュルプログラム パンフレット",
+    "market_deed":"マーケットコンシュル証書",
+    "market_performance_plan":"マーケットコンサルのパフォーマンスプラン"
+    },
+    "getting-invovled_page_network_concordat_program":
+    {
+    "network_program":"ネットワーク・コンコーダット・プログラム",
+    "network_program_brochure":"NuGenesis ネットワーク・コンコーダット・プログラムパンプレット",
+    "network_deed":"ネットワーク・コンコーダット・デッド",
+    "network_performance_plan":"ネットワーク・コンコーダット パフォーマンスプラン"
     },
 
-    "general-terms-condition_page_general_obligation":{
-       "general_obligation":"GENERAL OBLIGATIONS",
-       "p1":"You shall not allow its interests to conflict with its duties under its agreement and shall comply with all reasonable and lawful instructions of NuGenesis.",
-       "p2":"You shall have no authority, and shall not hold Yourself out, or permit any person to hold itself out, as being authorised to bind NuGenesis or any member of the Group in any way and shall not do any act or otherwise conduct itself in such manner which might reasonably create the impression that You are so authorised. You shall not make or enter any contracts or commitments or incur any liability for or on behalf of NuGenesis. Breach of the provisions of this Clause allows NuGenesis to immediately terminate this Agreement by giving You written notice.",
-       "you":"You:",
-       "p3":"shall not represent to any prospective Clients or otherwise create an impression that such Clients are guaranteed any profits by the NuGenesis Group;",
-       "p4":"shall not make any misleading statements, represent, or otherwise create an impression with the prospective Clients that crypto markets are simple, or that they do not require knowledge, experience, and understanding of extreme volatility, financial markets, and instruments;",
-       "p5":"shall not in any way compare an account of the potential Client of NuGenesis to normal bank accounts or create an impression or communicate to the potential Clients, that any account with NuGenesis bears interest and/or enjoys any statutory and regulatory protections afforded to bank accounts;",
-       "p6":"shall not manage or operate any trading account of, or for, any Client, and further shall not undertake any portfolio management (whether on discretionary or on advisory basis) for any active or prospective Client;",
-       "p7":"agree that You will not represent to any prospective Client that NuGenesis will guarantee such Client against losses or limit the losses of such Client;",
-       "p8":" shall not use any language or practices that may be construed as offering any promise or guarantee of any trading gain or profits to any Client;",
-       "p9":"shall not engage in high-pressure sales tactics or use any unethical techniques with any Client, and shall always abide by high ethical standards in dealings with all Clients;",
-       "p10":"shall not seek to advise, direct, or influence, directly or indirectly, how any Client will respond to the NuGenesis questionnaires aimed at NuGenesis assessing the knowledge and experience of the Client, or at assessing the source of wealth and economic profile of the Client."
-
-
+    "getting-involved_page_get_in_touch":
+    {
+    "do_have":"私たちを驚かせるような何かがあるのでしょうか？",
+    "tech_developer":"あなたは技術開発者ですか？",
+    "join_team":"チームに参加しませんか？",
+    "p1":"NuGenesis Ecosystem �に既存または新規のブロックチェーンプロジェクトをパラチェーン、パラネットワークとして導入する、または単にスーパーチャージャーにしたいですか？",
+    "get_touch":"お問い合わせはこちら"
     },
 
-    "general-terms-condition_page_disclosure_compaign":{
-        "disclosure_compaign":"DISCLOSURES OF SPONSORED CAMPAIGNS",
-        "p1":"You agree that whenever You provide regarding Facilitator-generated content, it will contain: (i) hashtags or other means of full disclosure in respect of all campaigns, as to the commercial nature of the campaign; and (ii) the minimum level of disclosure specified in our disclosure policy in schedule 5. To be clear, the disclosure policy is our minimum baseline level of disclosure required in respect of the use of this Program."
-
+    "general-terms-condition_page_content":
+    {
+    "general_term":"NuGenesis Adoption Facilitatorに関する一般的な条件",
+    "program_overview":"PROGRAM OVERVIEW:",
+    "p1":"NuGenesis Groupは、ブロックチェーン／暗号／分散型台帳技術（以下、NuGenesis技術）の最先端を行くものであり、その技術を用いた",
+    "adoption":"Adoption Facilitation Program (‘Program’)",
+    "incentivise":"NuGenesisの技術およびNuGenesisエコシステムの採用を促進することによるネットワーク効果の達成を支援するために、さまざまな役割や方法を通じて採用を促進できる人々にインセンティブを与え、報酬を与えること。",
+    "p2":"NuGenesisは、暗号愛好家、専門家、コンテンツ制作者、マーケティング担当者、インフルエンサー、暗号に関心のある人々が、ユーザー導入を促進し、その結果、NuGenesisエコシステムの重要な一部となることを可能にするブロックチェーンベースの包括的なエコシステムです。本プログラムは、1つまたは複数の分野で才能を持つ人々のスキルや、個人および共同でNuGenesisの普及に貢献する専門家の募集を目的としています。",
+    "p3":"参加者は、NuGenesisのカテゴリータイプの1つまたは複数に、それぞれの役割で参加登録することができます。",
+    "ambassador":"アンバサダー",
+    "senator":"セナトル",
+    "market_consul":"マーケットコンシュル",
+    "network_concordat":"ネットワーク・コンコーダット",
+    "and":"と",
+    "diplomat":"ヂプロマット",
+    "p4":"または単発のキャンペーンに限定される場合があります。本プログラムの主な目的は、従来のメディア、ソーシャルメディアチャンネル、およびデジタルチャンネルを通じて、NuGenesis のブランドメッセージとブランド資産を共有することです。本プログラムに参加するために登録する人（本人を代表して、または代理人を使用して）を、以下「お客様」及び「ファシリテーター」という。",
+    "p5":"したがって、本プログラムへの参加に同意する個人は、すべてのプログラムカテゴリーに適用される以下の利用規約で概説される期待、責任、および制限を十分に理解する必要があります。本規約は、各プログラムのカテゴリーに適用される契約書に組み込まれ、当事者間の義務、義務、利益に関する法的拘束力を形成することになります。この規約は、適用される養子縁組促進契約と呼ばれます。具体的には、以下のとおりです。",
+    "p6":"パフォーマンス・プランを含む上院議員証書とこの一般条件は、個々の議員との法的関係を規定し、一般条件と矛盾がある場合は、証書とプランが優先されるものとします。",
+    "p7":"パフォーマンスプランを含む「国際親善大使証書」と本一般利用規約は、個々の国際親善大使との法的関係を規定し、一般利用規約と矛盾がある場合は、証書とプランが優先されるものとします。",
+    "p8":"ネットワーク・コンコーダットとパフォーマンス・プラン、およびこの一般条件は、個々のネットワーク・コンコーダットとの法的関係を規定し、一般条件と矛盾がある場合は、契約書とプランが優先されるものとします。",
+    "p9":"マーケットコンサル証書とパフォーマンスプラン、およびこの一般規約は、個々のマーケットコンサルとの法的関係を規定し、一般規約と矛盾がある場合は、証書とプランが優先される、および。",
+    "p10":"市場領事との法的関係は、外交官証書のパフォーマンスプランとこの一般規約で規定され、一般規約と矛盾する場合は、外交官証書とプランが優先されます。",
+    "p11":"本利用規約は、ニュージェネシスのプログラムへの個人の参加を規定するものであるため、必要な時間をかけて、適用される要件および制限を十分に読み、理解し、お客様が必要とする法的またはその他の専門的な助言を得てください。",
+    "p12":"NuGenesisと本契約を締結するためには、お客様は18歳以上である必要があります。お客様が 18 歳未満の場合、お客様は、お客様の親または法定代理人（または親または法定代理人から必要な権限を与えられた代理人）を任命し、お客様に代わって本規約に同意していただく必要があります。",
+    "p13":"NuGenesis は、NuGenesis Foundation に属する NuGenesis Technology のヘッドフランチャイジーである Techno Group Enterprises Pty Ltd のサブフランチャイジーとしてオーストラリアで登録された会社である NuGenesis Pty Ltd を通じてお客様と契約するものとし、世界中で事業を行います。"
     },
 
-    "general-terms-condition_page_intellectual_rights":{
-        "intellectual_rights":"INTELLECTUAL PROPERTY RIGHTS",
-        "p1":" All Intellectual property rights in the branded content shall remain vested with NuGenesis.",
-        "p2":"All intellectual property rights in the Facilitator-generated content shall vest in NuGenesis upon creation. We retain ownership of any content for campaigns that are generated by or on behalf of us. You hereby grant NuGenesis a non-exclusive, worldwide, transferable, irrevocable, perpetual, and sub-licensable licence to use, copy, distribute, display, and perform any material You submit on Your Facilitator profiles, in any medium now known or developed in the future, to fulfil campaigns and/or promote Your participation in this Program. We may also sub-license these rights.",
-        "p3":"You acknowledge that NuGenesis (or its licensors) is the owner of all intellectual property rights (including database rights). The words ‘NuCoin’, ‘NuGenesis’, ‘LedgerX’, ‘Just Social’, and their respective logos are trademarks of NuGenesis. You may not make use of either during trade outside the context of NuGenesis without our written consent.",
-        "p4":"If You submit comments, ideas, or feedback to us You agree that we can use them without any restriction or compensation to You. If we accept Your submission, we do not waive any rights to use similar or related ideas or feedback previously known to us, developed by our employees, or obtained from sources other than You.",
-        "p5":"You acknowledge and agree that all intellectual property rights in the production of this Program and stand-alone campaigns are vested in NuGenesis, regardless of its being published on social media accounts."
-
+    "general-terms-condition_page_agreement_status":
+    {
+    "agreement_status":"きょうていじょうきょう",
+    "p1":"適用される法律または規制が要求する場合、または本プログラムの機能または特性が変化する場合、当社は本契約または本プログラムの機能を適宜変更する必要があります。当社の利用規約の最新版は、当社のウェブサイトに掲載されています。",
+    "p2":"このような変更の掲示後、お客様が引き続き本プログラムに参加された場合、お客様はすべての変更に同意されたものとみなされます。お客様が本規約に同意されない場合、または変更後の規約に同意されない場合は、直ちに本プログラムへの参加を停止してください。",
+    "p3":"ただし、そのような変更は、告知または電子メールによって通知されます。お客様は、当該変更の通知を受けた場合、15日以内に適用養子縁組促進契約を解除し、養子縁組促進プログラムへの参加を停止するか、または当該変更を承諾し、当該プログラムへの参加を継続することができるものとします。なお、変更通知後15日を経過した後も、お客様が引き続き本プログラムに参加した場合、お客様は変更に同意したものとみなされます。"
     },
 
-    "general-terms-condition_page_indemnifiction":{
-        "indemnifiction":"INDEMNIFICATION",
-        "p1":"You hereby agree to indemnify, keep indemnified and hold harmless NuGenesis and its officers, directors, and employees, from and against any claims, demands, obligations, actual or alleged causes of action and lawsuits, and all damages, liabilities, fines, judgments, costs (including settlement costs), and expenses associated with them (including the payment of reasonable legal charges and disbursements) arising out of, or in connection with, any breach by You of any term of this agreement, or arising out of any action brought by any third party (including any social media network operator) relating to any Campaign, or actions (or failure to act), by You or any person (other than NuGenesis) acting on Your behalf. This clause shall survive the termination of this agreement."
-
+    "general-terms-condition_page_stand_alone":
+    {
+    "stand_alone":"スタンドアローンキャンペーン",
+    "p1":"本契約と独立した提案またはキャンペーンの条件が矛盾する場合、本契約が優先されるものとします。",
+    "p2":"お客様は、本プログラムで合意されたプロモーションサービス、及び単独の提案やキャンペーンを販売する方です。弊社は、これらのプロモーションサービスの買い手となります。プロモーションサービスの契約は、お客様と当社との間でのみ成立するものとします。当社は、貴社から、貴社が参加するプロモーションサービス及びその契約を購入します。"
     },
 
-    "general-terms-condition_page_remuneration":{
-        "remuneration":"REMUNERATION",
-        "p1":"NuGenesis agrees to:",
-        "p2":" provide the benefits set out in the Performance Plan, and" ,
-        "p3": "pay the fees outlined in the Scope of Work section in respect of an individual stand-alone campaign (if applicable) within 30 days after receipt of invoice, or in respect to the specific terms outlined in the Scope of Work section.",
-        "p4":"Payment will be strictly subject to fulfilment of the responsibilities and services outlined in these Terms and Conditions. All taxes applicable will be Your responsibility to determine, collect and remit. You agree to comply with all applicable tax laws and regulations."
-
+    "general-terms-condition_page_fullfillment":
+    {
+    "fullfillment":"採用の円滑化・促進を実現する。",
+    "p1":"お客様は、ビジネスおよび商業目的のためにNuGenesisプログラムに参加することに同意するものとします。",
+    "p2":"当社は、本プログラムおよび個々のプログラム/キャンペーンサービスをお客様から予約・購入しています。これは、ニュージェネシスとお客様との間で、個別のパフォーマンスプランを含む本契約で指定されたソーシャルメディアを利用した投稿/コンテンツおよびその他のプロモーション活動を、それらの文書で指定された報酬および報酬で提供するための契約である。",
+    "p3":"ニュージェネシスは、お客様のファシリテーター・プロフィールに、アカウントのフォロワー数や平均エンゲージメントなど、ソーシャルメディア・アカウントに関連する特定の分析情報を追加するお客様の書面による権限を有しています。",
+    "p4":"お客様は、本プログラムおよびニュージェネシスのウェブサイトならびにソーシャルメディア・チャンネルを、常に利用規定に従って使用しなければなりません。お客様がファシリテーター生成コンテンツを提供する限りにおいて、それは、本利用規定、本契約の別表3に定める開示方針、および本プログラムの要件に従ったものでなければなりません。",
+    "p5":"お客様が本契約および追加提案における他のすべての義務を履行することの対価として、またお客様が締結した適用養子縁組促進契約に従って、NuGenesisはお客様に対して以下を提供するものとします。",
+    "p6":"パフォーマンス・プランに規定された特典を提供します。",
+    "p7":"利用規約に定める特典、および",
+    "p8":"特定のキャンペーンに関して",
+    "p9":"ニュージェネシス社との提案に合意するための手段であり",
+    "p10":"キャンペーンごとに合意された価格の支払い。",
+    "p11":"お客様は、ニュージェネシスを肯定的に表現していない素材、またはお客様が本プログラムで同意したブランド、もしくは単独の提案書/キャンペーンを、いかなるソーシャルメディアアカウントにも含めることはできません。お客様は、本プログラムで構成されるソーシャルメディア・アカウントの活動を、それが投稿／起動された日から少なくとも30日間削除してはならないものとします。",
+    "p12":"ニュージェネシスは、お客様のファシリテーター・プロファイルおよびソーシャルメディアの投稿を、レポスト、シェア、スクリーンショット、ブログ投稿およびその他のソーシャル共有機能を通じて、他のブランドおよびユーザーに宣伝することがあります。どのブランドやユーザーと共有するかは、ニュージェネシスの独自の裁量で決定されます。",
+    "p13":"当社は、お客様の NuGenesis への関与に関連するプレスリリース及びその他の一般的なマーケティング情報を、あらゆる媒体で発表する権利を有するものとします。",
+    "p14":"お客様は、キャンペーンは本プログラムで定義された特定の地域をターゲットとしますが、本プログラムは現在、地域によるジオブロックをサポートしていないことを了承します。これは、投稿がターゲット外の地域に到達する可能性があることを意味します。お客様は、「提案」を受領する前に、お客様が他の個人または法人との間で締結している他の契約により、世界または特定の地域におけるキャンペーンの提供を契約上禁止または制限されていないことを確認する必要があります。製品またはサービスの広告を行う前に、矛盾する権利をクリアすることは、お客様の責任です。ユーザーは、ユーザー生成コンテンツに関して、第三者のウェブサイトまたはソーシャルメディアのアカウントに適用される利用規約を尊重することを約束します。"
     },
 
-    "general-terms-condition_page_referal_commission":{
-        "referal_commision":"REFERRAL COMMISSION",
-        "referred_facilitators":"Referred–Facilitators",
-        "p1":" Subject to NuGenesis’ acceptance, the Facilitator may refer third parties that were not already registered as NuGenesis Facilitators (each will become a ‘Referred Facilitator’) by using a dedicated link provided by NuGenesis for this purpose (the ‘Sub Facilitator Link’). The registration of a Referred Facilitator is subject to such Referred Facilitator accepting the NuGenesis general Terms and Conditions for Adoption Facilitators and the Applicable Agreement and, upon registering, using the Sub Facilitator Link.",
-        "p2":"Referred-Facilitator Commission",
-        "p3":"Facilitators will be entitled to a commission of 10% of the revenue earned by each Referred Facilitator. Such commission shall be paid to the Facilitator under these terms, and the Applicable Agreement to the category of facilitation undertaken by that Facilitator.",
-        "p4":"You are an independent contractor and nothing in this agreement will render You an employee, worker, agent, or partner of NuGenesis. You will not hold Yourself out as such.",
-        "p5":"You will be fully responsible for, and indemnify NuGenesis against, any liability, assessment, or claim for taxation whatsoever, arising from or made in connection with the performance of this Program, where such recovery is not prohibited by law; and any employment-related claim or any claim based on worker status (including reasonable costs and expenses) brought by You against NuGenesis, arising out of or in connection with the provision of this Program. We may satisfy such indemnity (in whole or part) by way of deduction from any payment due to You, and the forfeiture and resale of any miner-staker position that You have."
+    "general-terms-condition_page_non_circumvention":
+    {
+    "non_circumvention":"不拡散",
+    "p1":"NuGenesisの本採用促進プログラムに参加している間、お客様は、本プログラムと競合する他のブランドとのプロモーション活動に関する条件や支払いを申し出たり交渉したりすることはできません。当社が有する他の権利または救済措置に加えて、この方法で本プログラムを回避しようとする試みは、当社の単独の裁量により、お客様を本プログラムから排除する結果となる場合があります。",
+    "p2":"ウェブサイト上のリンクと画像",
+    "p3":"NuGenesis は、お客様のサイトをプログラムのメンバーとして識別するために役立つ様々なグラフィックおよびテキストイメージ（以下「イメージ」といいます）をお客様に提供することがあります。ニュージェネシスは、お客様が所有、運営または管理するウェブサイト（以下「お客様のサイト」という）から（以下「弊社のサイト」という）への「リンク」を設定することができる。お客様は、本規約の定めに従い、お客様のサイトの任意の場所に任意の回数、任意の数のリンクを表示することができます。お客様は、リンクの設定および維持においてニュージェネシスに全面的に協力するものとします。お客様は、ニュージェネシスから提供されたイメージのみをお客様のサイトに表示することができます。これらのイメージは、ニュージェネシスの単独の裁量により、随時、中止または交換されることがあります。",
+    "p4":"要求があった場合、お客様は、お客様のサイトから画像を削除し、弊社が提供する新しい画像と交換するものとします。バナー広告リンクコードは、いつでもお客様によって変更することができません。変更すると、そのようなバナーリンクコードを通じて送信されたトラフィックの適切なレポートができなくなるためです。お客様は、お客様のサイトのユーザーを当社サイトに接続する各リンクが、当社サイトの外観、雰囲気、または機能を決して変更しないことに同意するものとします。ニュージェネシスは、お客様が本規約に従っているかどうかを判断するために、いつでもお客様のサイトを監視することができます。"
     },
 
-    "general-terms-condition_page_training_support":{
-        "training_support":"Training and Support",
-        "p1":"We may make available to You, without charge, various webinars, training badges, and other resources made available as part of our Adoption Facilitation Program. If we make such resources available to You, You will encourage Your sales representatives, and/or other relevant personnel, to participate in training and/or other certifications as we recommend and may make available to You from time to time."
-
+    "general-terms-condition_page_compaign_obligation":
+    {
+    "compaign_obligation":"選挙運動義務",
+    "p1":"本契約のいかなる条項も、お客様に対し、いかなる提案の受諾も義務付けるものではありません。ただし、お客様は、パフォーマンス・プランまたは個別のキャンペーンにおいてお客様が受領したすべての提案を尊重しなければなりません。これを怠った場合、お客様は本契約の重大な違反とみなされ、お客様に支払われるべき支払いを没収される可能性があり、また、いかなるマイナー-スターカーの地位もお客様によって没収、放棄、および否認されたものとみなされるものとします。提案書がお客様によって受理された場合、お客様は、プログラム上で指定された期間中に、プログラム上で指定されたキャンペーン（またはキャンペーンがソーシャルメディアアカウントの使用を含む限り、キャンペーンに関して当社がそれらを利用することを許可する）を、プログラムの条件の下、および適用法の下で要求されるように実施するものとします。",
+    "p2":"お客様は、ニュージェネシスに対して、本プログラムまたは個々のキャンペーンに関連して発生した法的責任について、当社の過失による場合を除き、直接責任を負うものとします。",
+    "p3":"お客様は、NuGenesisのキャンペーンを履行してから30日以内に、本プログラムで概説した商品またはサービスと直接競合する商品またはサービスのソーシャルメディアアカウントを通じた有料プロモーションに従事してはなりません。",
+    "p4":"お客様は、NuGenesisから要請があった場合、24時間以内に本プログラムで構成されるソーシャルメディア・アカウントの活動を削除しなければならないものとします。",
+    "p5":"お客様は、本キャンペーンを実施するにあたり、プロモーションサービスに関するあらゆる事項についてNuGenesisに協力し、NuGenesisから提供される合理的な指示を遵守するものとします。",
+    "p6":"お客様は、ニュージェネシスまたは本ブランドの名誉を毀損するような発言や行為をしてはならないものとします。お客様は、ファシリテーターが生成したコンテンツが、プログラムに記載されたすべての説明および仕様に適合すること、ならびにファシリテーターが生成したコンテンツが、ニュージェネシスによって明示または黙示的にファシリテーターに知らされた目的に適合することを保証するものとします。",
+    "p7":"マーケティング分野全般、特に暗号マーケティング分野におけるベストプラクティスに従い、最高レベルの注意、スキル、勤勉さを遵守するものとします。お客様は、プロポーザルで指定された履行日に関して、時間が重要であることを認めます。"
     },
 
-    "general-terms-condition_page_terms_condition":{
-        "terms_condition":"TERM AND TERMINATION",
-        "p1":"These terms are effective on the date You accept and sign the respective agreement for the category of Facilitator You undertake. These terms will remain in effect through the expiration of the Program and any additional proposals/campaigns, unless otherwise earlier terminated under Your respective agreement. We may terminate this agreement and suspend Your role as Facilitator for any reason. You or NuGenesis may terminate this agreement at any time in the event of a material breach of its terms. You may terminate this Agreement at any time for any reason, on 30 days’ written notice. Any such termination shall not affect any of Your obligations to us under any existing proposals/campaigns. You must complete any proposal/campaign in respect of which You have accepted, in advance of the date of termination."
-
+    "general-terms-condition_page_general_obligation":
+    {
+    "general_obligation":"一般義務",
+    "p1":"お客様は、その利益と契約上の義務とを相反させないものとし、NuGenesis の合理的かつ適法な指示をすべて遵守するものとします。",
+    "p2":"お客様は、NuGenesis またはグループ各社を何らかの形で拘束する権限を有さず、また、そのような権限を有しているとの印象を合理的に与えるような行為を行ってはならず、また、そのような行為を許可してはならないものとします。お客様は、NuGenesis のために、または NuGenesis のために、契約または約束を締結し、責任を負わないものとする。本条項の規定に違反した場合、NuGenesis はお客様に書面で通知することにより、本契約を直ちに終了させることができる。",
+    "you":"あなた",
+    "p3":"は、見込み客に対して、ニュージェネシスグループが利益を保証しているとの印象を与えるような表示をしないものとします。",
+    "p4":"暗号市場は簡単である、または極端な変動、金融市場、金融商品の知識、経験、理解を必要としないという誤解を招く発言、表現、その他見込み客への印象付けを行ってはならない。",
+    "p5":"NuGenesis の潜在的な顧客の口座を通常の銀行口座と比較したり、NuGenesis の口座に利息が付き、銀行口座に与えられる法的規制の保護を享受しているという印象を与えたり、潜在的な顧客に伝えたりしてはならない。",
+    "p6":"は、いかなる顧客の取引口座も管理または運営せず、さらに、活動中または将来の顧客のためにいかなるポートフォリオ管理も（一任ベースか助言ベースかにかかわらず）引き受けないものとします。",
+    "p7":"お客様は、将来のお客様に対して、ニュージェネシスがお客様の損失を保証すること、またはお客様の損失を制限することを表明しないことに同意します。",
+    "p8":"顧客に対し、取引利益や利益を約束または保証していると解釈される可能性のある言葉や慣習を使用してはならない。",
+    "p9":"顧客に対して高圧的な販売戦術や非倫理的な手法を用いず、すべての顧客との取引において常に高い倫理基準を遵守すること。",
+    "p10":"NuGenesis がお客様の知識と経験を評価すること、またはお客様の富の源泉と経済的プロフィールを評価することを目的とした NuGenesis のアンケートに対して、お客様がどのように回答するかを、直接的または間接的に助言、指示、影響しようとしないものとします。"
     },
 
-    "general-terms-condition_page_relationship":{
-        "relationship":" RELATIONSHIP BETWEEN THE PARTIES",
-        "p1":" This Agreement shall not be construed as creating a partnership, joint venture, agency, or any other relationship. You are not authorised to enter into any contract, or to assume any obligation on behalf of NuGenesis. Neither is NuGenesis authorised to enter into any contract, or to assume any obligation, on Your behalf.",
-        "p2":"No exclusivity is granted to You under this Agreement.",
-        "p3":"The Services provided by You, are provided at Your own cost and risk.",
-        "agree":"You agree that:",
-        "p4":"where You are not authorised and regulated in the provision of investment or any other services, You shall not hold Yourself out as being regulated to provide any services for which it is not duly authorised and regulated following the provisions of the Applicable Laws and Regulations, and shall not make use of the contractual or other relationship which You have with NuGenesis, to represent or hold Yourself out as being so regulated;",
-        "p5":"You shall not engage in any conduct which gives the impression that the regulated status of a NuGenesis licenced entity is provided by You;",
-        "p6":" without prejudice to the generality of the above You shall not be construed or hold Yourself out as acting as broker or agent of NuGenesis, and shall not indicate or seek to indicate such in any marketing or communication material;",
-        "p7":"You shall not use the name of NuGenesis in answering its telephone or in any other ways represent that it is associated with NuGenesis other than in a relationship of a Facilitator. In contracting for support services such as rent, telephone and  utilities You shall not use or refer the name of NuGenesis.",
-        "p8":"You confirm that You are acting on Your behalf and for solely for Your own benefit and not for the benefit of any other person." ,
-        "p9":"You agree that NuGenesismay at any time, directly or indirectly, solicit customer referrals and enter into similar agreements on terms that may be the same, similar or differ from those contained in this agreement, or enter into an agreement with Your competitors, or may operate web sites that are similar to or compete with Your web site. You warrant that You have independently evaluated the desirability of participating in the transactions contemplated hereunder, and are not relying on any representation, guarantee, or statement other than as specifically outlined in these Terms and Conditions." ,
-        "identifying_status":"Identifying Facilitator Status",
-        "p10":"Except as otherwise outlined in the applicable agreement for the category of Facilitator, You shall not use the NuGenesis name, trademarks, service marks or any derivations or variations thereof in any manner, including without limitation, (a) in metatags, (b) in hidden text or source code or (c) in Your domain name or any other part of Your universal record locator (URL).",
-        "p11":"Except as expressly authorised by the respective Agreement applicable for the category of Facilitator, You shall not use any of the NuGenesis trademarked terms, either alone or in conjunction with or as part of any other word or name, in any advertisement, publicity or promotion on Your behalf, to express or imply any endorsement by NuGenesis of any services provided by You, or in any other manner whatsoever.",
-        "p12":"Facilitators found in violation of this clause are subject to punitive actions by NuGenesis, without further notice. Such actions include but are not limited to suspension or termination of Facilitator account, withholding of payments to Facilitator; and publication (at our discretion) of Facilitator's activities." ,
-        "relationship_with_clients":"RELATIONSHIP WITH CLIENTS",
-        "p13":"You shall not represent Yourself as NuGenesis and should specify on its website (if it has any) of the nature of the Facilitator relationship.",
-        "p14":"You shall ensure that there is no conflict of interest between Your interests and any Client in connection with the subject of the applicable Facilitation Agreement.",
-        "p15":"NuGenesis shall be under no obligation whatsoever to accept as a Client any Applicant introduced by You.",
-        "p16":"NuGenesis reserves the right to take legal actions against You in the event You attempt to manipulate NuGenesis and/or abuse the NuGenesis Facilitator Program. Without limitation of the foregoing, NuGenesis reserves the right to withhold, setoff and/or deduct from any payment due to You, including forfeiting any StakerMiner position in the event of such manipulation and/or abuse and may also terminate the applicable Facilitation Agreement with immediate effect."
-
+    "general-terms-condition_page_disclosure_compaign":
+    {
+    "disclosure_compaign":"スポンサードキャンペーンの開示",
+    "p1":"お客様は、お客様がファシリテーターが生成したコンテンツに関して提供するときは、必ずそのコンテンツを含むことに同意するものとします。(i) すべてのキャンペーンに関して、キャンペーンの商業的性質に関するハッシュタグまたはその他の完全な開示手段、および (ii) スケジュール5にある当社の開示ポリシーに規定された最低レベルの開示。明確には、開示方針は、本プログラムの使用に関して要求される開示の最低基準レベルです。"
     },
 
-    "general-terms-condition_page_warranty":{
-
-        "warranty":"WARRANTIES",
-        "p1":" You hereby warrant and undertake that the information provided on Your application is true, fair, complete, and accurate. NuGenesis has the right to constantly monitor Your activities to ensure compliance with the applicable Facilitator Agreement. In the event in which any such information is or becomes false, misleading, or inaccurate, You agree and accept that NuGenesis shall have the right to terminate the respective Agreement with immediate effect by a written notice to You.",
-        "p2":"You acknowledge that Clients referred to NuGenesis and who open NuGenesis accounts become clients of NuGenesis with that account and are not Your clients in respect of matters arising from the NuGenesis ecosystem, and further that You shall always refrain from any action which could be construed by prospective or actual Clients to indicate that there is a contractual or other legal relationship between the Clients and Yourself.",
-        "p3":"You represent and warrant that: (a) You have the power and authority to enter into the Applicable Facilitator Agreement, which includes these terms, and perform its obligations under that agreement; and (b) You shall comply with all laws, regulations, and codes of practice applicable to its obligations under that agreement.",
-        "p4":"Each party warrants and relies upon the other party having made their inquiries as to the accuracy of any information or representation that may have been made, and that these terms are the entire and complete terms agreed upon by the parties, and supersede all previous oral, written or representations including by conduct, implication, or omission.",
-        "p5":"YExcept as expressly outlined in this agreement, NuGenesis does not make any representations or warranties with the services NuGenesis provides to You, express or implied, including without limitation any implied warranty of quality or fitness for a particular purpose. NuGenesis does not warrant or guarantee that You will receive any additional proposals/campaigns, or that those proposals/campaigns will be attractive or of interest to You beyond those in Your Performance Plan.",
-        "p6":"NuGenesis makes no representations or warranty regarding the NuGenesis website and its social media channels, or any promotion or redemption method used or provided by NuGenesis and/or the accuracy, adequacy, reliability, availability, timeliness, completeness, suitability or other characteristics of the information and materials contained or presented therein. The NuGenesis website, social media channels and this Program are provided ‘as is’, without any warranty of any kind, and on an ‘as available’ basis.",
-        "p7":" On request NuGenesis may provide You with consultation on various aspects of social media usage. Such consultation and any related advice are provided free of charge, ‘as is’ and without warranty and the Facilitator acknowledges that it is responsible for his/her practices and strategy about this advice or counsel. Facilitator acknowledges and agrees that NuGenesis will not be responsible for any liability arising in respect of the provision of such advice.",
-        "p8":" You further represent and warrant that: (i) You will ensure You are compliant with any trade or regulatory requirements that may apply to Your participation in the Facilitator Program(for example, by clearly stating You are a NuGenesis Adoption Facilitator on any website(s) You own where Youmake an Facilitator Link available); (ii) You will accurately provide in the Facilitator Tool all websites and domains You own where You intend to use Facilitator Links to generate Facilitator Leads; (iii) You will not purchase ads that direct to Your site(s) or through a Facilitator Link that could be considered as competing with NuGenesis’ advertising, including, but not limited to, our branded keywords; (iv) You will not participate in cookie stuffing or pop-ups, false or misleading links; (v) You will not attempt to mask the referring URL information; and (vi) You will not use any mechanisms to deliver leads other than through an intended consumer. This includes sourcing leads through compilations of personal data such as phonebooks, using fake redirects or other tools or automation devices to generate leads (including but not limited to robots, frames, or hidden frames), or offering incentives to encourage purchases or signups."
-
+    "general-terms-condition_page_intellectual_rights":
+    {
+    "intellectual_rights":"知的財産権",
+    "p1":"ブランドコンテンツに関するすべての知的財産権は、ニュージェネシスに帰属するものとします。",
+    "p2":"ファシリテーターが作成したコンテンツの知的財産権は、作成と同時にNuGenesisに帰属するものとします。弊社が生成した、または弊社に代わって生成したキャンペーン用コンテンツの所有権は、弊社に帰属します。お客様は、キャンペーンを実施するため、および／またはお客様の本プログラムへの参加を促進するために、お客様がファシリテーター・プロフィールに投稿した素材を、現在知られているまたは将来開発されるあらゆる媒体で使用、複製、配布、表示および実行するための非独占的、世界的、譲渡可能、取消不能、永久的、およびサブライセンス可能なライセンスをニュージェネシスに許諾するものとします。また、当社は、これらの権利をサブライセンスすることができるものとします。",
+    "p3":"お客様は、NuGenesis（またはそのライセンサー）がすべての知的財産権（データベース権を含む）の所有者であることを認めるものとします。NuCoin」、「NuGenesis」、「LedgerX」、「Just Social」、およびそれぞれのロゴは、NuGenesisの商標です。あなたは、当社の書面による同意なしに、NuGenesisのコンテキスト外で取引中のいずれかを使用することはできません。",
+    "p4":"お客様が当社にコメント、アイデアまたはフィードバックを提出する場合、お客様は、当社がお客様に対していかなる制限または補償もなくそれらを使用できることに同意するものとします。当社がお客様の提出物を受理した場合、当社は、当社が以前に知っていた、当社の従業員が開発した、またはお客様以外の情報源から入手した類似または関連するアイデアまたはフィードバックを使用する権利を放棄するものではありません。",
+    "p5":"お客様は、本プログラムおよび単体キャンペーンの制作に関するすべての知的財産権が、ソーシャルメディアアカウントでの公開の有無にかかわらず、ニュージェネシスに帰属することを認め、同意するものとします。"
     },
 
-    "general-terms-condition_page_confidential_information":{
-        "confidential_information":"CONFIDENTIAL INFORMATION",
-        "p1":"You agree that any remunerations paid to participate in this Program and for individual proposals/campaigns are confidential between You and NuGenesis, and You shall not disclose them to any third party except as required by law."
-
+    "general-terms-condition_page_indemnifiction":
+    {
+    "indemnifiction":"てん補",
+    "p1":"お客様は、本契約により、NuGenesis およびその役員、取締役、従業員を、あらゆる請求、要求、義務、実際または主張された訴訟原因および訴訟、ならびにあらゆる損害、責任、罰金、判決、費用（和解費用を含む）から補償し、免責することに同意するものとします。お客様が本契約のいずれかの条項に違反したこと、またはお客様もしくはお客様のために行動する者（NuGenesisを除く）によるキャンペーンもしくは行為（または不作為）に関連して第三者（ソーシャルメディアネットワーク運営者を含む）が起こした行為から生じる、またはそれに関連する費用（妥当な弁護士費用および支出の支払いを含む）です。本条は、本契約の終了後も存続するものとします。"
     },
 
-    "general-terms-condition_page_data_protection":{
-        "data_protection":"Data and privacy protection",
-        "ensure":"You shall ensure that:",
-        "p1":"You have obtained all necessary rights from third parties and any notification or consent requirements which may be required from any person about or for processing data to provide Services by its obligations under these Terms and Conditions;" ,
-        "p2":"You have complied with all other requirements under any applicable privacy and data protection laws, regulations, and mandatory codes;",
-        "p3":"You shall, upon request of NuGenesis, provide to NuGenesis all such documentation and information evidencing its compliance with the requirements of this Clause;",
-        "p4":"You agree and accept that nothing in this Agreement creates an obligation for NuGenesis to share any information it gathers or acquires at any stage about any Client with You."
-
+    "general-terms-condition_page_remuneration":
+    {
+    "remuneration":"レムネレーション",
+    "p1":"NuGenesisは、以下のことに同意する。",
+    "p2":"パフォーマンス・プランに定められた利益を提供すること。",
+    "p3":"請求書受領後30日以内に、個々のスタンドアローンキャンペーン（該当する場合）について、「仕事の範囲」の項に記載された料金を支払うこと、または「仕事の範囲」の項に記載された特定の条件について、支払うこと。",
+    "p4":"支払いは、本規約に記載された責任とサービスの履行を厳密に条件とします。適用されるすべての税金は、お客様の責任において決定、徴収、送金されるものとします。お客様は、適用されるすべての税法および規則を遵守することに同意するものとします。"
     },
 
-    "general-terms-condition_page_limitation_liability":{
-
-        "limitation_liability":"LIMITATION OF LIABILITY",
-        "p1":"Nothing in this agreement limits our liability for i. death or personal injury caused by its negligence; ii. fraud or fraudulent misrepresentation; or iii. any other liability which cannot be limited or excluded by applicable law. Subject to the sub-clause above, NuGenesis shall not be liable to You, whether in contract, tort (including negligence), for breach of statutory duty, or otherwise, arising under or in connection with this agreement for loss of profits, loss of sales or business, loss of agreements or contracts, loss of or damage to goodwill, brand or sponsorship revenue, loss of use or corruption of software, data, or information or any indirect or consequential loss.",
-        "p2":"You acknowledge that NuGenesis will have no liability to You in respect of any action taken against You, or in respect of Your social media accounts, by the operator of the relevant social media network (for example, Facebook, Instagram, YouTube, or Twitter) in respect of any activity comprised in any campaign undertaken by You or by participating in this Program.",
-        "p3":"Our total liability to You, whether in contract, tort (including negligence), for breach of statutory duty, or otherwise, arising under or in connection with this agreement shall be limited to, in respect of all claims (connected or unconnected) in any consecutive 12 (twelve) month period, the greater of the total fee for campaigns paid or payable by us to You in that period.",
-        "p4":" No Reliance on Statements: Each party agrees that it shall have no remedies in respect of any statement, representation, assurance, or warranty (whether made innocently or negligently) that is not set out in this agreement. Each party agrees that it shall have no claim for innocent or negligent misrepresentation or negligent misstatement based on any statement in this agreement. NuGenesis relies upon You having conducted Your own investigation into all matters and make all necessary enquiries to satisfy Yourself of the desirability of the Programs, the substance of any representations, and the obligations You enter into.",
-        "p5":"Complaints and Dispute Resolution: most concerns can be solved by contacting NuGenesis directly. If any dispute arises in connection with this agreement, the parties agree to enter into mediation intended to settle such a dispute unless otherwise agreed between the parties within 14 days of notice of the dispute. This agreement, and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation, shall be governed by and construed under the laws of New South Wales, Australia. Each party irrevocably agrees that the courts thereof shall have non-exclusive jurisdiction to settle any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with this agreement, the Ambassador Deed, the Performance Plan, or their subject matter or formation.",
-        "force_majeure":"Force Majeure",
-        "p6":"Neither party will be responsible for failure or delay of performance if caused by an act of war, hostility, or sabotage; an act of God; pandemics, electrical, internet, or telecommunication outage that is not caused by the obligated party; government restrictions; or other events outside the reasonable control of the obligated party. Each party will use reasonable efforts to mitigate the effect of a force majeure event.",
-        "third_party":"No Third-Party Beneficiaries",
-        "p7":"Nothing in this Agreement, express or implied, is intended to or shall confer upon any person or entity (other than the parties hereto) any right, benefit, or remedy of any nature whatsoever under, or because of, this Agreement."
+    "general-terms-condition_page_referal_commission":
+    {"referal_commision":"紹介料",
+    "referred_facilitators":"紹介されたファシリテーター",
+    "p1":"ファシリテーターは、NuGenesisの承諾を得た上で、NuGenesisのファシリテーターとして登録されていない第三者（以下「被紹介ファシリテーター」といいます）を、NuGenesisが提供する専用のリンク（以下「サブファシリテーターリンク」といいます）を使用して紹介することができます。被紹介ファシリテーターの登録は、被紹介ファシリテーターがNuGenesisの採用ファシリテーター約款および適用契約を承諾し、登録の際にサブファシリテーターリンクを使用することを条件とします。",
+    "p2":"紹介促進委員会",
+    "p3":"ファシリテーターは、各紹介されたファシリテーターが得た収益の10％を手数料として受け取ることができるものとします。当該手数料は、本規約および適用契約に基づき、当該ファシリテーターが引き受けるファシリテーションのカテゴリーに応じて、当該ファシリテーターに支払われるものとします。",
+    "p4":"お客様は独立した契約者であり、本契約のいかなる内容も、お客様を NuGenesis の従業員、労働者、代理人、またはパートナーにするものではありません。お客様は、そのように自らを主張しないものとします。",
+    "p5":"お客様は、本プログラムの実施に起因または関連して生じた、いかなる責任、評価、または課税請求（かかる回収が法律で禁止されていない場合）、および本プログラムの提供に起因または関連してお客様が NuGenesis に対して提起した雇用関連の請求または労働者の地位に基づく請求（妥当な費用および経費を含む）について全面的に責任を負い、NuGenesis に対して補償をするものとします。当社は、お客様に対する支払額からの控除、およびお客様が有するマイナーステーカーとしての地位の没収および転売により、かかる補償を（全部または一部）充足することができるものとします。"
     },
 
-    "general-terms-condition_page_acceptance_use_policy":{
-     "acceptance_policy" :"ACCEPTABLE USE POLICY",
-     "p1":"This policy forms part of Your NuGenesis Facilitator Agreement with NuGenesis. You agree that You will not:",
-     "p2":"use the Program, or any social media account during any proposal or campaign, to distribute or facilitate distribution of any Facilitator-generated content that is offensive, obscene, prohibited under any laws or regulations of any territory in which the campaign is to be conducted, or infringes any person’s intellectual property rights;",
-     "p3":"use another person or entity’s email address to sign up to use social media channels; engage in fraudulent or abusive purposes (including, without limitation, by using social media channels to impersonate any person or entity, or otherwise misrepresent Your affiliation with a person, entity or NuGenesis; use the Program for any commercial or business purpose or the benefit of any third party or to send unsolicited communications; remove or amend any proprietary notices or other ownership information from the Program;",
-     "p4":" interfere with or disrupt the Program or servers or networks that provide the NuGenesis website and social media channels;",
-     "p5":"except as permitted by law, attempt to decompile, reverse engineer, disassemble or hack any of the Program or the NuGenesis website and social media channels, or to defeat or overcome any of our encryption technologies or security measures or data transmitted, processed, or stored by NuGenesis;",
-     "p6":"attempt to ‘spider’, ‘harvest’, ‘scrape’ or collect any information about or regarding other people that use the Program, including, but not limited to any personal data or information (including by uploading anything that collects information such as ‘spyware’);",
-     "p7":"disrupt the normal operation of the NuGenesis website or social media channels or do anything likely to harm other users’ ability to participate in the Program; disobey any requirements or regulations of mobile networks connected to the Program;",
-     "p8":" attempt to get around technological measures designed to control access to, or elements of the NuGenesis website, social media channels, or the Program;",
-     "p9":"claim that You are associated with or endorsed by us unless You have entered into a written agreement with NuGenesis to that effect; republish in bulk any information derived from the participation in this Program;",
-     "p10":" ‘White-label’ or otherwise hold Yourself out as the originating provider of any content, material, or processes shared by NuGenesis while participating in this Program; and,",
-     "p11":"use the Program in violation of any  applicable law or regulatory requirement.",
-     "p12":"You shall not create, publish, transmit or distribute, under any circumstances, any bulk email messages (also known as ‘Spam’) without prior written consent from NuGenesis, to be granted or denied in NuGenesis' sole discretion, in each instance. Additionally, You may only send emails containing a NuGenesis Adoption Facilitator link and or a message regarding NuGenesis or the NuGenesis' Adoption Facilitation Program to people who have previously consented to receive such communications from You. Your failure to abide by applicable laws relating to email communications, in any manner, will be deemed a material breach of this Agreement by You and may result in the forfeiture by You of any rights Youmay have to any renumeration and the termination of Your participation in the Program. Further, if Your account has excessive clicks in a very short period as determined by NuGenesis in its sole discretion, the Facilitator relationship may be terminated."
+    "general-terms-condition_page_training_support":
+    {
+    "training_support":"トレーニング＆サポート",
+    "p1":"当社は、当社の採用促進プログラムの一環として提供される各種ウェビナー、トレーニングバッジおよびその他のリソースを、無償でお客様に提供することがあります。当社がお客様にかかるリソースを提供する場合、お客様は、お客様の販売代理店および/またはその他の関連する要員に対し、当社が推奨し、随時お客様に提供するトレーニングおよび/またはその他の認証に参加するよう奨励するものとします。"
     },
 
-    "general-terms-condition_page_photo_video":{
-     "photo_video":"PHOTO/VIDEO RELEASE",
-     "p1":"As part of the Terms and Conditions of participating in the NuGenesis Adoption Facilitation Programs, You grant permission to NuGenesis and its agents and employees the irrevocable and unrestricted right to reproduce the photographs and/or video images taken of You, or members of Your family, for publication, promotion, illustration, advertising, or trade, in any manner or any medium. This includes all user-generated content provided to NuGenesis for use on its social media channels. You also hereby release NuGenesis and its legal representatives for all claims and liability relating to said images or video. Furthermore, You grant permission to use any statements that were given during an interview or as part of a video, with or without Your name, for advertising and publicity without restriction. You also waive any right to any compensation unless expressly detailed in the Scope of Work section of Your contract."
-    },
-    "general-terms-condition_page_assignment":{
-
-    "assignment":"ASSIGNMENT",
-    "p1":"The Applicable Facilitator Agreement of which these Terms and Conditions form part is personal to the Parties and subject to the succeeding clause, neither Party shall assign, transfer, mortgage, charge, subcontract, declare a trust over or deal in any other manner, with any of its rights and obligations under that Agreement.",
-    "p2":"NuGenesis may, by providing five (5) Business Days’ written notice under the provisions of the succeeding clause, assign, novate, transfer, mortgage, charge, subcontract, and/or declare a trust over or deal in any other manner with any of its rights and obligations under this Agreement to any member of the NuGenesis associated entities, or to any third party that it reasonably considers at its discretion capable of performing the duties, responsibilities, and obligations under the applicable Agreement.",
-    "p3":"In respect of any notification given by NuGenesis, for the assignment, or novation or transfer of rights and obligations to any third party (unless such assignment, transfer, or novation is made to any related or associated party in the NuGenesis Group in which case You hereby consent to such assignment, transfer or novation, effective upon notice being provided by NuGenesis and without any further action being required on Your part for effecting such assignment, transfer or novation) under the provisions of this, failure on Your part to object to such transfer within the notice period of 14 days shall evidence its acceptance of such transfer, and the transfer of the rights and obligations of NuGenesis under the applicable Agreement shall take effect giving rise to a direct contractual relationship between the transferee and You.",
-    "p4":"ADHERENCE TO NUGENESIS CODE OF CONDUCT FOR FACILITATORS",
-    "p5":"You agree to adhere to the Code of Conduct for Adoption Facilitators in Schedule 2."
-
+    "general-terms-condition_page_terms_condition":
+    {
+    "terms_condition":"期間と終了",
+    "p1":"本規約は、お客様が引き受けるファシリテーターのカテゴリーに応じたそれぞれの契約書を受理し、署名した日に発効するものとします。本規約は、「プログラム」及び追加の「プロポーザル／キャンペーン」が終了するまでの間、各契約に基づき早期に終了されない限り、有効に存続するものとします。当社は、理由の如何を問わず、本契約を終了し、お客様のファシリテーターとしての役割を停止することができるものとします。お客様またはニュージェネシスは、本契約の条項に重大な違反があった場合には、いつでも本契約を終了させることができるものとします。お客様は、30日前に書面で通知することにより、理由の如何を問わず、いつでも本契約を終了することができます。かかる終了は、既存の提案書/キャンペーンに基づくお客様の当社に対するいかなる義務にも影響を与えないものとします。お客様は、お客様が承諾した提案／キャンペーンを、終了日に先立って完了させなければなりません。"
     },
 
-    "general-terms-condition_page_schedule":{
-    "schedule":"SCHEDULE 1 – DICTIONARY AND DEFINITIONS",
-    "agreement":"Agreement",
-    "p1":" means the applicable Facilitator Agreement.",
-    "ambassador_deed":"Ambassador Deed",
-    "p2":"means the Deed between an Ambassador and NuGenesis by which the Adoption Facilitator undertakes the role of Ambassador within the Program, and this Deed incorporates these Terms and Conditions and the Performance Plan for that Ambassador.",
-    "adoption_facilitation_program":"Adoption Facilitation Program",
-    "p3":"(‘Program’) means the broad Program whereby NuGenesis acquires the promotional efforts of persons operating in various roles to promote NuGenesis technology.",
-    "applicable_facilitator_agreement":"Applicable Facilitator Agreement",
-    "p4":"means the Adoption Facilitation Agreement or Deed applicable to the respective Facilitator undertaking being entered into, whether it is an Ambassador Deed, Market Consul Deed, Network Concordat Deed, Senatorial Deed or Diplomat Deed, and whether it is ongoing or stand-alone in respect of an individual campaign and the legally binding agreement or Deed shall comprise of the respective Deed, these Terms and Conditions and Performance plan together.",
-    "compaign":"Campaign",
-    "p5":"means a specific promotional initiative and is variously called a proposal and may also be a stand-alone undertaking.",
-    "confidential_information":"Confidential Information",
-    "p6":"means, without limitation, all tangible and intangible information, and materials being disclosed to You in connection with this Agreement, in any form or medium (and without regard to whether the information is owned by NuGenesis or any member of the NuGenesis Group or by a third party), including but not limited to:",
-    "p7":"the existence and terms of these Terms and Conditions, Deed and Performance Plan;",
-    "p8":"any information relating to:",
-    "p9":"  the business affairs, Clients, trading platforms, liquidity providers, data or feed providers and other vendors, plans, intentions, or marketing plans and opportunities, financial position, and financial projections of NuGenesis or of the NuGenesis Group; and" ,
-    "p10":" the operations, processes, product information, know-how, show how, contacts, designs, trade secrets or software of NuGenesis;",
-    "p11":"any information or analysis derived from Confidential Information;",
-    "p12":"but not including any information which is required by law to be disclosed after giving NuGenesis advance notice, and an opportunity to consider its position in respect of such requirement to disclose, and any information that has entered the public domain otherwise than by breach of these Terms and Conditions.",
-    "diplomat_deed":"Diplomat Deed",
-    "p13":"means the Deed between a Diplomat and NuGenesis by which the Adoption Facilitator undertakes the role of Diplomat within the Program, and this Deed incorporates these Terms and Conditions and the Performance Plan for that Diplomat.",
-    "facilitator":"Facilitator",
-    "p14":"means a Program participant, also known as Adoption Facilitator, who is providing promotional and adoption facilitation services.",
-    "facilitator_generated_content":"Facilitator-Generated Content",
-    "p15":" means video, audio, text, and other forms of expression created by the Facilitator to promote the adoption of NuGenesis.",
-    "intellectual_property_rights":"Intellectual Property Rights",
-    "p16":"means without limitation patents, know-how, trademarks, rights to inventions, copyright and related rights, trade marks, business names and domain names, lists and information on any Clients, information on business or trading practices and remuneration, client incentive and loyalty schemes, commission or other similar incentive schemes for affiliates and other business partners, rights in get-up, goodwill and the right to sue for passing off, rights in designs, database rights, and all other intellectual property rights, in each case whether registered or unregistered, and including all applications and rights to apply for and be granted renewals or extensions of, and rights to claim priority from such rights and all similar or equivalent rights or forms of protection, which subsist or will subsist now or in the future in any part of the world.",
-    "market_consul_deed":"Market Consul Deed",
-    "p17":"means the Deed between a Market Consul and NuGenesis by which the Adoption Facilitator undertakes the role of Market Consul within the Program, and this Deed incorporates these Terms and Conditions and the Performance Plan for that Market Consul.",
-    "network_concordat_deed":"Network Concordat Deed",
-    "p18":"means the Deed between a Network Concordat and NuGenesis by which the Adoption Facilitator undertakes the role of Network Concordat within the Program, and this Deed incorporates these Terms and Conditions and the Performance Plan for that Network Concordat.",
-    "party":"Party",
-    "p19":"means the party or parties to the Applicable Facilitator Agreement.",
-    "performance_plan":"Performance Plan",
-    "p20":"means the documents so named that incorporate the particular expectations, remuneration and KPI’s that apply to that Facilitator, which is incorporated, together with these terms, with the applicable Facilitation Deed for that category and role of Facilitator in this Program.",
-    "program":"Program",
-    "p21":"means Adoption Facilitation Program.",
-    "proposal":"Proposal",
-    "p22":"means Campaign.",
-    "scope_work":"Scope of Work",
-    "p23":"means the description of the specified activity established for a particular Facilitator in their agreement.",
-    "senatorial_deed":"Senatorial Deed",
-    "p24":"means the Deed between a Senator and NuGenesis by which the Adoption Facilitator undertakes the role of Senator within the Program, and this Deed incorporates these Terms and Conditions and the Performance Plan for that Senator.",
-    "stand_alone_campaign":"Stand Alone Campaign",
-    "p25":"means a singular or one-off undertaking."
+    "general-terms-condition_page_relationship":
+    {
+    "relationship":"当事者関係",
+    "p1":"本契約は、パートナーシップ、ジョイントベンチャー、代理店、またはその他の関係の構築として解釈されるものではありません。お客様は、NuGenesis を代表して契約を締結したり、義務を負ったりする権限を有しません。また、NuGenesis は、お客様のために契約を締結したり、義務を負ったりする権限を有しません。",
+    "p2":"本契約に基づき、お客様にはいかなる排他性も付与されません。",
+    "p3":"お客様が提供するサービスは、お客様自身の費用とリスクで提供されるものです。",
+    "agree":"お客様は、これに同意するものとします。",
+    "p4":"お客様が投資その他のサービスの提供について認可及び規制を受けていない場合、お客様は、適用法令の規定に従って正式に認可及び規制されていないサービスを提供するために規制されていると自称してはならず、NuGenesisとの契約上またはその他の関係を利用して、自らを規制されていると表明しまたは自称してはならないものとします。",
+    "p5":"お客様は、NuGenesis のライセンスを受けた事業体の規制された状態がお客様によって提供されているとの印象を与えるような行為を行ってはならないものとします。",
+    "p6":"上記の一般性を損なうことなく、お客様は、NuGenesis の仲介業者または代理人として行動するものと解釈されたり、そのように主張したりしてはならず、マーケティング資料またはコミュニケーション資料においてそのように表示したり、表示しようとしたりしてはならないものとします。",
+    "p7":"お客様は、電話応対においてニュージェネシスの名称を使用し、またはその他の方法により、ファシリテーターとしての関係を除き、ニュージェネシスと関係があることを表明しないものとします。家賃、電話、光熱費などのサポートサービスを契約する際、お客様はニュージェネシスの名称を使用したり、紹介したりしないものとします。",
+    "p8":"お客様は、お客様が、お客様のために、お客様自身の利益のためだけに行動し、他のいかなる者の利益のためにも行動していないことを確認するものとします。",
+    "p9":"お客様は、NuGenesismがいつでも、直接的または間接的に、お客様の紹介を求め、本契約に含まれる条件と同一、類似または異なる条件で同様の契約を締結し、お客様の競合他社と契約を締結し、お客様のWebサイトと類似または競合するWebサイトを運営しうることに同意するものとします。お客様は、本契約で企図された取引に参加することの望ましさを独自に評価し、本規約に具体的に概説されている以外のいかなる表明、保証、または陳述にも依存しないことを保証するものとします。",
+    "identifying_status":"ファシリテーター資格の確認",
+    "p10":"ファシリテーターのカテゴリーについて適用される契約に別段の定めがある場合を除き、お客様は、NuGenesis の名称、商標、サービスマーク、またはそれらの派生物もしくは変形物を、(a) メタタグ、(b) 隠しテキストもしくはソースコード、または (c) お客様のドメイン名もしくはお客様の汎用レコードロケータ（URL）のその他の部分など（ただしこれらに限定されない）に使用してはならないものとします。",
+    "p11":"ファシリテーターのカテゴリーに適用される各契約で明示的に許可されている場合を除き、お客様は、お客様のために、広告、宣伝またはプロモーションにおいて、NuGenesisの商標を単独でまたは他の単語もしくは名称と組み合わせて、またはその一部として使用し、お客様が提供するサービスについてNuGenesisによる保証を表明または暗示し、その他いかなる方法によっても、使用しないものとする。",
+    "p12":"ファシリテーターのカテゴリーに適用される各契約で明示的に許可されている場合を除き、お客様は、お客様のために、広告、宣伝またはプロモーションにおいて、NuGenesisの商標を単独でまたは他の単語もしくは名称と組み合わせて、またはその一部として使用し、お客様が提供するサービスについてNuGenesisによる保証を表明または暗示し、その他いかなる方法によっても、使用しないものとする。",
+    "relationship_with_clients":"客先関係",
+    "p13":"お客様は、お客様自身をニュージェネシス社であると表明してはならず、ファシリテーター関係の性質について、ニュージェネシス社のウェブサイト（ウェブサイトがある場合）に明記しなければならないものとします。",
+    "p14":"お客様は、適用される円滑化契約の対象に関連して、お客様の利益とクライアントの利益が相反しないことを確認するものとします。",
+    "p15":"ニュージェネシスは、お客様から紹介された申請者をクライアントとして受け入れるいかなる義務も負わないものとします。",
+    "p16":"NuGenesis は、お客様が NuGenesis を操作しようとした場合、および/または NuGenesis ファシリテーター・プログラムを乱用しようとした場合に、お客様に対して法的措置を取る権利を留保します。上記の制限なく、NuGenesis は、かかる操作及び／又は乱用があった場合、StakerMiner ポジションの没収を含む、お客様に対する支払を保留、相殺及び／又は控除する権利を有し、また該当する円滑化契約を直ちに終了させることができるものとします。"
     },
 
-    "general-terms-condition_page_interpretation":{
-
-        "interpretation":"INTERPRETATION",
-        "p1":"In this deed the following rules of interpretation apply unless the contrary intention appears:",
-        "p2":" headings are for convenience only and do not affect the interpretation of the terms;",
-        "p3":"the singular includes the plural and vice versa;",
-        "p4":" words that are gender-neutral or gender-specific include each gender;" ,
-        "p5":" where a word or phrase is given a particular meaning, other parts of speech and grammatical forms of that word or phrase have corresponding meanings;",
-        "p6":"the words 'such as', 'including', 'particularly' and similar expressions are not used as, nor are intended to be, interpreted as words of limitation;",
-        "a_reference":"a reference to:",
-        "p7":"a person includes a natural person, partnership, joint venture, government agency, association, corporation, or other body corporate;",
-        "p8":"a thing (including, but not limited to, a choice in action or other rights) includes a part of that thing;",
-        "p9":" a party includes its successors and permitted assigns;",
-        "p10":"a document includes all amendments or supplements to that document;",
-        "p11":"a clause, term, party, schedule, or attachment is a reference to a clause or term of, or party, schedule or attachment to the Applicable Deed, Performance Pan or these terms;" ,
-        "p12":"the applicable Deed, Performance Plan, and these terms include all schedules and attachments to them;",
-        "p13":"a law includes a constitutional provision, treaty, decree, convention, statute, regulation, ordinance, by-law, judgment, rule of common law or equity or a rule of an applicable financial market and is a reference to that law as amended, consolidated, or replaced; and,",
-        "p14":"an agreement other than this deed includes an undertaking, or legally enforceable arrangement or understanding, whether or not in writing.",
-        "p15":"an agreement on the part of two or more persons binds them jointly and severally;" ,
-        "p16":" when the day on which something must be done is not a Business Day, that thing must be done on the following Business Day;",
-        "p17":"in determining the time of day, where relevant to this deed, the relevant time of day is:",
-        "p18":"to give or receive notices, the time of day where a party receiving a notice is located; or" ,
-        "p19":"for any other purpose under this deed, the time of day in the place where the party required to perform an obligation is located; and",
-        "p20":"  no rule of construction applies to the disadvantage of a party because that party was responsible for the preparation of this deed or any part of it."
+    "general-terms-condition_page_warranty":
+    {
+    "warranty":"保証書",
+    "p1":"あなたは、ここに、あなたのアプリケーションに提供された情報が真実、公正、完全、かつ正確であることを保証し、引き受けるものとします。NuGenesisは、適用されるファシリテーター契約の遵守を確認するため、お客様の活動を常に監視する権利を有します。また、当該情報が虚偽、誤解を招く、または不正確である場合、お客様は、NuGenesisがお客様に対する書面による通知により、各契約を直ちに終了させる権利を有することに同意し、承諾するものとします。",
+    "p2":"お客様は、NuGenesisに紹介され、NuGenesisのアカウントを開設したお客様は、そのアカウントでNuGenesisの顧客となり、NuGenesisのエコシステムから生じる事項に関してお客様の顧客ではないことを認め、さらに、お客様は、お客様とお客様の間に契約関係または他の法的関係があることを示すと見込みまたは実際のお客様が解釈しうる行動を常に慎まなければならないことを認めます。",
+    "p3":"お客様は、以下のことを表明し、保証するものとします。(a) お客様は、本規約を含む適用ファシリテーター契約を締結し、当該契約に基づく義務を履行する権能を有し、かつ (b) 当該契約に基づく義務に適用されるすべての法律、規制および実施規範を遵守するものとします。",
+    "p4":"各当事者は、相手方当事者が作成した情報または表現の正確さについて問い合わせを行ったこと、およびこれらの条件が当事者によって合意された完全かつ完全な条件であり、以前の口頭、書面または表現（行為、含意または省略を含む）に取って代わることを保証および信頼するものであること。",
+    "p5":"本契約に明示的に記載されている場合を除き、NuGenesis は、NuGenesis がお客様に提供するサービスについて、明示または黙示を問わず、品質や特定目的への適合性に関する黙示の保証を含むがこれに限定されないいかなる表明または保証も行わないものとします。ニュージェネシスは、お客様が追加の提案・キャンペーンを受けること、およびそれらの提案・キャンペーンがお客様のパフォーマンス・プランに記載されている以上の魅力や関心をもたらすことを保証するものではありません。",
+    "p6":"NuGenesisは、NuGenesisのウェブサイトおよびそのソーシャルメディア・チャンネル、またはNuGenesisが使用もしくは提供するプロモーションもしくは償還方法、および／またはそこに含まれるもしくは提示される情報および資料の正確性、妥当性、信頼性、利用可能性、適時性、完全性、適合性および他の特性に関して、いかなる表明もしくは保証も行わないものとします。NuGenesis のウェブサイト、ソーシャルメディア・チャンネル、および本プログラムは、「現状のまま」提供され、いかなる種類の保証もなく、「利用可能」ベースで提供されます。",
+    "p7":"ご要望に応じて、ニュージェネシスは、ソーシャルメディアの利用に関する様々な相談に応じることがあります。かかる相談及び関連する助言は、無償で、「現状のまま」、かつ保証なしに提供され、ファシリテーターは、この助言又は相談に関する自己の実践及び戦略について責任を有することを認める。ファシリテーターは、ニュージェネシスがかかる助言の提供に関して生じるいかなる責任も負わないことを認め、これに同意するものとします。",
+    "p8":"さらに、お客様は以下のことを表明し保証します。(i) お客様は、ファシリテーター・プログラムへの参加に適用される取引上または規制上の要件（例えば、お客様が所有し、ファシリテーター・リンクを利用できるウェブサイトにおいて、お客様がNuGenesis Adoption Facilitatorであることを明示するなど）を遵守すること、 (ii) お客様がファシリテーター・リンクを用いてファシリテーター・リードの生成を意図するすべてのウェブサイトおよびドメインをファシリテーター・ツールに正確に記載すること、 (III) お客様が所有し、かつ、そのウェブサイトおよびドメインが、ファリテーター・リードの生成に使用されること。(iii) お客様は、お客様のサイトまたはファシリテーター・リンクを通じて、NuGenesisの広告（当社のブランド・キーワードを含むがこれに限らない）と競合すると考えられる広告を購入しないこと、 (iv) クッキーの詰め込み、ポップアップ、偽または誤解を招くリンクに参加しないこと、 (v) 参照URL情報を隠そうとしないこと、 (vi) お客様は意図する消費者を介して以外の方法でリードを提供しないこと、等です。これには、電話帳などの個人データを編集してリードを調達すること、偽のリダイレクトやその他のツールまたは自動化装置（ロボット、フレーム、隠しフレームを含むがこれに限らない）を使用してリードを生成すること、購入やサインアップを奨励するためのインセンティブを提供することが含まれます。"
     },
 
-    "general-terms-condition_page_schedule_two":{
-
-      "schedule_two":"SCHEDULE 2 - NuGenesis CODE OF CONDUCT FOR ADOPTION FACILITATORS",
-      "social_ethical":"Social and ethical standards",
-      "p1":"Facilitators are expected to be socially and ethically responsible towards peers and in general as well. If misconduct is evident upon inquiry, the individual will be immediately expelled from the Facilitator Program. The following are the key points of social and ethical responsibilities for a Facilitator.",
-      "service_orientation":"Service orientation",
-      "social_justice":"Social justice",
-      "dignity":"Dignity",
-      "worth_person":"Worth of the person",
-      "importance_relationships":"Importance of human relationships",
-      "integrity_competence":"Integrity and competence",
-      "honesty":"Honesty",
-      "affirmative":"Affirmative actions and animosity" ,
-      "p2":"Facilitators are expected to be tolerant and considerate towards other individuals and groups. Facilitators are not allowed to despise or spread hate towards any gender, ethnicity, age, physical or mental disability, marital status, religion, creed, sex, sexual orientation, or political beliefs. Patience and understanding are highly required from the Facilitator to keep the NuGenesis eco-system vibrant, enthusiastic, and optimal for innovation. Hate speeches and related activities will be cause for breach and termination from the Facilitator Program. Hate speeches and actions in person or on digital platforms inclusive of social media, websites, and blogs, will be considered a violation of the code of conduct.",
-      "transparency":"Transparency" ,
-      "p3":"Transparency of information and operations is essential to develop trust and success. Facilitators must be transparent with the information they provide for enrolment in the Facilitator Program. The Facilitator will have to be transparent about their mind and cognitive process. The Facilitator will also have to be transparent with the assigned job responsibilities and the processes they follow to complete given tasks. Any discrepancy found in the information and operations of assigned job responsibilities will be considered a breach. Any ambiguity in information and the processes of job responsibilities will be inquired and may be a breach. The following are the key point of transparency policy and code of conduct.",
-      "clear":" Clear and non-ambiguous information",
-      "openness":"Openness with peers and the team" ,
-      "transparent":"Transparent operation of tasks and responsibilities",
-      "p4":"Honesty is considered an integral part of the Facilitator Program. Articulations and actions must hold the highest integrity and honesty. Facilitators are expected to adhere to honesty and truth to represent the project and business in the bestmanner to students and the public. The truth will be appreciated and motivated, so Facilitators ought to respect honesty and truth. The following will be considered as a violation of the Facilitators’ Program code of conduct.",
-      "p5":"Dishonesty with the job responsibilities",
-      "p6":" Presenting other work as own" ,
-      "p7":"Acknowledging illegitimate credit of work",
-      "p8":"Hiding self-misconduct or personal misconduct",
-      "p9":"Floating illegitimate information to clients and customers",
-      "integrity":"Integrity",
-      "p10":"Facilitators should follow moral principles based on honesty. The Facilitators’ Program expects Facilitators to have a strong and uncompromising set of ethics, principles, and values. The following are the key factors that are expected from individuals and teams for job operations, and on and off-campus behaviour.",
-      "fair":"Fair",
-      "factual":"Factual",
-      "impersonel":"Impersonal",
-      "self-evident":"Self-evident and indisputable",
-      "help":"Help and Resourcefulness",
-      "p11":"Facilitators are representatives who are not just representatives of the Facilitators’ Program but also of NuGenesis. Facilitators are expected to be helpful not just to their peers and teams but to the general population of the students and clients. Facilitators must be helpful to drive adoption. Facilitators should provide help and guidance for business-related questions to clients in a professional manner. If Facilitators are reported to be non-considerate with the matters where help can be provided, it will be considered volition of ethical conduct. The following are expected from Facilitators.",
-      "p12":"Provide information for prospective clients",
-      "p13":"Provide help to prospective users of NuGenesis systems",
-      "p14":"Provide help with registrations",
-      "p15":"Provide help to students for better decision making",
-      "p16":"Provide help for business-related activities and information sharing",
-      "service_sense":"Service sense",
-      "p17":"Customer focus is considered the primary trait of a Facilitator. This responsibility is not to be taken for granted, and the focus must be kept on queries and solutions. Prospective clients with queries are the key focus. Queries should be complied with transparency and honesty to provide the individual with the best user experience. Negligence in the response of the query violates the primary function of the job.",
-      "absence_punctuality":"Absence and Punctuality",
-      "p18":"If a Facilitator is missing meeting or presentation hours, and not attending meetings and events without application, an explanation will be called. The representation must be notified in case of absence or when late arrival is anticipated. Constant misconduct will be inquired, and if it is evident that the absence and lack of punctuality are because of pure negligence, it will be considered a breach. If the individual has legitimate reasons, e.g. general or chronic illness, family issues, or an emergency, the individual will be accommodated. The following will decrease Facilitator value and may amount to a breach worthy of termination.",
-      "p19":"Failure to provide proper notice of absence",
-      "p20":"Failure to provide the proper reason for absence",
-      "p21":"Failure to provide proper notice of late arrivals",
-      "p22":"Failure to provide the proper reason for late arrivals",
-      "p23":" Providing wrong information and dishonesty towards explanations",
-      "attire":"Attire and Workplace Etiquette",
-      "p24":" Facilitators must follow the appropriate dress code for a particular job as they are representatives of NuGenesis. A formal dress code is obligatory for formal meetings and events. Facilitators will be notified in a timely manner of formal meetings and events. Proactive and inappropriate clothing is highly discouraged. Individuals should be considerate, polite, and courteous in their interactions with peers, other students, and the community on and offcampus. Facilitators must follow health and safety measures at the workplace, meetings, and events. Facilitators should have a high level of self-hygiene and self-care. The following are the key point of attire and workplace code of conduct if violated give rise to a breach:",
-      "p25":"Formal attire at formal meetings and events",
-      "p26":"No offensive and racially triggered clothing",
-      "p27":"Inappropriate dressing with improper exposure of physical attributes is not allowed",
-      "p28":"Alcohol and smoking are not allowed at worktime and in the workplace",
-      "p29":"Homework, reading, and other personal work is not permitted unless a supervisor authorizes this activity",
-      "p30":"Telephones, computers, and other College resources may only be used with the permission of the owner",
-      "p31":"Cell phones, computers with personal internet access, video games, and other electronic devices not related to the Facilitator’s worktime are not to be used during work hours",
-      "confidentiality":"Confidentiality",
-      "p32":" Facilitators must be very cautious with the confidentiality of the activities and operations of the Facilitator's Program. Professional matters should be not discussed with irrelevant and unauthorised persons. Discussing internal matters at irrelevant or public places is highly forbidden. Financial, information, and other such private or personal subjects should be held in the strictest confidence. Facilitators Program internal matters and operations must not be subject to casual conversations."
-
+    "general-terms-condition_page_confidential_information":
+    {"confidential_information":"機密情報",
+    "p1":"お客様は、本プログラムへの参加および個別の提案・キャンペーンに対して支払われた報酬は、お客様とニュージェネシス社との間の機密事項であり、法令に基づく場合を除き、いかなる第三者にも開示しないことに同意するものとします。"
     },
 
-    "general-terms-condition_page_schedule_three":{
-
-        "schedule_three":"SCHEDULE 3 - DISCLOSURE POLICY",
-        "p1":"One key is to make a good disclosure of Your relationship with the brand. Here are some tips on when and how to make good disclosures. If You endorse a product through social media, Your endorsement message should make it obvious when You have a relationship (‘material connection’) with the brand. A ‘material connection’ to the brand includes a personal, family, or employment relationship or a financial relationship – such as the brand paying You or giving You free or discounted products or services. Telling Your followers about these kinds of relationships is important because it helps keep Your recommendations honest and truthful, and it allows people to weigh the value of Your endorsements. As an influencer, it’s Your responsibility to make these disclosures, to be familiar with the Endorsement Guides, and to comply with laws against deceptive ads. Do not rely on others to do it for You.",
-        "disclose":" When to Disclose",
-        "p2":"Disclose when You have any financial, employment, personal, or family relationship with a brand.",
-        "p3":"Financial relationships are not limited to money. Disclose the relationship if You received anything of value to mention a product.",
-        "p4":"If a brand gives You free or discounted products or other perks and then Youmention one of its products, make a disclosure even if You weren’t asked to mention that product.",
-        "p5":"Don’t assume Your followers already know about Your brand relationships.",
-        "p6":" Make disclosures even if You think Your evaluations are biased.",
-        "p7":"Keep in mind that tags, likes, pins, and similar ways of showing You as a brand or product are endorsements.",
-        "p8":"If You have no brand relationship and are just telling people about a product You bought and happen to like, You do not need to declare that You do not have a brand relationship",
-        "p9":"How to Disclose and make sure people will see and understand the disclosure:",
-        "p10":" Place it so it is hard to miss.",
-        "p11":"The disclosure should be placed with the endorsement message itself.",
-        "p12":"Disclosures are likely to be missed if they appear only on an ‘About Me’ or profile page, at the end of posts or videos, or anywhere that requires a person to click ‘More”.",
-        "p13":" Do not mix Your disclosure into a group of hashtags or links.",
-        "p14":"If Your endorsement is in a picture on a platform like Snapchat and Instagram Stories, superimpose the disclosure over the picture, and make sure viewers have enough time to notice and read it.",
-        "p15":"If making an endorsement in a video, the disclosure should be in the video and not just in the description uploaded with the video. Viewers are more likely to notice disclosures made in both audio and video. Please remember - some viewers may watch without sound and others may not notice superimposed words.",
-        "p16":"If making an endorsement in a live stream, the disclosure should be repeated periodically so viewers who only see part of the stream will get the disclosure.",
-        "p17":"Use simple and clear language. Simple explanations like “Thank you to Acme brand for the free product”, are often enough if placed in a way that is hard to miss.",
-        "p18":"So are terms like “advertisement,” “ad,” and “sponsored.”",
-        "p19":"On a space-limited platform like Twitter, the terms “Acme Partner” or “Acme Ambassador” (where Acme is the brand name) are also options.",
-        "p20":" It is fine (but not necessary) to include a hashtag with the disclosure, such as #ad or #sponsored.",
-        "p21":"Do not use vague or confusing terms like “sp,” “spon,” or “collab,” or stand-alone terms like “thanks” or “ambassador,” and stay away from other abbreviations and shorthand when possible.",
-        "p22":"The disclosure should be in the same language as the endorsement itself.",
-        "p23":"Do not assume that a platforms disclosure tool is good enough, but consider using it in addition to Your own, good disclosure.",
-        "what_else":" What else to Know",
-        "p24":"You cannot talk about Your experience with a product You have not tried.",
-        "p25":"If You are paid to talk about a product and thought it was terrible, You cannot say it is terrific.",
-        "p26":"You cannot make up claims about a product that would require proof the advertiser does not have – such as scientific proof that a product can treat a health condition."
+    "general-terms-condition_page_data_protection":
+    {
+    "data_protection":"データ・プライバシー保護",
+    "ensure":"確保するものとする。",
+    "p1":"お客様は、本規約に基づく義務により、サービスを提供するためのデータ処理について、またはデータ処理について第三者から必要とされるすべての権利および通知または同意の要件を取得したものとします。",
+    "p2":"お客様は、適用されるプライバシーおよびデータ保護に関する法律、規制、および義務的規範に基づく他のすべての要件を遵守していること。",
+    "p3":"お客様は、NuGenesis の要求に応じて、本条項の要件への準拠を証明するすべての文書および情報を NuGenesis に提供するものとします。",
+    "p4":"お客様は、本契約のいかなる規定も、NuGenesis がお客様についていかなる段階でも収集または取得した情報をお客様と共有する義務を生じさせないことに同意し、承諾するものとします。"
     },
 
-    "nav": {
-        "menu": "menu",
-        "nucoin": "NuCoin",
-        "just_social": "Just Social",
-        "explorer": "Explorer",
-        "nucoin_ledgerx": "NuCoin and LedgerX",
-        "shop": "Shop",
-        "about_us": "About Us",
-        "team": "Team",
-        "contact":"Contact Us"
+    "general-terms-condition_page_limitation_liability":
+    {
+    "limitation_liability":"せきにんのせいげん",
+    "p1":"本契約のいかなる条項も、i.過失による死亡または人身傷害、ii.詐欺または詐欺的不実表示、またはiii.適用法によって制限または除外できないその他の責任に対する当社の責任を制限するものではありません。上記の条項に従い、NuGenesis は、契約、不法行為（過失を含む）、法定義務の違反、またはその他を問わず、本契約に基づきまたは関連して生じる利益の損失、販売または事業の損失、合意または契約の損失、のれん、ブランドまたはスポンサー収入の損失または損害、ソフトウェア、データまたは情報の使用または破損、またはいかなる間接または結果的損失についても、お客様に対し責任を負わないものとします。",
+    "p2":"お客様は、お客様が実施したキャンペーンまたは本プログラムへの参加によって構成される活動に関して、関連するソーシャルメディアネットワーク（Facebook、Instagram、YouTube、Twitterなど）の運営者がお客様に対して行った措置またはお客様のソーシャルメディアアカウントに関して、NuGenesisがお客様に対して一切の責任を負わないことを了承するものとします。",
+    "p3":"本契約に基づきまたは関連して発生した、契約、不法行為（過失を含む）、法定義務の違反、その他を問わず、当社のお客様に対する責任の総額は、連続する12ヶ月間のすべての請求（関連性があるか否かにかかわらず）に関して、その期間に当社がお客様に支払ったまたは支払うキャンペーン料金の総額のうち大きい方に限定されるものとします。",
+    "p4":"陳述の不保証 各当事者は、本契約に記載されていないいかなる声明、表明、保証、あるいは保証（無害であるか過失であるかを問わない）に関しても、救済手段を持たないことに同意するものとします。各当事者は、本契約のいかなる記述に基づく無害な、または過失による不実表示、または過失による虚偽陳述の請求権も持たないことに同意します。NuGenesis は、お客様がすべての事項について自ら調査を行い、「プログラム」の望ましさ、表明の内容、およびお客様が締結する義務について満足するために必要なすべての調査を行ったことを信頼するものとします。",
+    "p5":"苦情および紛争の解決：ほとんどの懸念は、NuGenesis に直接連絡することで解決できます。本契約に関連して何らかの紛争が生じた場合、当事者は、紛争の通知から 14 日以内に当事者間で別段の合意がない限り、かかる紛争を解決することを目的とした調停に入ることに同意するものとします。本契約、および本契約またはその主題もしくは形成に起因または関連して生じた紛争または請求（契約外の紛争または請求を含む）は、オーストラリア・ニューサウスウェールズ州の法律に準拠し、同法に基づいて解釈されるものとします。各当事者は、本契約、アンバサダー証書、パフォーマンス・プラン、またはそれらの主題もしくは形成に起因または関連して生じるいかなる紛争または請求（契約外の紛争または請求を含む）を解決するために、その裁判所が非専属的管轄権を有することに取消不能で同意するものとします。","force_majeure":"Force Majeure",
+    "p6":"いずれの当事者も、戦争行為、敵対行為、妨害行為、天災地変、義務者に起因しない電気、インターネット、または通信の停止、政府の制限、または義務者の合理的支配の及ばない他の事象によって引き起こされた場合、履行の失敗または遅延について責任を負わないものとします。各当事者は、不可抗力の事象の影響を軽減するために合理的な努力を払うものとします。",
+    "third_party":"第三者受益者なし",
+    "p7":"本契約のいかなる内容も、明示または黙示を問わず、いかなる個人または法人（本契約の当事者を除く）に対しても、本契約に基づく、または本契約に起因するいかなる性質の権利、利益または救済を与えることを意図したものではなく、また与えるべきものでもありません。"
     },
 
-
-    "toggledropdown": {
-        "projects": "Projects",
-        "media": "Media",
-        "getting_involved": "Getting Involved"
+    "general-terms-condition_page_acceptance_use_policy":
+    {
+    "acceptance_policy":"受諾可能な使用ポリシー",
+    "p1":"この方針は、お客様の NuGenesis ファシリテーター契約の一部を構成するものです。お客様は、以下のことを行わないことに同意するものとします。",
+    "p2":"プログラムまたは提案もしくはキャンペーン中のソーシャルメディアアカウントを使用して、攻撃的、わいせつ、キャンペーンが実施される地域の法律または規制で禁止されている、または他者の知的財産権を侵害するファシリテーター生成コンテンツの配布または配布の促進を行うこと。",
+    "p3":"他の個人や団体の電子メールアドレスを使用してソーシャルメディア・チャンネルを使用するためにサインアップすること、詐欺的または不正な目的に従事すること（ソーシャルメディア・チャンネルを使用して個人や団体になりすましたり、個人や団体またはNuGenesisとお客様の関係を偽って伝えることを含むが、これに限らない）、商業目的やビジネス目的、第三者の利益、未承諾通信を送るためにプログラムを使用すること、プログラムから所有権通知やその他の所有権情報を削除または修正すること。",
+    "p4":"プログラム、NuGenesisのウェブサイトおよびソーシャルメディア・チャンネルを提供するサーバーまたはネットワークを妨害または混乱させること。",
+    "p5":"法律で認められている場合を除き、プログラム、NuGenesisのウェブサイトおよびソーシャルメディア・チャンネルの逆コンパイル、リバースエンジニアリング、逆アセンブル、ハッキングを試みたり、当社の暗号化技術やセキュリティ対策、NuGenesisが送信、処理、保存するデータを破ったり克服しようとしたりすること。",
+    "p6":"スパイダー」、「ハーベスト」、「スクレイピング」、または個人データや情報（「スパイウェア」のような情報を収集するものを含むがこれに限らない）を含む、プログラムを使用する他の人々に関するいかなる情報も収集しようとすること。",
+    "p7":"NuGenesisのウェブサイトやソーシャルメディア・チャンネルの正常な運営を妨げたり、他のユーザーのプログラムへの参加能力を害する可能性のある行為をしたり、プログラムに接続しているモバイルネットワークの要件や規制に従わないこと。",
+    "p8":"NuGenesisのウェブサイト、ソーシャルメディア・チャンネル、またはプログラムへのアクセスや要素を制御するために設計された技術的な手段を回避しようとすること。",
+    "p9":"お客様が NuGenesis と書面による契約を締結していない限り、お客様が当社と関連している、または当社が保証していると主張すること。本プログラムへの参加から得られた情報を一括して再出版すること。",
+    "p10":"本プログラムに参加している間、NuGenesis が共有するいかなるコンテンツ、資料、またはプロセスの発信元として、「ホワイトラベル」またはその他の方法で、お客様自身を誇示すること。",
+    "p11":"適用される法律または規制要件に違反して、本プログラムを使用すること。",
+    "p12":"お客様は、いかなる場合においても、NuGenesisの書面による事前の同意（NuGenesisの単独の裁量で付与または拒否される）なしに、大量の電子メールメッセージ（「スパム」ともいう）を作成、公表、送信または配布してはならないものとします。さらに、お客様は、NuGenesis Adoption FacilitatorのリンクおよびNuGenesisまたはNuGenesisの養子縁組促進プログラムに関するメッセージを含む電子メールを、お客様からかかる通信を受け取ることに事前に同意した人にのみ送信することができます。お客様が電子メール通信に関連する適用法を遵守しなかった場合、いかなる方法であれ、お客様による本契約の重大な違反とみなされ、お客様が有する報酬の権利が没収され、お客様の本プログラムへの参加が終了することがあります。また、NuGenesisが独自の判断により短期間に過剰なクリックを行った場合、ファシリテーターとしての関係を終了することがあります。"
     },
 
-    "trans_link": {
-        "ambassador_program_nugenesis": "en/Ambassador Program/01 NuGENESIS Ambassador Program Brochure .docx",
-        "ambassador_program_deed": "en/Ambassador Program/02 Ambassadorial Deed.docx",
-        "ambassador_program_performance": "en/Ambassador Program/03 Ambassadors Performance Plan.docx",
-        "ambassador_program_online_application": "en/Ambassador Program/online application form.docx",
-        "diplomats_program_nugenesis": "en/Diplomat's program/01 NuGENESIS Diplomats Program Brochure.docx",
-        "diplomats_program_deed": "en/Diplomat's program/02 Diplomatic Deed.docx",
-        "diplomats_program_performance": "en/Diplomat's program/03 Diplomats Performance Plan.docx",
-        "diplomats_program_online_application": "en/Diplomat's program/online application form.docx",
-        "sanators_program_nugenesis": "en/PDF Senator Program Final/01 NuGENESIS Senator Program Brochure.pdf",
-        "sanators_program_deed": "en/PDF Senator Program Final/02 Senatorial Deed.pdf",
-        "sanators_program_performance": "en/PDF Senator Program Final/03 Senators Performance Plan.pdf",
-        "sanators_program_online_application": "en/PDF Senator Program Final/online application form.pdf",
-        "market_consuls_program_nugenesis": "en/Market Consuls Program/01 NuGENESIS Market Consuls Program Brochure.docx",
-        "market_consuls_program_deed": "en/Market Consuls Program/02 Market Consul Deed.docx",
-        "market_consuls_program_performance": "en/Market Consuls Program/03 Market Consuls Performance Plan.docx",
-        "market_consuls_program_online_application": "en/Market Consuls Program/online application form.docx",
-        "network_concordat_program_nugenesis": "en/Network Concordat program/01 NuGENESIS Network Concordat Program Brochure.docx",
-        "network_concordat_program_deed": "en/Network Concordat program/02 Network Concordat Deed.docx",
-        "network_concordat_program_performance": "en/Network Concordat program/03 Network Concordat Performance Plan.docx",
-        "network_concordat_program_online_application": "en/Network Concordat program/online application form.docx"
+    "general-terms-condition_page_photo_video":
+    {
+    "photo_video":"フォト・ビデオリリース",
+    "p1":"お客様は、NuGenesisの養子縁組促進プログラムへの参加条件の一部として、NuGenesisおよびその代理人ならびに従業員が、お客様またはお客様のご家族を撮影した写真や映像を、出版、宣伝、説明、広告、取引のために、いかなる方法または媒体でも複製する取消不能かつ無制限の権利を許諾するものとします。これには、ニュージェネシスのソーシャルメディア・チャンネルで使用するために提供されたすべてのユーザー生成コンテンツが含まれます。また、お客様は、当該画像または動画に関連するすべての請求および責任について、NuGenesis およびその法定代理人をここに免責するものとします。さらに、お客様は、インタビュー中またはビデオの一部として行われた発言を、お客様の名前の有無にかかわらず、広告および宣伝のために無制限に使用することを許可します。また、あなたは、あなたの契約の「業務範囲」に明示的に記載されていない限り、いかなる報酬の権利も放棄するものとします。"
+    },
+
+    "general-terms-condition_page_assignment":
+    {
+    "assignment":"アサインメント",
+    "p1":"本規約の一部を構成する適用円滑化契約は、両当事者に固有のものであり、次条に従って、いずれの当事者も、当該契約に基づく権利および義務の譲渡、移転、担保設定、請求、下請け、信託宣言またはその他の方法による取引をしてはならないものとします。",
+    "p2":"NuGenesis は、次条の規定に基づき 5 営業日前に書面で通知することにより、本契約に基づく権利および義務を、NuGenesis の関連団体のメンバー、または該当する契約上の義務、責任および義務を果たすことができると自らの裁量で合理的に考える第三者に譲渡、移転、譲渡、担保、請求、下請け、および/または信託の宣言その他いかなる方法でも対処することができるものとする。",
+    "p3":"NuGenesis が行った第三者への権利義務の譲渡、移転または移転に関する通知（当該譲渡、移転または 移転が NuGenesis グループ内の関連当事者または関係者に対して行われる場合を除き、お客様はここに、 NuGenesis からの通知により有効となり、当該譲渡、移転または移転を有効にするためにお客様の側で何らの措置 も必要としないことに同意する。本規約に基づき、お客様が 14 日間の通知期間内に異議を述べなかった場合には、当該譲渡を承諾したものとみなし、適用契約 に基づく NuGenesis の権利及び義務の譲渡が効力を生じ、譲受人とお客様との間に直接的な契約関係が生じるものとしま す。",
+    "p4":"ファシリテーターのためのヌゲネシス行動規範の遵守",
+    "p5":"別表2の「養子縁組促進者の行動規範」を遵守することに同意するものとします。"
+    },
+
+    "general-terms-condition_page_schedule":
+    {
+    "schedule":"スケジュール1 - 辞書と定義",
+    "agreement":"契約内容",
+    "p1":"とは、該当するファシリテーター契約を意味します。",
+    "ambassador_deed":"アンバサダーディード",
+    "p2":"アンバサダーと NuGenesis との間の契約であり、養子縁組促進者が本プログラムにおけるアンバサダーの役割を引き受け、この契約には本規約およびアンバサダーのパフォーマンスプランが含まれます。",
+    "adoption_facilitation_program":
+    "養子縁組促進プログラム",
+    "p3":"(プログラム」とは、NuGenesis社が、NuGenesis社の技術を促進するために様々な役割を果たす者のプロモーション活動を取得する広義のプログラムを意味する。",
+    "applicable_facilitator_agreement":"適用されるファシリテーター契約",
+    "p4":"アンバサダー契約、マーケットコンサル契約、ネットワークコンコーダット契約、上院議員契約、外交官契約のいずれであっても、また個々のキャンペーンに関して継続的であるか単独であるかを問わず、締結されるそれぞれのファシリテーター事業に適用される採用促進契約または証書を意味し、法的拘束力のある契約または証書はそれぞれの証書、本規約、パフォーマンスプランから成るものとします。",
+    "compaign":"キャンペーン",
+    "p5":"は、特定のプロモーション活動を意味し、提案書と呼ばれることもあれば、単独の事業である場合もある。",
+    "confidential_information":"機密情報",
+    "p6":"とは、有形無形のすべての情報、および本契約に関連してお客様に開示される資料をいい、その形態または媒体を問いません（また、その情報がNuGenesis、NuGenesisグループのメンバーまたは第三者の所有であるか否かを問いません）（ただし、これらに限定されません。",
+    "p7":"本規約、証書およびパフォーマンス・プランの存在と条件。",
+    "p8":"に関連するあらゆる情報。",
+    "p9":"NuGenesis または NuGenesis グループの業務、顧客、取引プラットフォーム、流動性プロバイダ、 データまたはフィードプロバイダおよびその他のベンダー、計画、意図、またはマーケティング計画および機会、 財政状態および財務予測、および",
+    "p10":"NuGenesis の業務、プロセス、製品情報、ノウハウ、ショーハウ、連絡先、デザイン、企業秘密またはソフトウエア。",
+    "p11":"機密情報に由来するあらゆる情報または分析。",
+    "p12":"ただし、NuGenesisに事前に通知し、開示の必要性について検討する機会を与えた後に法令により開示が要求される情報、および本規約に違反した以外の方法で公知となった情報は含まれない。",
+    "diplomat_deed":"外交官証書",
+    "p13":"外交官とNuGenesisとの間で締結された、養子縁組促進者が本プログラムにおける外交官の役割を引き受けるための証書を意味し、この証書には本規約とその外交官のパフォーマンスプランが含まれています。",
+    "facilitator":"ファシリテーター",
+    "p14":"本プログラムの参加者（Adoption Facilitator）であり、プロモーションおよび採用促進サービスを提供する者を意味します。",
+    "facilitator_generated_content":
+    "ファシリテーターが作成したコンテンツ",
+    "p15":"とは、NuGenesisの採用を促進するためにファシリテーターが作成した映像、音声、文章などの表現形式を意味します。",
+    "intellectual_property_rights":"知的財産権",
+    "p16":"特許、ノウハウ、商標、発明に関する権利、著作権および関連する権利、商標、商号およびドメイン名、顧客に関するリストおよび情報、事業または取引慣行および報酬に関する情報、顧客インセンティブおよびロイヤルティ制度、コミッションまたは関連会社およびその他のビジネスパートナーに対するその他の同様のインセンティブ制度、下取りに関する権利、営業権およびパッシングオフに関する訴求権を無制限に意味するものとします。意匠権、データベース権、その他すべての知的財産権（登録、未登録を問わず、また、世界のあらゆる地域において現在または将来存続する、すべての出願、更新または延長を申請する権利、および当該権利から優先権を主張する権利、ならびにすべての類似または同等の権利または保護形態を含みます）。",
+    "market_consul_deed":"マーケットコンシュル証書",
+    "p17":"マーケットコンサルと NuGenesis との間で締結された契約であり、Adoption Facilitator が本プログラムにおけるマーケットコンサルの役割を引き受け、この契約が本規約およびそのマーケットコンサルに対するパフォーマンスプランに組み込まれることを意味します。",
+    "network_concordat_deed":"ネットワーク・コンコーダット・デッド",
+    "p18":"ネットワーク・コンコーダットと NuGenesis との間の契約であり、採択ファシリテーターが本プログラムにおけるネットワーク・コンコーダの役割を引き受け、この契約には本規約とそのネットワーク・コンコーダのパフォーマンスプランが組み込まれています。",
+    "party":"パチイ",
+    "p19":"適用されるファシリテーター契約の当事者または当事者を意味します。",
+    "performance_plan":"パフォーマンスプラン",
+    "p20":"そのファシリテーターに適用される特定の期待、報酬およびKPIを組み込んだその名の文書を意味し、本プログラムにおけるそのカテゴリーおよびファシリテーターの役割に適用されるファシリテーション証書とともに、本規約と一緒に組み込まれる。",
+    "program":"プログラム",
+    "p21":"Adoption Facilitation Program（養子縁組促進プログラム）を意味します。",
+    "proposal":"プロプサル",
+    "p22":"は、キャンペーンを意味します。",
+    "scope_work":"業務範囲",
+    "p23":"契約書において特定のファシリテーターに対して設定された特定活動の記述を意味します。",
+    "senatorial_deed":"議員証書",
+    "p24":"養子縁組促進者が本プログラムにおける上院議員の役割を引き受けるための、上院議員と NuGenesis との間の証書を意味し、この証書には、本規約および当該上院議員のパフォーマンスプランが含まれます。",
+    "stand_alone_campaign":"スタンドアローンキャンペーン","p25":"単発の事業という意味です。"
+    },
+
+    "general-terms-condition_page_interpretation":
+    {
+    "interpretation":"インタープリテーション",
+    "p1":"この証書には、反対の意図がない限り、次の解釈規則が適用されます。",
+    "p2":"の見出しは便宜上のものであり、本条件の解釈に影響を与えるものではありません。",
+    "p3":"単数形には複数形が含まれ、逆もまた同様である。",
+    "p4":"性別に関係なく使える言葉や、性別に関係なく使える言葉には、それぞれの性別が含まれています。",
+    "p5":"ある単語やフレーズに特定の意味が与えられている場合、その単語やフレーズの他の品詞や文法形式は対応する意味を持ちます。",
+    "p6":"など」、「を含む」、「特に」などの表現は、限定詞として使用されるものではなく、また限定詞として解釈されることを意図するものでもありません。",
+    "a_reference":"を参考にしたものです。",
+    "p7":"個人には、自然人、パートナーシップ、ジョイントベンチャー、政府機関、団体、企業、またはその他の団体が含まれます。",
+    "p8":"は、その物の一部を含みます。",
+    "p9":"当事者には、その承継人および許可された譲受人が含まれます。",
+    "p10":"文書には、その文書に対するすべての修正または補足が含まれます。",
+    "p11":"条項、用語、当事者、スケジュール、または添付ファイルは、適用される証書の条項、用語、当事者、スケジュール、または添付ファイル、パフォーマンスパン、または本条項への言及です。",
+    "p12":"該当する証書、パフォーマンス・プラン、および本規約には、それらのすべての付属書類および添付書類が含まれます。",
+    "p13":"法律には、憲法上の規定、条約、政令、条約、法令、規則、条例、付則、判決、慣習法もしくは衡平法の規則または適用される金融市場の規則を含み、改正、統合または置き換えられた当該法律への言及である；および。",
+    "p14":"本契約以外の契約には、書面によるか否かを問わず、約束、法的強制力のある取り決めまたは了解が含まれます。",
+    "p15":"2人以上の人間の側の合意は、彼らを連帯して拘束する。",
+    "p16":"何かをしなければならない日が営業日でない場合、そのことは次の営業日に行わなければなりません。",
+    "p17":"を決定する際に、この証書に関連する場合、関連する時間帯をいいます。",
+    "p18":"通知を行い、または受け取るために、通知を受ける当事者が所在する時間帯、または",
+    "p19":"この証書に基づくその他の目的のために、義務を履行すべき当事者の所在地の時刻。",
+    "p20":"この証書またはその一部の作成に責任を負っていたことを理由として、当事者の不利益となるような解釈のルールは適用されません。"
+    },
+
+    "general-terms-condition_page_schedule_two":
+    {
+    "schedule_two":"別表 2 - NuGenesis ADOPTION FACILITATORS の行動規範",
+    "social_ethical":"社会的・倫理的基準",
+    "p1":"ファシリテーターは、仲間に対して、また一般に対しても、社会的・倫理的に責任を持つことが期待されています。不正行為が明らかになった場合は、直ちにファシリテーター・プログラムから除名されます。ファシリテーターとしての社会的・倫理的責任のポイントは以下の通りです。","service_orientation":"サービス志向",
+    "social_justice":"社会的公正",
+    "dignity":"ディグニティ",
+    "worth_person":"人の価値",
+    "importance_relationships":"人と人とのつながりの大切さ",
+    "integrity_competence":"誠実さと有能さ","honesty":"誠実さ",
+    "affirmative":"アファーマティブ・アクションと反感",
+    "p2":"ファシリテーターは、他の個人やグループに対して寛容で思いやりのある態度をとることが期待されています。ファシリテーターは、性別、民族、年齢、身体的・精神的障害、配偶者の有無、宗教、信条、性別、性的指向、政治的信条などを軽蔑したり、憎しみを広めることは許されません。NuGenesisのエコシステムが活気に満ち、熱狂的で、革新的であるためには、ファシリテーターに忍耐と理解が強く要求されます。ヘイトスピーチおよびそれに関連する活動は、ファシリテーター・プログラムの違反および終了の原因となる。ソーシャルメディア、ウェブサイト、ブログなどのデジタルプラットフォーム上や、個人でのヘイトスピーチや行為は、行動規範の違反とみなされます。","transparency":"透明性",
+    "p3":"信頼と成功を育むためには、情報と運営の透明性が不可欠です。ファシリテーターは、ファシリテーター・プログラムに登録する際に提供する情報に透明性を持たせなければなりません。ファシリテーターは、自分の心や認知プロセスについて透明でなければならないでしょう。また、ファシリテーターは、与えられた仕事の責任と、与えられた仕事を完了するために従うプロセスについても透明でなければなりません。与えられた職務の情報・操作に矛盾がある場合は、違反とみなします。職務上の責任に関する情報やプロセスに曖昧な点があれば、問い合わせが行われ、違反となる可能性があります。透明性に関する方針と行動規範のポイントは以下の通りです。","clear":"明確であいまいでない情報","openness":"仲間やチームに対してオープンであること","transparent":"業務と責任の透明性のある運用",
+    "p4":"正直さは、ファシリテーター・プログラムに不可欠な要素であると考えられています。表現と行動は、最高の誠実さと正直さを保たなければなりません。ファシリテーターは、学生や公衆に対して最善の方法でプロジェクトとビジネスを表現するために、正直さと真実に固執することが期待されています。真実が評価され、動機づけとなるので、ファシリテーターは正直さと真実を尊重しなければならない。次のような行為は、ファシリテーター・プログラムの行動規範に違反するものとみなされます。",
+    "p5":"職務上の責任に対する不誠実さ",
+    "p6":"他の作品を自分の作品として紹介する",
+    "p7":"作品の違法なクレジット表記を認める",
+    "p8":"自己の不正や個人の不正を隠すこと",
+    "p9":"顧客や取引先への不正な情報の流出","integrity":"誠実さ",
+    "p10":"ファシリテーターは、誠実さに基づく道徳的原則に従うべきである。ファシリテーター・プログラムは、ファシリテーターが強く妥協のない倫理観、原則、価値観を持つことを期待しています。以下は、業務運営や学内外の行動において、個人やチームに期待される重要な要素です。","fair":"フェヤ","factual":"事実関係","impersonel":"非人間的","self-evident":"自明かつ議論の余地のないこと","help":"助け合いと臨機応変",
+    "p11":"ファシリテーターは、ファシリテーター・プログラムの代表であると同時に、ニュージェネシスの代表でもあるのです。ファシリテーターは、仲間やチームだけでなく、学生やクライアントなど一般の人たちの役に立つことが期待されています。ファシリテーターは、採用を推進するために役に立たなければなりません。ファシリテーターは、ビジネス関連の質問に対して、プロフェッショナルな態度でヘルプやガイダンスをクライアントに提供する必要があります。もし、ファシリテーターが、ヘルプを提供できる事項について配慮がないと報告された場合、倫理的行動の自発性とみなされます。ファシリテーターには、以下のことが期待されます。",
+    "p12":"見込み客への情報提供",
+    "p13":"Provide help to prospective users of NuGenesis systems",
+    "p14":"登録に関するヘルプを提供する",
+    "p15":"学生がより良い意思決定をするための支援を提供する",
+    "p16":"ビジネスに関する活動や情報共有の手助けをする。",
+    "service_sense":"サービスセンス",
+    "p17":"顧客志向は、ファシリテーターの第一の特徴であると考えられています。この責任は当然のこととして、問い合わせと解決に焦点を当て続けなければなりません。問い合わせのある見込み客は、重要な焦点となります。問い合わせは、その人に最高のユーザー体験を提供するために、透明性と誠実さをもって対応すべきです。クエリーの対応に怠慢があると、仕事の本来の機能に違反する。",
+    "absence_punctuality":"欠席と時間厳守",
+    "p18":"ファシリテーターがミーティングやプレゼンテーションの時間を欠席し、申請なしにミーティングやイベントに参加しない場合、説明を求める。欠席の場合、または遅刻が予想される場合は、代表者に連絡しなければならない。恒常的な不正行為は照会され、欠席や時間厳守の欠如が純粋な過失によるものであることが明らかな場合は、違反とみなされます。本人に正当な理由がある場合、例えば、全身または慢性疾患、家族の問題、緊急事態などには、対応します。以下の場合は、ファシリテーターの価値を低下させ、解雇に値する違反となる可能性があります。",
+    "p19":"欠席の適切な通知の不徹底",
+    "p20":"適切な欠席理由の提示がない場合",
+    "p21":"遅刻の適切な通知の不徹底",
+    "p22":"遅刻の適切な理由の提示がない場合",
+    "p23":"誤った情報の提供、説明への不誠実な対応",
+    "attire":"服装と職場のエチケット",
+    "p24":"ファシリテーターはニュージェネシスの代表者であるため、特定の業務に適したドレスコードに従わなければなりません。正式な会議やイベントには、正式なドレスコードが義務付けられています。正式な会議や行事については、適時、ファシリテーターに通知される。積極的かつ不適切な服装は、強く推奨されない。学内外の仲間や他の学生、地域社会との交流においては、思いやりと礼儀正しさを大切にすること。ファシリテーターは、職場、ミーティング、イベントにおいて、健康と安全対策に従わなければならない。ファシリテーターは、高いレベルの自己衛生と自己管理をしなければならない。以下は、違反した場合に違反となる服装や職場の行動規範のポイントである。",
+    "p25":"フォーマルな会合やイベントでの服装",
+    "p26":"攻撃的で人種差別を誘発するような服装の禁止",
+    "p27":"不適切な露出を伴う服装の禁止",
+    "p28":"就業時間中および職場内でのアルコール、喫煙は禁止されています",
+    "p29":"上司の許可がない限り、宿題、読書、その他の個人的な作業は許可されません。",
+    "p30":"電話、コンピュータ、その他の当校のリソースは、所有者の許可を得てのみ使用することができます。",
+    "p31":"携帯電話、個人用インターネット接続パソコン、ビデオゲームなど、ファシリテーターの業務に関係のない電子機器は、勤務時間中に使用してはならない。",
+    "confidentiality":"守秘義務",
+    "p32":"ファシリテーターは、ファシリテーター・プログラムの活動および運営に関する秘密保持に十分注意しなければなりません。専門的な事柄は、無関係な人や権限のない人と話してはいけません。関係ない場所や公共の場で社内の事柄について話し合うことは、非常に禁止されています。財務、情報、その他の個人的な話題は、極秘に扱われなければならない。ファシリテーター・プログラムの内部事項および運営は、気軽な会話の対象になってはならない。"
+    },
+
+    "general-terms-condition_page_schedule_three":
+    {
+    "schedule_three":"スケジュール3 - ディスクロージャーポリシー",
+    "p1":"一つの鍵は、ブランドとの関係をきちんと開示することです。ここでは、いつ、どのように開示すればよいか、いくつかのヒントを紹介します。ソーシャルメディアを通じて製品を推奨する場合、推奨メッセージは、あなたがそのブランドと関係（「重要な関係」）を持っていることを明白にする必要があります。ブランドとの「重要な関係」には、個人、家族、雇用関係、または金銭的な関係（ブランドがあなたにお金を支払ったり、あなたに無料または割引の製品やサービスを提供したりするなど）が含まれます。このような関係をフォロワーに伝えることは、あなたの推薦を正直かつ正直に保つのに役立ち、人々があなたの推薦の価値を評価することを可能にするため、重要です。インフルエンサーとして、これらの開示を行い、エンドースメントガイドを熟知し、虚偽の広告を禁止する法律を遵守することは、あなたの責任です。他者に依存しないでください。",
+    "disclose":"開示のタイミング",
+    "p2":"ブランドと金銭的、雇用的、個人的、または家族的な関係がある場合は、それを開示すること。",
+    "p3":"金銭的な関係は、金銭に限りません。製品に言及するために価値あるものを受け取った場合は、その関係を開示してください。",
+    "p4":"あるブランドがあなたに無料または割引の製品やその他の特典を提供し、あなたがその製品について言及した場合、その製品について言及するよう依頼されていない場合でも、情報開示を行ってください。",
+    "p5":"フォロワーがすでにあなたのブランドとの関係を知っていると思い込まないでください。",
+    "p6":"あなたの評価が偏っていると思う場合でも、開示してください。",
+    "p7":"タグ、「いいね！」、ピン、およびブランドや製品としてあなたを表示する同様の方法は、エンドースメントであることを念頭に置いてください。",
+    "p8":"ブランドとの関係がなく、たまたま購入し気に入った製品について人々に伝えているだけの場合、ブランドとの関係がないことを宣言する必要はありません。",
+    "p9":"開示の仕方、見てもらうこと、理解してもらうこと。",
+    "p10":"見逃しにくいように配置する。",
+    "p11":"開示は、エンドースメントメッセージそのものと一緒に配置されるべきです。",
+    "p12":"開示は、「自己紹介」やプロフィールページ、投稿やビデオの最後、あるいは「もっと見る」をクリックする必要がある場所にのみ表示される場合、見落とされる可能性があります。",
+    "p13":"ハッシュタグやリンクのグループにお客様の情報開示を混ぜないでください。",
+    "p14":"SnapchatやInstagram Storiesのようなプラットフォームで、あなたの推薦文が写真の中にある場合、写真の上に情報開示を重ね、視聴者がそれに気付き、読むのに十分な時間があることを確認します。",
+    "p15":"動画でエンドースメントを行う場合は、動画と一緒にアップロードされた説明文だけでなく、動画内に開示する必要があります。視聴者は、音声と映像の両方で行われた開示に気付く可能性が高くなります。視聴者の中には、音声なしで視聴する人もいれば、文字が重なっていることに気づかない人もいることを忘れないでください。",
+    "p16":"ライブストリームでエンドースメントを行う場合、ストリームの一部しか見ていない視聴者にも開示が伝わるように、定期的に開示を繰り返す必要があります。",
+    "p17":"シンプルでわかりやすい言葉を使う。Acmeブランドから無料の製品をありがとうございました」というようなシンプルな説明で、見逃しにくいように配置すれば十分な場合が多いのです。",
+    "p18":"\"advertisement\"、\"ad\"、\"sponsored \"などの用語もそうです。",
+    "p19":"Twitterのようなスペースが限られたプラットフォームでは、「Acme Partner」や「Acme Ambassador」（Acmeはブランド名）という言葉も選択肢になります。",
+    "p20":"広告やスポンサードなど、ハッシュタグを付けて公開しても構いません（ただし、必須ではありません）。",
+    "p21":"sp」「spon」「collab」などの曖昧でわかりにくい言葉や、「thanks」「ambassador」などの単体の言葉は使わず、その他の略語や速記も可能な限り避けてください。",
+    "p22":"開示は、裏書そのものと同じ言語であるべきです。",
+    "p23":"プラットフォームの情報開示ツールで十分と考えず、自分自身の優れた情報開示に加え、そのツールを使用することを検討してください。","what_else":"その他に知っておくべきこと",
+    "p24":"試していない製品の体験談を話すことはできません。",
+    "p25":"もし、あなたがお金をもらって、ある製品について話して、それがひどいものだと思ったとしても、それがすごいものだとは言えないでしょう。",
+    "p26":"あなたは、広告主が持っていない証拠を必要とする製品についての主張を作ることはできません - 例えば、製品が健康状態を治療することができるという科学的証明など。"
+    },
+
+    "nav":
+    {
+    "menu":"メヌ",
+    "nucoin":"NuCoin",
+    "just_social":"Just Social",
+    "explorer":"Explorer",
+    "nucoin_ledgerx":"NuCoin と LedgerX",
+    "shop":"ショップ",
+    "about_us":"私たちについて",
+    "team":"チーム",
+    "contact":"お問い合わせ"
+    },
+
+    "toggledropdown":
+    {
+    "projects":"プロジェクト",
+    "media":"メディア","getting_involved":"参加する"
+    },
+
+    "trans_link":
+    {
+    "ambassador_program_nugenesis":"en/Ambassador Program/01 NuGENESIS Ambassador Program Brochure .docx",
+    "ambassador_program_deed":"en/Ambassador Program/02 Ambassadorial Deed.docx",
+    "ambassador_program_performance":"en/Ambassador Program/03 Ambassadors Performance Plan.docx",
+    "ambassador_program_online_application":"en/Ambassador Program/online application form.docx",
+    "diplomats_program_nugenesis":"en/Diplomat's program/01 NuGENESIS Diplomats Program Brochure.docx",
+    "diplomats_program_deed":"en/Diplomat's program/02 Diplomatic Deed.docx",
+    "diplomats_program_performance":"en/Diplomat's program/03 Diplomats Performance Plan.docx",
+    "diplomats_program_online_application":"en/Diplomat's program/online application form.docx",
+    "sanators_program_nugenesis":"en/PDF Senator Program Final/01 NuGENESIS Senator Program Brochure.pdf",
+    "sanators_program_deed":"en/PDF Senator Program Final/02 Senatorial Deed.pdf",
+    "sanators_program_performance":"en/PDF Senator Program Final/03 Senators Performance Plan.pdf",
+    "sanators_program_online_application":"en/PDF Senator Program Final/online application form.pdf",
+    "market_consuls_program_nugenesis":"en/Market Consuls Program/01 NuGENESIS Market Consuls Program Brochure.docx",
+    "market_consuls_program_deed":"en/Market Consuls Program/02 Market Consul Deed.docx",
+    "market_consuls_program_performance":"en/Market Consuls Program/03 Market Consuls Performance Plan.docx",
+    "market_consuls_program_online_application":"en/Market Consuls Program/online application form.docx",
+    "network_concordat_program_nugenesis":"en/Network Concordat program/01 NuGENESIS Network Concordat Program Brochure.docx",
+    "network_concordat_program_deed":"en/Network Concordat program/02 Network Concordat Deed.docx",
+    "network_concordat_program_performance":"en/Network Concordat program/03 Network Concordat Performance Plan.docx",
+    "network_concordat_program_online_application":"en/Network Concordat program/online application form.docx"
     }
-}
+    }
