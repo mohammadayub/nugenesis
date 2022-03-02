@@ -73,6 +73,7 @@
         <div class="custom-container container-xl py-5 position-relative z-index-2">
             <div class="row">
                 <div class="col-lg-6">
+                    <img src="../images/bitcoinNU.png" alt="" >
                     <h3 class="text-color-1 mb-4">
                         <b>{{__("projects_page_bitcoin")['bitcoinnu']}}</b>
                     </h3>
@@ -98,6 +99,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
+                    <img src="../images/bitcoingreen.png" alt="" >
                     <h3 class="text-color-1 mb-4">
                         <b>{{__("projects_page_bitcoin")['bitcoingreen']}}</b>
                     </h3>

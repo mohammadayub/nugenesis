@@ -146,7 +146,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="../documents/Ambassador Program/online application form.docx" target="_blank" class="text-white">
+                                        <a href="https://forms.gle/Xv55DQ82NvVtAtGB8" target="_blank" class="text-white">
                                             <i class="fa fa-download mr-1" aria-hidden="true"></i>
                                             {{__("getting-involved_page_online_form")['online_form']}}
                                         </a>
@@ -192,7 +192,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="../documents/{{__("trans_link")['diplomats_program_online_application']}}" target="_blank" class="text-white">
+                                        <a href="https://forms.gle/Xv55DQ82NvVtAtGB8" target="_blank" class="text-white">
                                             <i class="fa fa-download mr-1" aria-hidden="true"></i>
                                             {{__("getting-involved_page_online_form")['online_form']}}
                                         </a>
@@ -238,7 +238,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="../documents/{{__("trans_link")['sanators_program_online_application']}}" target="_blank" class="text-white">
+                                        <a href="https://forms.gle/Xv55DQ82NvVtAtGB8" target="_blank" class="text-white">
                                             <i class="fa fa-download mr-1" aria-hidden="true"></i>
                                             {{__("getting-involved_page_online_form")['online_form']}}
                                         </a>
@@ -284,7 +284,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="../documents/{{__("trans_link")['market_consuls_program_online_application']}}" target="_blank" class="text-white">
+                                        <a href="https://forms.gle/Xv55DQ82NvVtAtGB8" target="_blank" class="text-white">
                                             <i class="fa fa-download mr-1" aria-hidden="true"></i>
                                             {{__("getting-involved_page_online_form")['online_form']}}
                                         </a>
@@ -330,10 +330,12 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="../documents/{{__('trans_link')['network_concordat_program_online_application']}}" target="_blank" class="text-white">
+
+                                        <a href="https://forms.gle/Xv55DQ82NvVtAtGB8" target="_blank" class="text-white">
                                             <i class="fa fa-download mr-1" aria-hidden="true"></i>
                                             {{__("getting-involved_page_online_form")['online_form']}}
                                         </a>
+
                                     </li>
                                 </ul>
                             </div>

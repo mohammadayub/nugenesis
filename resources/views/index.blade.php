@@ -284,6 +284,13 @@
                     <h4 class="mb-3 text-color-3">
                         <b>{{__("home_page_medias")['community_participation']}}</b>
                     </h4>
+                    <div class="d-flex justify-content-center">
+                        <iframe
+                            height="400" width="400"
+                            src="https://www.youtube.com/embed/xMcCqJl4QA8">
+                        </iframe>
+                    </div>
+                    <br>
                     <p class="mb-0">
                         {{__("home_page_medias")['get_involved']}}
                     </p>
@@ -304,48 +311,9 @@
                         <div class="card w-100 bg-transparent">
                             <div class="p-0 card-body">
                                 <div class="d-flex justify-content-center">
-                                    <a href="{{url(app()->getLocale(),'contact-us')}}">
-                                        <img
-                                            src="../images/programs/1. staff2.png"
-                                        >
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="card w-100 bg-transparent">
-                            <div class="p-0 card-body">
-                                <div class="d-flex justify-content-center">
-                                    <a href="{{url(app()->getLocale(),'getting-involved')}}?program=ambassador#program-selection">
-                                        <img
-                                            src="../images/programs/2. celb.png"
-                                        >
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="card w-100 bg-transparent">
-                            <div class="p-0 card-body">
-                                <div class="d-flex justify-content-center">
-                                    <a href="{{url(app()->getLocale(),'getting-involved')}}?program=diplomats#program-selection">
-                                        <img
-                                            src="../images/programs/3. influlancer.png"
-                                        >
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="card w-100 bg-transparent">
-                            <div class="p-0 card-body">
-                                <div class="d-flex justify-content-center">
                                     <a href="{{url(app()->getLocale(),'getting-involved')}}?program=senators#program-selection">
                                         <img
-                                            src="../images/programs/4. senator.png"
+                                            src="../images/programs/senatorsprogram.jpg"
                                         >
                                     </a>
                                 </div>
@@ -358,7 +326,7 @@
                                 <div class="d-flex justify-content-center">
                                     <a href="{{url(app()->getLocale(),'getting-involved')}}?program=market#program-selection">
                                         <img
-                                            src="../images/programs/5. marketing.png"
+                                            src="../images/programs/marketconsulprogram.jpg"
                                         >
                                     </a>
                                 </div>
@@ -371,7 +339,47 @@
                                 <div class="d-flex justify-content-center">
                                     <a href="{{url(app()->getLocale(),'getting-involved')}}?program=network#program-selection">
                                         <img
-                                            src="../images/programs/6. network.png"
+                                            src="../images/programs/networkconcordatprogram.jpg"
+                                        >
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="card w-100 bg-transparent">
+                            <div class="p-0 card-body">
+                                <div class="d-flex justify-content-center">
+                                    <a href="{{url(app()->getLocale(),'getting-involved')}}?program=ambassador#program-selection">
+                                        <img
+                                            src="../images/programs/ambassadorprogram.jpg"
+                                        >
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="card w-100 bg-transparent">
+                            <div class="p-0 card-body">
+                                <div class="d-flex justify-content-center">
+                                    <a href="{{url(app()->getLocale(),'getting-involved')}}?program=diplomats#program-selection">
+                                        <img
+                                            src="../images/programs/diplomatprogram.jpg"
+                                        >
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {{--
+                    <div class="item">
+                        <div class="card w-100 bg-transparent">
+                            <div class="p-0 card-body">
+                                <div class="d-flex justify-content-center">
+                                    <a href="{{url(app()->getLocale(),'getting-involved')}}?program=senators#program-selection">
+                                        <img
+                                            src="../images/programs/senatorsprogram.jpg"
                                         >
                                     </a>
                                 </div>
@@ -404,6 +412,7 @@
                             </div>
                         </div>
                     </div>
+                    --}}
                 </div>
                 <div class="d-flex justify-content-center">
                     <a class="bg-base-color rounded-circle d-flex justify-content-center align-items-center mr-2 customPrevBtn -mr-1" href="javascript:void(0)" style="width: 30px; height: 30px;">

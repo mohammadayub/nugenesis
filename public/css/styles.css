@@ -113,6 +113,7 @@ body .nav-link:hover {
   color: darkgray;
 }
 
+
 body .dropdown-menu .nav-link {
   color: #7f7f7f !important;
 }
@@ -1072,3 +1073,16 @@ body .bg-color-5 {
   list-style-type: disc;
 }
 /*# sourceMappingURL=styles.css.map */
+
+.btn-group:hover .dropdown-menu{
+    display: block;
+
+}
+
+.dropdown-menu a:hover {
+    background-color: whitesmoke;
+ }
+
+
+
+
