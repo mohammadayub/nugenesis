@@ -114,7 +114,7 @@
                     <div class="card rounded-lg program" id="ambassador_program" data-value="ambassador_program">
                         <div class="card-body py-4">
                             <div class="text-center mb-3">
-                                <img src="../images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50" height="50">
+                                <img src="../images/programs/ambassadorprogram.jpg" alt="" class="rounded-circle" width="50" height="50">
                             </div>
                             <div class="header-sub-text text-center mb-3">
                                 {{__("getting-involved_page_program-selection")['abassador_program']}}
@@ -160,7 +160,7 @@
                     <div class="card rounded-lg program" id="diplomats_program">
                         <div class="card-body py-4">
                             <div class="text-center mb-3">
-                                <img src="../images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50" height="50">
+                                <img src="../images/programs/diplomatprogram.jpg" alt="" class="rounded-circle" width="50" height="50">
                             </div>
                             <div class="header-sub-text text-center mb-3">
                                 {{__("getting-involved_page_diplomats_program")['dimplomat_program']}}
@@ -206,7 +206,7 @@
                     <div class="card rounded-lg program" id="senators_program">
                         <div class="card-body py-4">
                             <div class="text-center mb-3">
-                                <img src="../images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50" height="50">
+                                <img src="../images/programs/senatorsprogram.jpg" alt="" class="rounded-circle" width="50" height="50">
                             </div>
                             <div class="header-sub-text text-center mb-3">
                                 {{__("getting-involved_page_senators_program")['senator_program']}}
@@ -252,7 +252,7 @@
                     <div class="card rounded-lg program" id="market_consuls_program">
                         <div class="card-body py-4">
                             <div class="text-center mb-3">
-                                <img src="../images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50" height="50">
+                                <img src="../images/programs/marketconsulprogram.jpg" alt="" class="rounded-circle" width="50" height="50">
                             </div>
                             <div class="header-sub-text text-center mb-3">
                                 {{__("getting-invovled_page_market_consuls_program")['market_program']}}
@@ -298,7 +298,7 @@
                     <div class="card rounded-lg program" id="network_concordat_program">
                         <div class="card-body py-4">
                             <div class="text-center mb-3">
-                                <img src="../images/Smart-Contract.jpg" alt="" class="rounded-circle" width="50" height="50">
+                                <img src="../images/programs/networkconcordatprogram.jpg" alt="" class="rounded-circle" width="50" height="50">
                             </div>
                             <div class="header-sub-text text-center mb-3">
                                 {{__("getting-invovled_page_network_concordat_program")['network_program']}}

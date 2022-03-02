@@ -40,10 +40,10 @@
         "media": "Media",
         "p1": "With unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented, and virtual reality. The backbone of the metaverse and metarealm.",
         "community_participation": "Community Participation",
-        "get_involved":"Get involved and make your mark?",
-        "nugenesis_community": "Want to become a part of the NuGenesis community?",
+        "get_involved":"Do you want to get involved and make your mark?",
+        "nugenesis_community": "Do you want to become a part of the NuGenesis community?",
         "new_economy": "Want to make a career, profession, or business in the new economy?",
-        "nugenesis_ecosystem": "Check out the opportunities in the NuGenesis ecosystem:",
+        "nugenesis_ecosystem": "Check out the opportunities in the NuGenesis ecosystem here:",
         "p2": "Unlimited scale and speed, the NuGenesis blockchain infrastructure is the substratum for gasless interactive NFTs, augmented and virtual reality. The backbone of the metaverse and metarealm.",
         "close": "Close"
     },
@@ -212,8 +212,8 @@
     "nugenesis":"NuGenesis"
    },
    "media_page_content":{
-       "nugenesis_under_4_minute":"NuGenesis in Under 4 Minutes",
-       "p1":"NuGenesis is the the most advanced blockchain eco-system. We'll help you understand our vision and mission in under 4 Minutes.",
+       "nugenesis_under_4_minute":" NuGenesis in 3 Minutes",
+       "p1":"NuGenesis is the the most advanced blockchain eco-system. We'll help you understand our vision and mission in under 3 Minutes.",
        "the_unveiling":"NuGenesis - The Unveiling",
        "p2":"NuGenesis is finally here. Let us introduce to you the solutions available today, such as LedgerX, hardware, as well as the NuGenesis MetaRealm concept. In this unveiling, we'll also introduce our Team from around the world, including India and Dubai.",
        "p3":"We celebrate the evolution of mankind and show you more insights on the roadmap of NuGenesis technologies. In this unveiling, we dive deeper into the journey and purpose of NuGenesis. Learn about parralel processing capabilities with NuGenesis, allowing uncomparable transactions per second, AI and Security.",
@@ -299,7 +299,7 @@
         "do_have": "Do you have something that will blow our minds?",
         "tech_developer": "Are you Tech Developer?",
         "join_team": "Want to join the Team?",
-        "p1": "Introducing an existing or new blockchain project to the NuGenesis Ecosystem � as a parachain, para network or just wants to be supercharged?",
+        "p1": "Introducing an existing or new blockchain project to the NuGenesis Ecosystem as a parachain, para network or just wants to be supercharged?",
         "get_touch": "Get in touch"
     },
 
