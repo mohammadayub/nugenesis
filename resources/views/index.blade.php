@@ -284,9 +284,9 @@
                     <h4 class="mb-3 text-color-3">
                         <b>{{__("home_page_medias")['community_participation']}}</b>
                     </h4>
-                    <div class="d-flex justify-content-center">
+                    <div class="d-flex justify-content-center" id="adoption_video">
                         <iframe
-                            height="400" width="400"
+                            height="400" width="800"
                             src="https://www.youtube.com/embed/xMcCqJl4QA8">
                         </iframe>
                     </div>
@@ -366,6 +366,19 @@
                                     <a href="{{url(app()->getLocale(),'getting-involved')}}?program=diplomats#program-selection">
                                         <img
                                             src="../images/programs/diplomatprogram.jpg"
+                                        >
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="card w-100 bg-transparent">
+                            <div class="p-0 card-body">
+                                <div class="d-flex justify-content-center">
+                                    <a href="#adoption_video">
+                                        <img
+                                            src="../images/programs/adoptionprogram.jpg"
                                         >
                                     </a>
                                 </div>
