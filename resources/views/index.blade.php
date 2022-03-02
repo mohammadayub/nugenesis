@@ -90,13 +90,13 @@
 
                         <div class="text-color-2">
                             <p>
-                                {{ __('home_page_about')['p1'] }}
+                                {{__("about-us_page_hero")['p1']}}
                             </p>
                             <p>
-                                {{ __('home_page_about')['p2'] }}
+                                {{__("about-us_page_hero")['p2']}}
                             </p>
-                            <p class="mb-5">
-                                {{ __('home_page_about')['p3'] }}
+                            <p>
+                                {{__("about-us_page_hero")['p3']}}
                             </p>
                         </div>
                     </div>
