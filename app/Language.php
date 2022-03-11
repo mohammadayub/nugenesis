@@ -6,7 +6,6 @@ class Language{
          ['name'=>'en','icon'=>'fi fi-au','full_name'=>'English'],
          ['name'=>'ar','icon'=>'fi fi-sa','full_name'=>'Arabic'],
          ['name'=>'de','icon'=>'fi fi-de','full_name'=>'German'],
-         ['name'=>'ja','icon'=>'fi fi-jp','full_name'=>'Japanese'],
          ['name'=>'kr','icon'=>'fi fi-kr','full_name'=>'Korean'],
     ];
     
