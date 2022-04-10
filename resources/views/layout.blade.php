@@ -27,6 +27,7 @@
     <link rel="stylesheet" href="{{asset('/css/owlcarousel/owl.carousel.min.css')}}">
 	<link rel="stylesheet" href="{{asset('/css/owlcarousel/owl.theme.default.min.css')}}">
 
+
 	@if(\App\Language::direction() == 'rtl')
 		<style>
 				 li , p , h5,h2,h3,h1,a{

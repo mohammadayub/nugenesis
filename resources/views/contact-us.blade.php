@@ -46,6 +46,7 @@
                             <div class="dropdown-divider"></div>
                             <a class="pl-2 nav-link"
                             href="{{url(app()->getLocale(),'getting-involved')}}">{{__("toggledropdown")['getting_involved']}}</a>
+                            <a class="pl-2 nav-link active" href="{{url(app()->getLocale(),'opportunities')}}">{{__("toggledropdown")['opportunities']}}</a>
                         </div>
                     </div>
                 </li>
@@ -87,6 +88,7 @@
                                 <div class="dropdown-divider"></div>
                                 <a class="pl-2 nav-link"
                                 href="{{url(app()->getLocale(),'getting-involved')}}">{{__("toggledropdown")['getting_involved']}}</a>
+                                <a class="pl-2 nav-link active" href="{{url(app()->getLocale(),'opportunities')}}">{{__("toggledropdown")['opportunities']}}</a>
                             </div>
                         </div>
                     </li>

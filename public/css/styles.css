@@ -113,7 +113,6 @@ body .nav-link:hover {
   color: darkgray;
 }
 
-
 body .dropdown-menu .nav-link {
   color: #7f7f7f !important;
 }
@@ -136,6 +135,10 @@ body .text-color-3 {
 
 body .text-color-4 {
   color: #000D37;
+}
+
+body .text-color-5 {
+  color: #203f66;
 }
 
 body .bg-color-1 {
@@ -1072,17 +1075,82 @@ body .bg-color-5 {
 #general-terms-and-conditions #content ul {
   list-style-type: disc;
 }
-/*# sourceMappingURL=styles.css.map */
 
-.btn-group:hover .dropdown-menu{
-    display: block;
-
+#opportunities #header {
+  background-image: url("../images/bg-navigation bar.png");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
-.dropdown-menu a:hover {
-    background-color: whitesmoke;
- }
+@media (max-width: 991px) {
+  #opportunities #header {
+    background-size: auto 100% !important;
+  }
+}
 
+#opportunities #intro .coin-right {
+  right: -170px;
+  top: 0px;
+}
 
+@media (max-width: 991px) {
+  #opportunities #intro .coin-right {
+    display: none;
+  }
+}
 
+#opportunities #content {
+  background-image: url("../images/opportunities/Background.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
 
+#opportunities #content .coin-left {
+  left: -170px;
+  top: 150px;
+}
+
+@media (max-width: 991px) {
+  #opportunities #content .coin-left {
+    display: none;
+  }
+}
+
+#opportunities #content #cards p {
+  line-height: 1.5;
+}
+
+#opportunities #content #cards a {
+  color: black !important;
+}
+
+#opportunities #content #cards .card {
+  border-radius: 10px !important;
+  height: 662px !important;
+}
+
+#opportunities #content #cards .card.card-1 {
+  background-image: url("../images/opportunities/01.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#opportunities #content #cards .card.card-2 {
+  background-image: url("../images/opportunities/02.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#opportunities #content #cards .card.card-2 .position-absolute {
+  bottom: 0px;
+}
+
+#opportunities #content #cards .card.card-3 {
+  background-image: url("../images/opportunities/03.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+/*# sourceMappingURL=styles.css.map */
