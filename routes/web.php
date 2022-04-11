@@ -62,4 +62,8 @@ Route::get('/general-terms-condition',function(){
     return view('general-terms-condition');
 });
 
+Route::get('/opportunities',function(){
+    return view('opportunities');
+});
+
 });

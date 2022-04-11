@@ -740,7 +740,8 @@
     "toggledropdown": {
         "projects": "프로젝트",
         "media": "미디어",
-        "getting_involved": "구경하고 참여하기"
+        "getting_involved": "구경하고 참여하기",
+        "opportunities":"opportunities"
     },
 
     "trans_link": {
@@ -764,5 +765,19 @@
         "network_concordat_program_deed": "en/네트워크 협약 프로그램/02 네트워크 협약 증서.docx",
         "network_concordat_program_performance": "en/네트워크 협약 프로그램/03 네트워크 협약 업무 계획.docx",
         "network_concordat_program_online_application": "en/네트워크 협약 프로그램/온라인 신청 양식.docx"
+    },
+    "opportunities_page_content":{
+
+        "be_super":"Be a Super Staker,",
+        "market_maker":"Market Maker",
+        "p1":"With NuGenesis' Smart Contract Security, we take staking to a whole new level!",
+        "p2":"The higher the tier, the greater the reward!",
+        "build_advance":"Build Advanced Solutions of Tomorrow, Today",
+        "p3":"The NuGenesis platform offers you the opportunity to explore endless possibilities!",
+        "join":"Join the NuGenesis Community",
+        "p4":"You have the opportunity today to take an active part in the shaping of the NuGenesis ecosystem. Grow and Earn with NuGenesis!",
+        "send_email":"To get started, send an email to",
+        "p5":"if you would like to benefit from our amazing opportunities."
+
     }
 }

@@ -104,7 +104,7 @@ body {
   }
 
   .nav-link {
-     color: whitesmoke;
+    color: whitesmoke;
   }
 
   .nav-link:hover {
@@ -135,6 +135,10 @@ body {
 
   .text-color-4 {
     color: #000D37;
+  }
+
+  .text-color-5 {
+    color: #203f66;
   }
 
   // accent color
@@ -883,17 +887,13 @@ body {
     z-index: 100 !important;
   }
 
-
   .nav-link {
     color: whitesmoke !important;
   }
 
-
-
   .nav-link.dropdown {
     color: #838678 !important;
   }
-
 
   #hero {
     margin-bottom: 200px !important;
@@ -1066,6 +1066,92 @@ body {
   #content {
     ul {
       list-style-type: disc;
+    }
+  }
+}
+
+#opportunities {
+
+  #header {
+    background-image: url("../images/bg-navigation\ bar.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    @media (max-width: 991px) {
+      background-size: auto 100% !important;
+    }
+  }
+
+  #intro {
+
+    .coin-right {
+      right: -170px;
+      top: 0px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+  }
+
+  #content {
+
+    background-image: url("../images/opportunities/Background.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+    .coin-left {
+      left: -170px;
+      top: 150px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+
+    #cards {
+
+      p {
+        line-height: 1.5;
+      }
+
+      a {
+        color: black !important;
+      }
+
+      .card {
+        border-radius: 10px !important;
+        height: 662px !important;
+
+        &.card-1 {
+
+          background-image: url("../images/opportunities/01.png");
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+        }
+
+        &.card-2 {
+
+          background-image: url("../images/opportunities/02.png");
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+
+          .position-absolute {
+
+            bottom: 0px;
+          }
+        }
+
+        &.card-3 {
+
+          background-image: url("../images/opportunities/03.png");
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+        }
+      }
     }
   }
 }
