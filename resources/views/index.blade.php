@@ -317,7 +317,7 @@
             </div>
             <div class="mb-4 community-participation-cards container-fluid">
                 <div class="row">
-                    <div class="col-sm col-12 col-md">
+                    <div class="col-sm col-12 mt-5">
                         <div class="card bg-transparent">
                             <div class="p-0 card-body">
                                 <div class="d-flex justify-content-center">
@@ -328,7 +328,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm col-12">
+                    <div class="col-sm col-12 mt-5">
 
                         <div class="card bg-transparent">
                             <div class="p-0 card-body">
@@ -343,7 +343,7 @@
                         </div>
 
                     </div>
-                    <div class="col-sm col-12">
+                    <div class="col-sm col-12 mt-5">
 
                         <div class="card bg-transparent">
                             <div class="p-0 card-body">
@@ -358,7 +358,7 @@
                         </div>
 
                     </div>
-                    <div class="col-sm col-12">
+                    <div class="col-sm col-12 mt-5">
                         <div class="card bg-transparent">
                             <div class="p-0 card-body">
                                 <div class="d-flex justify-content-center">
@@ -371,7 +371,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm col-12">
+                    <div class="col-sm col-12 mt-5">
 
                         <div class="card bg-transparent">
                             <div class="p-0 card-body">

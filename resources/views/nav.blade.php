@@ -9,16 +9,14 @@
     </button>
     <ul class="navbar-nav d-none d-lg-flex font-weight-bold">
         <li class="mr-3 nav-item">
-            <a class="nav-link" href="https://nucoin.com.au/">{{__("nav")['nucoin']}}</a>
+            <a class="nav-link" href="https://nucoin.com.au/" target="_blank">{{__("nav")['nucoin']}}</a>
+        </li>
+
+        <li class="mr-3 nav-item">
+            <a class="nav-link" href="https://explorer.nucoin.com.au/" target="_blank">{{__("nav")['explorer']}}</a>
         </li>
         <li class="mr-3 nav-item">
-            <a class="nav-link" href="https://justsocial.tech/">{{__("nav")['just_social']}}</a>
-        </li>
-        <li class="mr-3 nav-item">
-            <a class="nav-link" href="https://explorer.nucoin.com.au/">{{__("nav")['explorer']}}</a>
-        </li>
-        <li class="mr-3 nav-item">
-            <a class="nav-link" href="https://ledgerx.exchange/">{{__("nav")['nucoin_ledgerx']}}</a>
+            <a class="nav-link" href="https://ledgerx.exchange/" target="_blank">{{__("nav")['nucoin_ledgerx']}}</a>
         </li>
         <li class="mr-3 nav-item">
             <a class="nav-link" href="https://nugenesisou.myshopify.com/">{{__("nav")['shop']}}</a>
@@ -47,16 +45,13 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="ml-auto navbar-nav font-weight-bold">
             <li class="nav-item d-block d-lg-none">
-                <a class="nav-link" href="https://nucoin.com.au/">{{__("nav")['nucoin']}}</a>
+                <a class="nav-link" href="https://nucoin.com.au/" target="_blank">{{__("nav")['nucoin']}}</a>
             </li>
             <li class="nav-item d-block d-lg-none">
-                <a class="nav-link" href="https://justsocial.tech/">{{__("nav")['just_social']}}</a>
+                <a class="nav-link" href="https://explorer.nucoin.com.au/"  target="_blank">{{__("nav")['explorer']}}</a>
             </li>
             <li class="nav-item d-block d-lg-none">
-                <a class="nav-link" href="https://explorer.nucoin.com.au/">{{__("nav")['explorer']}}</a>
-            </li>
-            <li class="nav-item d-block d-lg-none">
-                <a class="nav-link" href="https://ledgerx.exchange/">{{__("nav")['nucoin_ledgerx']}}</a>
+                <a class="nav-link" href="https://ledgerx.exchange/"  target="_blank">{{__("nav")['nucoin_ledgerx']}}</a>
             </li>
             <li class="nav-item d-block d-lg-none">
                 <a class="nav-link" href="https://nugenesisou.myshopify.com/">{{__("nav")['shop']}}</a>

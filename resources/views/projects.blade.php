@@ -518,11 +518,7 @@
                                 <b>{{__("some_page_general_footer")['media']}}</b>
                             </a>
                         </div>
-                        <div>
-                            <a href="{{url(app()->getLocale(),'team')}}" class="text-color-4">
-                                <b>{{__("some_page_general_footer")['team']}}</b>
-                            </a>
-                        </div>
+                      
                     </div>
                     <div>
                         <div>
