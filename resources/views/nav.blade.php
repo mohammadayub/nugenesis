@@ -7,6 +7,7 @@
             {{__("nav")['menu']}}
         </span>
     </button>
+
     <ul class="navbar-nav d-none d-lg-flex font-weight-bold">
         <li class="mr-3 nav-item">
             <a class="nav-link" href="https://nucoin.com.au/" target="_blank">{{__("nav")['nucoin']}}</a>
@@ -23,19 +24,19 @@
         </li>
         <li class="mr-3 nav-item">
             <div class="btn-group">
-                <a href="{{url(app()->getLocale(),'about-us')}}" class="bg-transparent border-0 btn btn-primary nav-link btn-no-ring font-weight-bold">{{__("nav")['about_us']}}</a>
+                <a href="{{url(app()->getLocale(),'about-us')}}" class="bg-transparent border-0 btn btn-primary nav-link btn-no-ring font-weight-bold">{{__("nav")['about_us']}} </a>
                 <a class="bg-transparent border-0 btn btn-primary nav-link btn-no-ring font-weight-bold dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-reference="parent">
                   <span class="sr-only">Toggle Dropdown</span>
                 </a>
                 <div class="p-2 border-0 shadow-lg dropdown-menu">
-                    <a class="pl-2 nav-link" href="{{url(app()->getLocale(),'projects')}}">{{__("toggledropdown")['projects']}}</a>
+                    <a class="pl-2 nav-link {{ Request::is('*projects*') ? 'active' : '' }}" href="{{url(app()->getLocale(),'projects')}}">{{__("toggledropdown")['projects']}}</a>
                     <div class="dropdown-divider"></div>
                     <!-- <a class="pl-2 nav-link" href="industries.html">Industries <small>(more info coming soon)</small></a>
                     <div class="dropdown-divider"></div> -->
-                    <a class="pl-2 nav-link" href="{{url(app()->getLocale(),'media')}}">{{__("toggledropdown")['media']}}</a>
+                    <a class="pl-2 nav-link {{ Request::is('*media*') ? 'active' : '' }}" href="{{url(app()->getLocale(),'media')}}">{{__("toggledropdown")['media']}}</a>
                     <div class="dropdown-divider"></div>
-                    <a class="pl-2 nav-link" href="{{url(app()->getLocale(),'getting-involved')}}">{{__("toggledropdown")['getting_involved']}}</a>
-                    <a class="pl-2 nav-link active" href="{{url(app()->getLocale(),'opportunities')}}">{{__("toggledropdown")['opportunities']}}</a>
+                    <a class="pl-2 nav-link {{ Request::is('*getting-involved*') ? 'active' : '' }}" href="{{url(app()->getLocale(),'getting-involved')}}">{{__("toggledropdown")['getting_involved']}}</a>
+                    <a class="pl-2 nav-link {{ Request::is('*opportunities*') ? 'active' : '' }}" href="{{url(app()->getLocale(),'opportunities')}}">{{__("toggledropdown")['opportunities']}}</a>
                 </div>
             </div>
         </li>
