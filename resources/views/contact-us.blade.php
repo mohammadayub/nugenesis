@@ -59,9 +59,7 @@
                     <li class="nav-item d-block d-lg-none">
                         <a class="nav-link" href="https://nucoin.com.au/">{{__("nav")['nucoin']}}</a>
                     </li>
-                    <li class="nav-item d-block d-lg-none">
-                        <a class="nav-link" href="https://justsocial.tech/">{{__("nav")['just_social']}}</a>
-                    </li>
+            
                     <li class="nav-item d-block d-lg-none">
                         <a class="nav-link" href="https://explorer.nucoin.com.au/">{{__("nav")['explorer']}}</a>
                     </li>
